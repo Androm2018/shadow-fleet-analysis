@@ -1,0 +1,9 @@
+
+# Raw DMA AIS data — re-download from aisdata.ais.dk
+aisdk-*.csv
+aisdk-*.zip
+aisdk_*.csv
+aisdk_*.zip
+
+# Large derived datasets — regenerate via filter_extended.py
+extended_transits.csv
