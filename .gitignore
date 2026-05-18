@@ -7,3 +7,29 @@ aisdk_*.zip
 
 # Large derived datasets — regenerate via filter_extended.py
 extended_transits.csv
+
+# Vessel images — too large for the repo, reproducible via scrape scripts
+vessel_images/IMO_*/
+vessel_images/*.jpg
+vessel_images/*.zip
+vessel_images.zip
+vessel_images.zip.part_*
+
+# Diagnostic / one-off scripts
+diagnose_commons.py
+
+# YouTube cookies — security risk if committed
+youtube.com_cookies.txt
+youtube_cookies.txt
+*cookies.txt
+
+# Downloaded video files — too large, reproducible via scrape scripts
+vessel_images/IMO_*/youtube/video_*.mp4
+vessel_images/IMO_*/youtube/*.mp4
+vessel_images/IMO_*/youtube/*.webm
+
+# YouTube thumbnails (optional — comment out if you want them tracked)
+# vessel_images/IMO_*/youtube/yt_*.jpg
+
+# Test files
+test_video.*
