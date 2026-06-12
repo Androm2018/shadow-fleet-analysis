@@ -33,3 +33,10 @@ vessel_images/IMO_*/youtube/*.webm
 
 # Test files
 test_video.*
+cookies.txt
+*cookies*
+subset-*.csv
+mmsi_patterns.txt
+*.log
+extended_transits_q1_2026_validated_*.csv
+ne_coastline.geojson

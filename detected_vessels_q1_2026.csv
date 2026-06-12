@@ -1,0 +1,256 @@
+MMSI,pings,days_detected,first_seen,last_seen,name_ais,zones,sog_mean,sog_max,gur_name,gur_imo,gur_flag,gur_vessel_type,gur_build_year,gur_gur_id
+273273930,124767,16,2026-01-15 17:33:43,2026-03-22 02:07:11,ONEGA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,9.6,28.5,1089,9384459,russian federation,Chemical/Oil Products Tanker,2010,806
+422000125,114787,30,2026-02-18 09:12:30,2026-03-31 23:57:59,NORA,Great_Belt|Kattegat|Skagen,14.1,17.1,233,9259408,Iran,Container Ship,2003,1268
+304183000,111626,11,2026-01-01 00:02:10,2026-03-17 07:31:52,RAINBOW,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.0,15.7,1406,9302126,,,,
+273272930,103351,17,2026-02-07 00:40:55,2026-03-31 02:52:14,BELOMOR,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.1,14.4,1210,9384435,russian federation,Chemical/Oil Products Tanker,2008,1022
+667002291,82177,10,2026-01-14 07:07:26,2026-03-25 18:20:27,CETUS,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.5,16.5,917,9418482,Sierra Leone,Crude Oil Tanker,2009,492
+311001104,80413,10,2026-01-01 00:00:07,2026-03-06 05:20:09,MT DUMBLEDORE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.9,14.9,1265,9325611,Bahamas,Oil Products Tanker,2007,1175
+461000239,74575,7,2026-01-13 06:46:12,2026-03-22 08:01:29,DISCOVERY,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Origin_Kaliningrad|Skagen,13.8,98.7,838,9316127,Oman,Crude Oil Tanker,2007,329
+667002240,70939,10,2026-01-01 00:00:04,2026-03-28 07:50:49,BULLAR,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.0,15.3,949,9389679,Sierra Leone,Crude Oil Tanker,2800,538
+273254770,69880,10,2026-01-03 02:15:17,2026-02-22 09:24:25,PIONEER,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.8,13.8,1155,9255282,russian federation,Chemical/Oil Products Tanker,2004,944
+613400212,69427,8,2026-01-04 04:05:47,2026-03-24 05:58:01,ECHO,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Origin_Kaliningrad|Skagen,11.6,102.2,999,9276030,Cameroon,Chemical/Oil Products Tanker,2004,624
+613661400,69205,10,2026-01-21 06:23:54,2026-03-22 03:20:49,MONTE 1,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.1,19.1,1236,9297553,Cameroon,Crude Oil Tanker,2006,1054
+613004310,67873,12,2026-01-31 16:34:01,2026-03-30 10:12:16,BREEZE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.0,14.7,840,9305568,Cameroon,Crude Oil Tanker,2005,331
+577678000,67061,9,2026-01-29 20:07:03,2026-03-18 14:41:32,MARJORIE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,8.9,14.3,1271,9296377,Vanuatu,Crude Oil Tanker,2006,1188
+613572604,66980,8,2026-01-25 15:35:55,2026-03-17 19:04:15,RIGEL,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.0,14.5,879,9296406,Cameroon,Crude Oil Tanker,2006,434
+273267690,66859,9,2026-01-11 17:10:42,2026-03-31 10:27:46,ARIA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.5,15.4,1023,9397559,russian federation,Chemical/Oil Products Tanker,2008,681
+352001883,66806,7,2026-01-30 07:51:07,2026-03-29 12:09:00,DUKE II,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,9.2,13.8,1336,9254240,Panama,Crude Oil Tanker,2003,1312
+314845000,66568,8,2026-01-09 14:23:50,2026-03-18 16:17:19,ROCK,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.7,14.5,4,9288356,Barbados,Crude Oil Tanker,2005,1535
+352005443,66475,8,2026-02-13 14:56:46,2026-03-25 22:31:32,MIGJORN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.1,15.6,1319,9438406,Panama,Crude Oil Tanker,2009,1241
+229659000,65201,8,2026-03-05 03:32:21,2026-03-26 04:25:55,VEZHEN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,9.4,12.7,1413,9937270,,,,
+613007420,63270,9,2026-01-13 20:02:36,2026-03-21 06:06:31,CHIOS,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.4,14.5,624,9231509,Cameroon,Crude Oil Tanker,2002,525
+273276930,62249,7,2026-01-11 04:48:32,2026-03-07 09:15:38,ALMOND,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.0,14.1,1013,9385142,russian federation,Chemical/Oil Products Tanker,2009,665
+667001270,61846,8,2026-01-15 16:39:11,2026-03-25 06:23:00,ASTRAL,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.4,13.5,922,9274800,Sierra Leone,Crude Oil Tanker,2004,498
+273271630,58998,6,2026-01-04 15:09:00,2026-03-22 22:31:20,UNIVERSAL,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.5,14.4,1056,9384306,russian federation,Chemical/Oil Products Tanker,2009,746
+273271850,58937,11,2026-01-07 22:16:16,2026-03-13 12:41:06,PLUTON,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.7,16.0,876,9288746,russian federation,Crude Oil Tanker,2005,431
+352005301,57738,7,2026-01-15 10:20:56,2026-03-13 19:18:23,DOVE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.0,15.4,1275,9297541,Panama,Crude Oil Tanker,2006,1192
+636018682,57256,6,2026-01-01 22:07:44,2026-01-17 14:43:17,ALEXANDER,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.4,13.6,1357,9826720,Liberia,Crude Oil Tanker,2018,1464
+314001139,56526,6,2026-01-09 08:56:12,2026-02-18 21:40:45,ORYX,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.6,23.9,1140,9250737,Barbados,Crude Oil Tanker,2003,917
+538004215,56264,7,2026-01-31 02:40:49,2026-03-21 07:20:37,CHRYSTAL SKY,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.8,23.0,6,9334569,Marshall Islands,Oil Products Tanker,2008,1522
+352003390,54421,7,2026-01-22 11:42:12,2026-03-30 05:43:15,SINO PROSPERITY,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.7,16.0,1411,9328132,,,,
+304201000,54266,7,2026-01-17 20:16:50,2026-03-26 23:09:00,SUNRISE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.9,16.3,1337,9279719,Antigua and Barbuda,Oil Products Tanker,2004,1313
+273257120,54103,7,2026-01-14 12:26:49,2026-03-25 17:57:32,MELITO CARRIER,Bornholm_North|Kattegat|Oresund|Skagen,11.4,14.2,1314,8920581,russian federation,Chemical/Oil Products Tanker,1993,1236
+613469620,53645,9,2026-01-09 12:34:51,2026-03-29 01:44:28,RORA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,9.9,13.3,860,9288722,Cameroon,Crude Oil Tanker,2005,410
+352003487,52897,5,2026-02-03 22:01:08,2026-02-15 22:05:15,SINO SOURCE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.0,13.2,1409,9350850,,,,
+352002931,52847,8,2026-01-09 22:48:51,2026-03-21 19:40:57,SINO FAITH,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.3,14.4,1408,9375575,,,,
+273257370,52574,6,2026-03-09 16:34:48,2026-03-24 18:51:48,IVAN AIVAZOVSKY,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Origin_Kaliningrad|Skagen,12.8,52.7,1025,9876359,russian federation,Chemical/Oil Products Tanker,2025,684
+613321600,51688,7,2026-01-03 05:30:20,2026-03-20 16:51:07,LUMIN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.0,15.2,1099,9330599,Cameroon,Crude Oil Tanker,2006,850
+273611590,51255,6,2026-02-24 19:04:33,2026-03-09 16:43:06,VOSTOCHNY PROSPECT,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.6,14.2,998,9866392,russian federation,Crude Oil Tanker,2023,623
+667001378,51214,7,2026-01-05 20:38:24,2026-03-20 12:07:21,PROMETEI,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.2,15.9,1113,9296597,Sierra Leone,Oil Products Tanker,2005,872
+273272850,51150,8,2026-01-14 07:51:28,2026-03-24 15:05:30,GEFEST,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.9,14.5,873,9319882,russian federation,Crude Oil Tanker,2007,428
+249182000,49359,6,2026-02-21 16:20:18,2026-03-04 08:23:46,NORTHERNLIGHT,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.3,15.4,1291,9577123,Malta,Crude Oil Tanker,2012,1210
+613710000,49296,6,2026-02-27 17:14:28,2026-03-22 15:57:36,MELITE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.7,12.6,856,9288710,Cameroon,Crude Oil Tanker,2005,406
+667002004,48700,3,2026-01-15 01:33:53,2026-03-31 23:59:50,GARASAN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.4,14.4,960,9323986,Sierra Leone,Crude Oil Tanker,2007,556
+273277060,47947,5,2026-03-08 06:09:07,2026-03-20 14:16:07,JAGGER,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.9,14.0,870,9354301,russian federation,Crude Oil Tanker,2008,425
+461000282,47753,7,2026-01-11 03:12:45,2026-01-29 05:09:27,QASR,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,9.9,14.4,830,9402471,Oman,Crude Oil Tanker,2009,275
+667001255,47382,5,2026-01-11 09:16:33,2026-02-14 10:20:13,CENTURION,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,8.7,13.8,1131,9380673,Sierra Leone,Crude Oil Tanker,2008,905
+511101926,46834,9,2026-02-04 23:40:26,2026-03-27 02:30:48,MARVEN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.4,16.1,1365,9305556,unknown,Crude Oil Tanker,2005,1483
+667001645,46566,5,2026-02-06 01:16:45,2026-02-20 04:35:09,URIEL,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.5,13.9,1301,9336517,Sierra Leone,Oil Products Tanker,2007,1223
+613414602,46190,5,2026-02-24 13:16:47,2026-03-14 19:06:30,BLUE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.3,14.3,965,9236353,Cameroon,Crude Oil Tanker,2003,565
+352002521,46038,6,2026-02-10 00:12:34,2026-02-24 11:54:23,VOLTA RIVER,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,9.5,14.6,379,9336414,Marshall Islands,Crude Oil Tanker,2007,563
+352002251,45923,4,2026-03-02 09:41:28,2026-03-14 23:06:05,LXH,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.2,14.1,1284,9274525,Panama,Crude Oil Tanker,2004,1202
+667002359,45790,5,2026-03-08 07:21:55,2026-03-21 00:55:36,NACHOS,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.3,14.5,1066,9330604,Sierra Leone,Crude Oil Tanker,2007,777
+273414440,45244,5,2026-01-19 04:24:05,2026-03-07 01:04:34,ADLER,Bornholm_North|Kattegat|Oresund|Skagen,8.9,12.8,12,9179854,russian federation,Ro-Ro Cargo Ship,1998,1
+613419901,45125,6,2026-03-16 16:02:29,2026-03-30 08:32:04,WALRUS,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,13.2,14.6,1004,9297888,Cameroon,Crude Oil Tanker,2006,639
+667001243,45078,4,2026-02-22 15:18:32,2026-03-16 14:53:01,PRISMA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,13.2,15.5,1232,9299678,Sierra Leone,Crude Oil Tanker,2005,1050
+461000258,45036,6,2026-03-07 22:14:33,2026-03-28 06:32:53,JASMINE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.3,15.2,825,9354313,Oman,Crude Oil Tanker,2008,270
+374987000,44582,6,2026-01-05 08:59:11,2026-03-23 03:33:55,JEWEL,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.5,14.3,1270,9419450,Panama,Crude Oil Tanker,2010,1187
+273259630,44265,5,2026-01-31 09:03:56,2026-02-13 18:19:28,SAKHALIN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.2,13.7,800,9249128,russian federation,Crude Oil Tanker,2004,162
+667002211,44110,7,2026-01-03 19:10:44,2026-03-25 20:00:46,MARS 6,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.8,14.4,1100,9384992,Sierra Leone,Crude Oil Tanker,2007,851
+352002167,44065,7,2026-02-09 08:37:55,2026-02-20 05:10:19,VIRENT,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.5,12.8,1075,9332171,Panama,Chemical/Oil Products Tanker,2007,791
+511101857,43588,4,2026-01-10 08:32:56,2026-03-26 20:53:59,STORMBRINGER,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.7,15.9,1363,9290397,Palau,Crude Oil Tanker,2005,1481
+667001321,43478,5,2026-03-02 12:39:02,2026-03-24 03:20:47,ARABESCA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.3,14.3,952,9288734,Sierra Leone,Crude Oil Tanker,2005,543
+574004200,43440,6,2026-02-24 07:30:53,2026-03-11 07:19:30,TM HAI HA 568,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.3,11.9,448,9274082,Vietnam,Chemical/Oil Products Tanker,2004,1125
+352146000,43296,5,2026-01-15 08:46:55,2026-01-31 08:55:47,OCEAN WAVE I,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.2,15.9,1343,9356763,Panama,Crude Oil Tanker,2008,1329
+632001155,43241,5,2026-01-22 02:27:59,2026-02-03 23:35:41,AETHER,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.4,14.8,1074,9328170,unknown,Crude Oil Tanker,2007,790
+667002072,43212,5,2026-02-01 08:36:55,2026-02-25 18:59:28,OSANA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.8,14.0,815,9394935,Sierra Leone,Crude Oil Tanker,2008,259
+352179000,43089,6,2026-01-31 10:56:35,2026-02-15 11:19:48,HORAE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.1,11.9,1082,9413004,unknown,Crude Oil Tanker,2009,799
+314001147,42971,6,2026-02-01 11:01:50,2026-02-16 23:25:13,COSMO SAIL,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.2,14.0,11,9318096,Barbados,Crude Oil Tanker,2007,1501
+667002336,42828,5,2026-01-31 02:19:22,2026-02-16 09:04:05,PIERRE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.4,13.7,428,9266877,Sierra Leone,Crude Oil Tanker,2004,1033
+273258030,42503,6,2026-02-05 10:45:53,2026-02-20 09:08:44,NEVSKIY PROSPECT,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.7,15.5,801,9256054,russian federation,Crude Oil Tanker,2003,163
+352004858,42354,6,2026-02-25 19:00:45,2026-03-08 04:42:13,AUTAN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,9.8,13.4,1320,9396763,Panama,Chemical/Oil Products Tanker,2009,1242
+667001290,42094,5,2026-01-18 21:10:10,2026-03-24 22:18:28,NILANGA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.9,13.8,1276,9412452,Sierra Leone,Crude Oil Tanker,2010,1193
+352002243,41673,4,2026-01-28 01:25:02,2026-02-07 20:24:43,ANIKA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.2,13.8,954,9417464,unknown,Crude Oil Tanker,2009,548
+667001248,41305,6,2026-03-01 16:58:43,2026-03-20 06:52:37,FURIA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.5,13.5,635,9257802,Sierra Leone,Crude Oil Tanker,2002,568
+273413440,41051,6,2026-01-01 18:58:12,2026-02-26 19:26:40,SPARTA IV,Bornholm_South|Great_Belt|Kattegat|Skagen,9.9,13.2,41,9743033,russian federation,General cargo ship,2018,214
+273279830,40948,9,2026-01-19 10:27:14,2026-03-19 05:37:12,BARENTS,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.5,13.6,1197,9384447,russian federation,Chemical/Oil Products Tanker,2009,1009
+273292160,40731,4,2026-01-07 04:31:58,2026-01-18 11:56:34,LADY MARIIA,Bornholm_North|Kattegat|Oresund|Skagen,8.9,11.0,25,9220641,russian federation,Ro-Ro Cargo Ship,2000,65
+352004029,40632,3,2026-01-15 10:42:32,2026-01-17 10:20:00,KASTOS I,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.2,13.6,1345,9282297,Panama,Crude Oil Tanker,2004,1332
+461000234,40581,6,2026-01-06 13:47:13,2026-01-29 02:38:56,BOBCAT,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.3,14.6,852,9422457,Oman,Crude Oil Tanker,2010,402
+636022825,40563,5,2026-03-17 02:21:56,2026-03-25 14:47:33,MILANO,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.4,68.1,1165,9286059,Liberia,Chemical/Oil Products Tanker,2005,960
+636023192,40530,6,2026-02-06 22:11:58,2026-02-19 08:48:34,ANNA MARIA P,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,8.7,13.9,1340,9288368,Liberia,Oil Products Tanker,2005,1316
+667001611,40382,4,2026-02-18 10:38:28,2026-03-07 19:10:06,BAI LU,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.2,15.6,892,9388780,Sierra Leone,Crude Oil Tanker,2009,458
+613277601,40078,5,2026-01-16 12:33:07,2026-02-07 13:30:50,SPRING FORTUNE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.6,14.2,994,9386536,Cameroon,Crude Oil Tanker,2009,618
+629009576,39567,5,2026-02-26 08:43:35,2026-03-08 12:47:16,YORIK,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.7,15.3,1330,9183843,Gambia,Chemical/Oil Products Tanker,2000,1295
+667002335,39522,5,2026-01-24 04:21:22,2026-02-11 07:36:05,REUS,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.2,13.1,931,9253076,Sierra Leone,Crude Oil Tanker,2003,508
+667002024,39180,5,2026-02-17 16:02:09,2026-03-04 01:32:16,NAGARJUNA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.3,15.8,863,9299733,Sierra Leone,Crude Oil Tanker,2006,414
+667002360,39098,6,2026-02-11 15:23:10,2026-03-05 10:05:45,MIRES,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.6,14.6,983,9299771,Sierra Leone,Crude Oil Tanker,2005,607
+613427200,39014,4,2026-01-11 13:43:23,2026-01-26 22:17:31,BLUE TALU,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.8,13.2,1136,9334557,Cameroon,Oil Products Tanker,2007,910
+667002308,39005,6,2026-02-11 10:58:52,2026-02-23 04:16:53,MIKATI,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.3,13.6,884,9250892,Sierra Leone,Crude Oil Tanker,2003,445
+636017134,38631,6,2026-02-28 21:26:35,2026-03-18 05:59:19,CHRYSALIS,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.3,16.0,1360,9437684,Liberia,Crude Oil Tanker,2010,1472
+667001252,38575,5,2026-01-31 09:45:12,2026-02-10 11:11:51,WU TAI,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.6,14.5,1213,9419151,Sierra Leone,Crude Oil Tanker,2010,1026
+667001798,38218,6,2026-02-05 19:58:47,2026-03-05 10:19:03,KARTHA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,9.8,12.9,862,9317949,Sierra Leone,Crude Oil Tanker,2007,413
+511100897,38204,5,2026-02-20 18:14:35,2026-03-11 05:30:16,JAMES II,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,9.1,13.3,1220,9253909,unknown,Crude Oil Tanker,2002,1034
+574005510,37909,5,2026-01-11 20:54:08,2026-01-24 23:26:20,NERO,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.7,12.8,835,9374868,Vietnam,Crude Oil Tanker,2007,302
+352005486,37852,7,2026-01-01 00:00:03,2026-03-31 20:52:59,TIGER 6,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.1,14.9,1280,9389083,Panama,Crude Oil Tanker,2009,1198
+461000260,37757,5,2026-02-27 13:51:29,2026-03-14 10:20:23,ZALIV VOSTOK,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.2,15.0,1015,9360130,Oman,Crude Oil Tanker,2009,672
+667002337,37700,5,2026-01-14 06:53:08,2026-02-03 07:01:29,ODUNE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.0,15.0,902,9229374,Sierra Leone,Crude Oil Tanker,2002,475
+273279660,36997,6,2026-02-25 20:01:55,2026-03-10 03:02:26,VULKAN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.1,12.8,867,9297371,russian federation,Crude Oil Tanker,2006,422
+273276060,36872,5,2026-02-07 01:33:03,2026-03-21 02:38:56,PEGASUS,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,18.3,102.2,1043,9276028,russian federation,Chemical/Oil Products Tanker,2004,718
+667002314,36748,6,2026-02-24 20:28:24,2026-03-16 14:54:17,ARLAN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.5,14.0,378,9227443,Sierra Leone,Crude Oil Tanker,2002,551
+273254130,36721,6,2026-03-09 17:57:04,2026-03-24 14:24:01,LITEYNY PROSPECT,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.1,14.7,802,9256078,russian federation,Crude Oil Tanker,2003,164
+273251810,36639,5,2026-01-26 08:48:48,2026-02-09 11:54:39,LIGOVSKY PROSPECT,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.0,14.1,807,9256066,russian federation,Crude Oil Tanker,2003,184
+613961020,36467,6,2026-01-12 21:46:35,2026-02-06 10:13:16,AQUA TITAN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.5,14.3,894,9332781,Cameroon,Crude Oil Tanker,2006,460
+613271403,36428,4,2026-01-23 17:16:53,2026-02-01 23:59:08,DALVA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.4,13.6,930,9378620,Cameroon,Crude Oil Tanker,2008,507
+613661401,36415,6,2026-02-26 20:09:11,2026-03-17 09:19:24,OCEAN II,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.4,14.1,1283,9233777,Cameroon,Crude Oil Tanker,2003,1201
+352002241,36308,5,2026-01-18 02:17:01,2026-01-31 00:00:01,ONEIROI,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.5,13.2,1080,9390587,Panama,Crude Oil Tanker,2008,797
+525121002,36254,6,2026-02-13 23:05:35,2026-02-27 12:01:56,NUSA MERDEKA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.6,15.4,1370,9249178,Indonesia,Crude Oil Tanker,2003,1507
+352005354,36210,5,2026-02-13 10:34:26,2026-03-02 00:03:47,TANGO 2,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.3,15.6,1279,9389071,Panama,Crude Oil Tanker,2009,1197
+667001301,36159,5,2026-02-20 09:48:28,2026-03-07 08:31:31,SANDHYA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.6,14.5,1093,9352195,Cameroon,Chemical/Oil Products Tanker,2007,813
+667002070,35978,6,2026-01-25 14:18:00,2026-02-08 15:03:39,KOUSAI,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.1,14.1,857,9285835,Sierra Leone,Crude Oil Tanker,2005,407
+667001245,35976,3,2026-01-14 22:45:59,2026-01-16 18:21:19,MYSTERY,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.0,12.5,881,9332834,Sierra Leone,Crude Oil Tanker,2007,436
+248109000,35947,6,2026-01-22 12:01:04,2026-02-04 06:31:17,CHIOS I,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.3,13.7,1342,9792187,Malta,Crude Oil Tanker,2017,1318
+613511209,35760,4,2026-03-03 04:18:47,2026-03-18 23:34:53,SEASONS I,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.1,13.9,1233,9308950,Cameroon,Crude Oil Tanker,2006,1051
+667002199,35504,5,2026-02-25 21:17:44,2026-03-08 21:36:26,TENDUA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.0,13.9,407,9299862,Sierra Leone,Oil Products Tanker,2006,919
+631010100,35415,5,2026-02-07 14:12:27,2026-02-19 06:37:42,AQUATICA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.4,73.0,962,9299769,Equatorial Guinea,Crude Oil Tanker,2005,558
+667001281,35220,5,2026-01-22 18:50:19,2026-02-06 16:48:28,MATARI,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.7,13.8,1218,9253313,Sierra Leone,Crude Oil Tanker,2003,1031
+636022405,35050,5,2026-01-21 03:00:23,2026-01-29 07:34:41,URSUS ARCTOS,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.2,13.9,1121,9297369,Liberia,Crude Oil Tanker,2006,894
+309368000,35032,5,2026-01-27 13:39:37,2026-02-05 10:46:02,AMBROSIA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.0,14.3,1369,9301029,Bahamas,Crude Oil Tanker,2006,1503
+461000247,34761,5,2026-01-04 20:30:47,2026-01-14 17:41:44,ARCADIA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.0,14.1,848,9413573,Oman,Crude Oil Tanker,2009,398
+273256600,34558,5,2026-03-06 09:07:48,2026-03-19 12:10:38,MYS SHMIDTA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.9,13.3,69,9243825,russian federation,General cargo ship,2003,31
+352003797,34544,4,2026-02-05 01:01:30,2026-02-16 17:12:15,LADY LOUISE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.3,14.4,1068,9290323,Panama,Crude Oil Tanker,2004,780
+667001223,34015,5,2026-02-20 17:34:39,2026-03-03 05:28:17,INDRAS,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.7,13.6,1142,9314894,Sierra Leone,Chemical/Oil Products Tanker,2006,920
+636022074,34006,5,2026-01-07 09:46:26,2026-03-31 14:47:33,OSCAR,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.0,15.8,7,9365386,Liberia,Chemical/Oil Products Tanker,2007,1521
+667002414,33980,4,2026-01-31 05:30:10,2026-02-13 19:08:32,C VIKING,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.9,102.2,395,9261657,Sierra Leone,Chemical/Oil Products Tanker,2004,810
+273271950,33926,5,2026-01-16 15:08:53,2026-01-29 08:06:10,TRUST,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.0,13.9,1001,9382798,russian federation,Oil Products Tanker,2008,626
+354290000,33911,6,2026-01-08 21:13:06,2026-01-28 15:18:11,PAROS,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,9.9,11.9,2,9296195,Panama,Crude Oil Tanker,2003,1571
+538010456,33883,6,2026-03-15 03:13:01,2026-03-20 21:27:25,SEA HYMN,Bornholm_North|Kattegat|Oresund|Skagen,9.1,14.4,1358,9412036,Marshall Islands,Crude Oil Tanker,2011,1467
+636023657,33826,6,2026-03-14 23:02:52,2026-03-27 13:54:49,BALTIC STAR,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.6,13.0,1133,9327396,Liberia,Chemical/Oil Products Tanker,2006,907
+352005238,33791,6,2026-02-08 23:01:21,2026-02-21 14:48:13,CENTURION I,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.7,13.7,1274,9436020,Panama,Crude Oil Tanker,2010,1191
+667002323,33782,5,2026-01-14 09:10:31,2026-01-30 10:30:37,LISTIGA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,13.5,16.0,432,9292838,Sierra Leone,Crude Oil Tanker,2005,1061
+273264690,33751,5,2026-02-07 05:26:31,2026-03-29 01:17:10,PROXIMA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.9,13.9,1045,9329655,russian federation,Chemical/Oil Products Tanker,2008,720
+352005806,33525,6,2026-02-26 18:21:09,2026-03-24 07:40:30,GATTACA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.2,13.9,1371,9388807,Panama,Crude Oil Tanker,2009,1518
+667001451,33452,7,2026-01-14 08:35:21,2026-03-23 06:44:47,BERRA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.4,14.4,1115,9308821,Sierra Leone,Crude Oil Tanker,2005,874
+613411500,33054,5,2026-02-03 23:30:54,2026-02-14 23:55:25,RUNA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.8,14.1,1124,9314882,Cameroon,Chemical/Oil Products Tanker,2006,897
+613414707,33054,7,2026-02-25 13:04:42,2026-03-12 01:39:00,SILVAR,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.4,14.5,992,9291262,Cameroon,Crude Oil Tanker,2005,616
+613003614,32953,6,2026-02-10 22:46:17,2026-03-03 02:43:56,NOCTIS,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.8,94.4,890,9258868,Cameroon,Crude Oil Tanker,2003,456
+667002327,32926,6,2026-02-28 23:47:33,2026-03-19 07:40:59,FULGER,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,13.8,15.1,956,9326718,Sierra Leone,Crude Oil Tanker,2007,552
+461000321,32760,6,2026-02-05 19:43:49,2026-02-18 12:42:32,DESTAN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.1,14.4,928,9388766,Oman,Crude Oil Tanker,2008,505
+461000284,32424,5,2026-01-30 22:13:51,2026-02-15 20:55:51,BARQ,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.5,12.5,373,9321691,Oman,Crude Oil Tanker,2006,412
+667001235,32336,5,2026-02-17 13:44:54,2026-03-05 07:39:15,THORIN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,9.4,14.3,1208,9330472,Sierra Leone,Crude Oil Tanker,2007,1020
+613003808,32219,5,2026-02-05 09:08:41,2026-02-17 02:30:22,MT SAURI,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.4,13.3,614,9185528,Cameroon,Crude Oil Tanker,2000,469
+215375000,31874,5,2026-01-23 00:12:37,2026-02-06 02:45:15,GEORGIA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,9.7,14.8,418,9302683,Malta,Chemical/Oil Products Tanker,2006,955
+613471021,31819,4,2026-03-03 01:33:05,2026-03-17 22:43:11,ROYAL ICE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,9.7,11.8,1300,9323340,Cameroon,Chemical/Oil Products Tanker,2007,1222
+273435910,31710,5,2026-01-04 19:18:20,2026-01-12 07:47:30,ANABAR,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,9.3,13.2,1303,9194012,russian federation,Oil Products Tanker,2002,1225
+667001259,31654,5,2026-02-13 06:30:47,2026-02-24 07:02:01,MANTA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.8,28.7,1195,9424651,Sierra Leone,Oil Products Tanker,2009,1006
+613914210,31494,5,2026-02-28 05:49:20,2026-03-18 02:15:48,EDERRA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.4,13.5,1084,9258026,Cameroon,Oil Products Tanker,2003,801
+667001303,31221,5,2026-01-21 21:32:28,2026-02-10 14:23:10,RAGNAR,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.8,13.8,1217,9384095,Sierra Leone,Chemical/Oil Products Tanker,2008,1030
+525121061,30857,5,2026-02-26 19:32:54,2026-03-19 04:38:52,SAVIR LION,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.1,15.1,1332,9306639,Indonesia,Crude Oil Tanker,2007,1302
+314115000,30808,4,2026-03-01 01:28:55,2026-03-14 02:18:56,JING HAI,Bornholm_North|Great_Belt|Kattegat|Oresund|Skagen,11.6,14.1,1259,9276597,Barbados,Crude Oil Tanker,2004,1152
+273266690,30569,5,2026-01-31 07:48:17,2026-02-12 13:08:52,PROSPERITY,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.7,13.0,1028,9322956,russian federation,Chemical/Oil Products Tanker,2006,688
+273253130,30547,7,2026-02-25 20:50:25,2026-03-13 14:36:50,ANATOLY KOLODKIN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,8.8,13.9,796,9610808,russian federation,Crude Oil Tanker,2013,158
+273268690,30518,4,2026-01-15 02:58:44,2026-02-07 16:21:40,ARIADNE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.0,13.8,1008,9397547,russian federation,Chemical/Oil Products Tanker,2008,654
+667001300,30455,4,2026-02-20 11:51:04,2026-03-03 16:43:00,KUBERA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.6,13.4,1219,9292577,Sierra Leone,Crude Oil Tanker,2005,1032
+613271404,30420,6,2026-01-17 21:15:41,2026-02-01 08:43:05,THRON,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.2,14.6,935,9404948,Cameroon,Crude Oil Tanker,2009,514
+352002786,30197,4,2026-02-25 19:34:05,2026-03-13 12:25:37,SAGAR1,Bornholm_North|Bornholm_South|Kattegat|Oresund|Skagen,11.4,14.4,989,9302970,Panama,Crude Oil Tanker,2005,613
+667001251,29888,4,2026-02-18 20:03:53,2026-03-24 14:34:33,ADHARA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Origin_Kaliningrad|Skagen,12.6,45.5,1067,9353125,Sierra Leone,Chemical/Oil Products Tanker,2008,778
+352005425,29872,6,2026-01-08 22:57:14,2026-03-31 19:57:30,ANLAN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.3,13.8,1378,9346859,Panama,Crude Oil Tanker,2007,1564
+667001256,29462,6,2026-01-03 23:58:25,2026-01-27 11:57:46,KUSTO,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.6,14.2,978,9308833,Sierra Leone,Crude Oil Tanker,2005,600
+211146780,29303,87,2026-01-01 00:23:20,2026-03-31 23:58:14,EVENTIN,Bornholm_South,2.7,4.0,942,9308065,unknown,Crude Oil Tanker,2006,528
+273273450,29248,4,2026-02-26 04:33:43,2026-03-10 18:34:45,LIDER,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.6,20.4,865,9321706,russian federation,Crude Oil Tanker,2006,420
+667002025,29084,5,2026-02-05 17:53:39,2026-02-21 12:37:23,AILANA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.8,13.0,967,9232888,Sierra Leone,Crude Oil Tanker,2003,582
+352001849,29041,4,2026-01-21 07:59:46,2026-03-18 18:48:46,BELLARIS,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.9,14.7,1076,9332614,unknown,Oil Products Tanker,2008,792
+667001287,28984,5,2026-02-28 07:51:31,2026-03-24 11:35:45,TIBURON,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Origin_Kaliningrad|Skagen,11.4,57.5,958,9283291,Sierra Leone,Crude Oil Tanker,2005,554
+667001249,28934,4,2026-01-14 05:47:53,2026-01-30 17:37:21,MAYLO,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.5,42.5,834,9331153,Sierra Leone,Crude Oil Tanker,2007,280
+613271708,28803,3,2026-03-15 00:32:53,2026-03-31 21:24:51,TYCHE 1,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.6,13.3,941,9308077,Cameroon,Crude Oil Tanker,2006,526
+273210220,28485,3,2026-01-15 18:53:02,2026-01-17 07:30:11,PRIMORYE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.8,14.0,1285,9236743,russian federation,Oil Products Tanker,2001,1204
+352005520,28374,5,2026-03-08 21:17:30,2026-03-21 23:21:03,KAI 1,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.8,13.9,1379,9290361,Panama,Crude Oil Tanker,2005,1569
+667002369,28321,5,2026-03-13 07:13:20,2026-03-25 02:17:12,DENEB,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,13.1,42.5,616,9301524,Sierra Leone,Crude Oil Tanker,2006,478
+249566000,28054,4,2026-01-23 09:41:35,2026-01-31 04:34:27,CONGA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,9.6,14.3,1344,9412000,Malta,Chemical/Oil Products Tanker,2010,1331
+273258520,27863,5,2026-01-15 16:18:05,2026-03-13 10:11:54,STANISLAV GOVORUKHIN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.6,11.8,1289,9621596,russian federation,Chemical/Oil Products Tanker,2016,1208
+632001135,27775,4,2026-02-02 05:41:42,2026-03-06 11:55:37,CAFFA,Bornholm_North|Kattegat|Oresund|Skagen,8.7,13.1,340,9143611,unknown,General cargo ship,1997,1137
+461000243,27613,6,2026-01-18 23:37:20,2026-01-28 02:43:55,VALERA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,14.8,19.6,1393,9630004,Oman,LNG Tanker,2014,416
+613511600,27583,5,2026-01-21 20:06:42,2026-01-30 20:07:18,RIMMA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.0,13.2,883,9337901,Cameroon,Crude Oil Tanker,2006,438
+273216130,27029,3,2026-01-01 18:47:04,2026-01-03 19:19:33,MYS ZHELANIYA,Bornholm_South|Great_Belt|Kattegat|Skagen,9.3,13.6,16,9366110,russian federation,General cargo ship,2008,35
+461000242,26970,3,2026-03-06 16:39:14,2026-03-08 10:32:06,DINASTY,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Origin_Kaliningrad|Skagen,10.9,55.2,839,9311622,Oman,Crude Oil Tanker,2006,330
+613814700,26893,5,2026-02-13 16:53:19,2026-02-24 03:41:23,SATNA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.0,13.7,1123,9253234,Cameroon,Chemical/Oil Products Tanker,2003,896
+538002621,26532,2,2026-03-20 02:50:00,2026-03-21 14:21:58,OKYROE,Bornholm_North|Kattegat|Oresund|Skagen,10.8,29.5,1166,9273088,Marshall Islands,Oil Products Tanker,2004,962
+667002021,26194,5,2026-03-14 18:30:19,2026-03-30 00:09:03,VOKKI,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.9,15.7,929,9434890,Sierra Leone,Crude Oil Tanker,2010,506
+273293160,26184,5,2026-01-24 16:56:08,2026-02-17 08:31:58,LADY D,Bornholm_North|Kattegat|Oresund|Skagen,11.2,14.2,24,9349289,russian federation,General cargo ship,2006,64
+667002428,26069,2,2026-03-23 07:43:37,2026-03-24 15:30:06,SAMADHA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,13.9,15.1,1225,9286281,Sierra Leone,Crude Oil Tanker,2004,1041
+538011255,25742,4,2026-01-01 01:41:34,2026-01-21 16:08:07,SEA RAPTOR,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.1,14.4,1405,9356751,,,,
+273278840,25578,5,2026-01-01 08:07:25,2026-01-12 07:31:29,PROGRESS,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.6,13.2,976,9306627,russian federation,Crude Oil Tanker,2007,597
+352005437,24936,5,2026-01-29 21:06:48,2026-02-08 22:46:45,BALU 6,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,10.8,12.6,1269,9460564,Panama,Crude Oil Tanker,2011,1186
+352005472,24883,3,2026-03-26 10:41:31,2026-03-28 10:37:57,AURA 1,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.5,14.8,1268,9472634,Panama,Crude Oil Tanker,2011,1185
+667002425,24582,3,2026-01-28 12:10:35,2026-01-30 18:15:15,MARIEL,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,8.5,10.9,1254,9247376,Sierra Leone,Crude Oil Tanker,2002,1144
+667001708,24328,5,2026-02-13 13:08:54,2026-03-01 09:33:02,JALDHARA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.9,15.0,869,9304825,Sierra Leone,Crude Oil Tanker,2006,424
+631010092,24179,3,2026-03-22 21:37:45,2026-03-24 09:43:08,MAISHA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,13.2,14.7,1149,9232929,Equatorial Guinea,Crude Oil Tanker,2002,931
+273426280,23557,3,2026-03-21 08:50:18,2026-03-23 02:00:07,ODIN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.3,12.8,1180,9151890,russian federation,Oil Products Tanker,1998,980
+613004200,23306,3,2026-03-17 17:17:56,2026-03-19 13:51:46,ZAMBRA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.1,12.0,1187,9175078,Cameroon,Crude Oil Tanker,1999,989
+375068000,23144,3,2026-01-13 21:03:17,2026-01-15 22:58:27,FITBURG,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.0,12.7,1412,9250397,,,,
+636093240,22983,6,2026-01-15 09:45:27,2026-02-04 03:02:25,ROSTRUM HEDONIST,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.8,13.7,577,9955894,Liberia,Bulk Carrier,2023,311
+667002413,22952,6,2026-01-12 23:48:04,2026-03-17 02:17:52,SOFOS,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.2,13.6,1109,9278064,Sierra Leone,Chemical/Oil Products Tanker,2004,867
+273219650,22784,5,2026-01-07 13:43:01,2026-03-13 02:09:23,ASCALON,Bornholm_North|Kattegat|Oresund|Skagen,6.7,14.2,20,9198226,russian federation,Ro-Ro Cargo Ship,1999,58
+667002039,22306,4,2026-02-20 11:41:56,2026-03-08 17:33:15,SAVITRI,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.0,14.5,970,9289752,Sierra Leone,Oil Products Tanker,2005,585
+273251530,22238,3,2026-03-06 20:45:22,2026-03-08 10:09:06,ANTARKTIKA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.4,102.0,793,9413559,russian federation,Crude Oil Tanker,2009,155
+620800094,22020,4,2026-01-06 17:09:57,2026-03-12 01:39:00,SEA OWL I,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.2,13.6,1316,9321172,Comoros,Oil Products Tanker,2007,1238
+461000285,21976,3,2026-03-28 07:55:09,2026-03-30 03:59:52,SIRAJ,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.3,13.4,948,9319703,Oman,Crude Oil Tanker,2008,537
+667002270,21921,4,2026-03-05 21:27:08,2026-03-31 23:59:51,SAPNA,Bornholm_North|Bornholm_South|Kattegat|Oresund|Skagen,12.0,14.4,887,9247883,Sierra Leone,Oil Products Tanker,2002,453
+667001237,21891,5,2026-02-24 00:15:12,2026-03-11 04:59:34,BIVOLA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.1,14.6,1238,9266865,Sierra Leone,Crude Oil Tanker,2004,1056
+631010102,21408,2,2026-03-18 06:31:03,2026-03-19 12:44:18,MAKALU,Bornholm_North|Kattegat|Oresund|Skagen,10.8,14.4,905,9314105,Equatorial Guinea,Crude Oil Tanker,2005,480
+613202701,20998,3,2026-03-26 22:30:43,2026-03-28 11:39:23,AGNI,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.8,14.2,972,9314167,Cameroon,Oil Products Tanker,2007,587
+273271320,20967,3,2026-01-04 20:35:29,2026-01-06 17:31:58,PIONER 1,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.7,11.8,1046,9378618,russian federation,Crude Oil Tanker,2008,733
+613003744,20758,6,2026-02-25 21:01:46,2026-03-20 06:04:16,SARD,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,13.2,15.1,655,9183271,Saint Kitts and Nevis,Crude Oil Tanker,2000,637
+667002026,20232,3,2026-01-07 12:44:00,2026-01-09 07:30:33,PATE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.2,13.0,926,9338905,Sierra Leone,Crude Oil Tanker,2007,503
+273265590,19939,3,2026-01-01 03:33:18,2026-01-11 20:12:55,JUPITER,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.0,13.2,1024,9397535,russian federation,Chemical/Oil Products Tanker,2009,683
+352002063,19788,3,2026-01-02 15:36:04,2026-01-04 12:04:35,DAPHNE V,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.8,12.1,1073,9321677,unknown,Crude Oil Tanker,2006,789
+667002061,19709,6,2026-01-04 09:15:13,2026-01-22 04:34:39,RIZVEL,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.2,13.7,833,9331141,Sierra Leone,Crude Oil Tanker,2006,279
+273298160,19667,2,2026-01-08 00:14:46,2026-01-09 17:08:56,ANASTASIIA,Bornholm_North|Kattegat|Oresund|Skagen,7.1,11.4,356,9349291,russian federation,General cargo ship,2006,22
+273258810,19569,2,2026-03-15 01:10:56,2026-03-16 13:41:26,VIKTOR BAKAEV,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.8,13.0,809,9610810,russian federation,Crude Oil Tanker,2013,215
+613881403,19480,1,2026-03-31 00:51:03,2026-03-31 18:00:47,LION I,Great_Belt|Kattegat|Skagen,12.8,17.9,1222,9384069,Cameroon,Crude Oil Tanker,2009,1037
+613445620,19280,3,2026-02-06 21:58:52,2026-02-08 14:03:56,WHITE CONDOR I,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.0,14.3,1198,9255244,Cameroon,Oil Products Tanker,2003,1010
+461000232,18928,3,2026-01-21 12:17:27,2026-01-23 05:58:01,SPARTAN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.1,13.7,853,9421972,Oman,Crude Oil Tanker,2010,403
+273279840,18900,4,2026-01-09 18:21:39,2026-03-31 23:59:52,NASLEDIE,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.5,13.7,936,9293002,russian federation,Crude Oil Tanker,2005,515
+273256410,18850,3,2026-02-12 20:44:08,2026-02-14 16:44:08,VASILY LANOVOY,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.8,12.8,778,9621601,russian federation,Chemical/Oil Products Tanker,2016,36
+352004632,18844,2,2026-03-29 16:41:31,2026-03-30 22:55:38,CERS,Bornholm_North|Kattegat|Oresund|Skagen,9.9,14.5,1321,9301902,Panama,Chemical/Oil Products Tanker,2006,1243
+352001887,18589,2,2026-01-01 05:00:49,2026-01-02 00:11:18,SILVAR,Great_Belt|Kattegat|Skagen,11.8,13.3,992,9291262,Cameroon,Crude Oil Tanker,2005,616
+613271610,18554,3,2026-03-22 13:48:39,2026-03-24 05:56:58,BOLU,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.8,13.5,1273,9439539,Cameroon,Crude Oil Tanker,2009,1190
+215817000,18503,3,2026-01-02 18:28:57,2026-01-04 09:23:57,MARINER A,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.1,13.2,1118,9288954,Malta,Chemical/Oil Products Tanker,2005,877
+632001149,18415,3,2026-01-05 10:17:51,2026-01-07 03:39:50,ETHERA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.0,13.2,1079,9387279,unknown,Chemical/Oil Products Tanker,2008,795
+273271860,17692,5,2026-02-26 14:04:20,2026-03-13 01:03:03,ADMIRAL,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.0,14.1,784,9274446,russian federation,Crude Oil Tanker,2004,45
+667001236,17689,3,2026-02-27 19:32:25,2026-03-01 01:18:11,BEAST,Bornholm_North|Kattegat|Oresund|Skagen,10.2,13.2,1095,9290921,Sierra Leone,Chemical/Oil Products Tanker,2005,840
+273396870,17631,3,2026-01-24 21:02:22,2026-01-26 08:49:02,TIKSY,Bornholm_North|Kattegat|Oresund|Skagen,9.2,10.9,571,8821802,russian federation,General cargo ship,1990,147
+273614220,17565,4,2026-02-09 14:24:58,2026-02-26 06:25:53,ALARA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.3,12.8,61,9741724,russian federation,Bulk Carrier,2015,4
+667002334,17540,3,2026-01-05 15:15:21,2026-01-07 04:50:03,UTAKI,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.9,12.8,996,9262924,Sierra Leone,Crude Oil Tanker,2002,621
+613472030,17415,5,2026-02-24 05:46:37,2026-03-07 05:26:16,PERIDOT,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,12.4,14.4,1196,9259991,Cameroon,Chemical/Oil Products Tanker,2003,1008
+613003573,17279,3,2026-01-07 18:54:30,2026-01-09 11:23:49,MAINI,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.0,13.5,866,9319870,Cameroon,Crude Oil Tanker,2007,421
+630001226,17161,3,2026-01-25 08:32:26,2026-01-27 02:20:26,FLINT WIND,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.0,13.0,1252,9314179,Guinea-Bissau,Oil Products Tanker,2007,1124
+667002491,16797,2,2026-02-01 06:27:45,2026-02-02 19:04:02,INDRI,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,13.0,14.9,1256,9247429,Sierra Leone,Crude Oil Tanker,2003,1146
+667002320,16584,2,2026-02-05 02:11:37,2026-02-06 15:34:41,LERUO,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.2,14.4,1239,9385831,Sierra Leone,Oil Products Tanker,2010,1060
+461000248,16223,3,2026-03-21 21:50:16,2026-03-23 06:51:42,SOLARIS,Bornholm_North|Kattegat|Oresund|Origin_Kaliningrad|Skagen,10.8,54.5,823,9333436,Oman,Crude Oil Tanker,2007,268
+461000235,16220,3,2026-01-10 12:55:44,2026-01-12 09:36:43,CAVALIER,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.5,13.1,827,9306794,Oman,Crude Oil Tanker,2006,272
+613007200,15831,3,2026-01-03 11:39:17,2026-01-05 05:39:36,SIERRA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.2,12.6,854,9522324,Cameroon,Crude Oil Tanker,2011,404
+273297850,15674,2,2026-03-28 03:13:26,2026-03-29 12:02:25,BALTIC LEADER,Bornholm_North|Kattegat|Oresund|Skagen,10.1,11.4,543,9220639,russian federation,Ro-Ro Cargo Ship,2000,99
+613007100,15655,2,2026-03-19 08:36:16,2026-03-20 19:00:13,ENIGMA,Bornholm_North|Kattegat|Oresund|Skagen,10.0,71.9,1063,9333412,Cameroon,Oil Products Tanker,2007,767
+352002051,15642,2,2026-03-28 04:13:29,2026-03-29 07:45:57,YI TONG,Bornholm_North|Kattegat|Oresund|Skagen,11.5,13.9,678,9259733,Panama,Crude Oil Tanker,2004,783
+273415140,15286,3,2026-01-11 15:07:50,2026-01-13 02:02:40,AVIOR,Bornholm_North|Kattegat|Oresund|Skagen,8.8,10.7,421,9164512,russian federation,Oil Products Tanker,1999,986
+229070000,14790,3,2026-01-17 12:42:21,2026-01-19 01:35:10,ODESSA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.7,13.9,1355,9633458,Malta,Crude Oil Tanker,2013,1446
+613741301,14783,4,2026-02-22 22:43:16,2026-03-13 00:15:01,NOSU,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.6,15.2,880,9318539,Cameroon,Crude Oil Tanker,2007HQZS3,435
+273297290,14075,4,2026-02-10 17:51:39,2026-02-24 15:54:01,SABETTA,Bornholm_South|Great_Belt|Kattegat|Oresund|Skagen,11.7,14.0,34,9347061,russian federation,General cargo ship,2006,150
+667001672,13624,3,2026-02-18 22:14:33,2026-02-20 01:34:32,NIGHT GLORY,Bornholm_North|Kattegat|Oresund|Skagen,12.1,13.8,893,9319674,Sierra Leone,Crude Oil Tanker,2007,459
+613003743,13343,3,2026-01-21 14:58:53,2026-01-23 04:36:27,BONIFACY,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.2,13.8,1110,9284726,Cameroon,Oil Products Tanker,2004,868
+667002362,13315,2,2026-02-08 07:42:19,2026-02-09 23:37:29,VERNAL,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.4,13.0,940,9207027,Sierra Leone,Crude Oil Tanker,2000,523
+667002321,13019,2,2026-03-19 00:38:04,2026-03-20 01:36:25,FIESTA,Bornholm_North|Kattegat|Oresund|Skagen,13.9,16.2,912,9260823,Sierra Leone,Crude Oil Tanker,2004,487
+577376000,12858,2,2026-01-24 20:03:24,2026-01-25 23:33:34,JASPER,Bornholm_North|Kattegat|Oresund|Skagen,11.4,12.9,1189,9299886,Vanuatu,Chemical/Oil Products Tanker,2005,991
+613429702,12733,3,2026-01-27 11:13:04,2026-01-29 07:20:15,VIKRAM,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.1,13.8,266,8315499,Cameroon,General cargo ship,1984,224
+667001624,12620,3,2026-01-30 17:35:15,2026-02-01 05:32:53,IZOLA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,13.2,15.4,626,9249312,Sierra Leone,Crude Oil Tanker,2001,529
+273277840,12554,2,2026-01-19 01:53:09,2026-01-20 20:13:09,TRIUMF,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,11.7,12.8,1255,9389095,russian federation,Crude Oil Tanker,2009,1145
+667001407,11944,2,2026-03-29 04:55:10,2026-03-30 22:13:27,CAI YUN,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,10.6,14.1,1194,9437983,Sierra Leone,Crude Oil Tanker,2010,1005
+273335920,11015,3,2026-01-23 17:07:11,2026-01-25 16:38:51,GENERAL SKOBELEV,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,9.3,10.7,1005,9503304,russian federation,Oil Products Tanker,2008,640
+667002277,10393,2,2026-02-01 09:49:36,2026-02-02 14:18:33,RANGE VALE,Bornholm_South|Great_Belt|Kattegat|Skagen,11.6,13.6,859,9299898,Sierra Leone,Crude Oil Tanker,2005,409
+273291160,9524,2,2026-01-05 05:06:34,2026-01-06 07:57:26,MAIA-1,Bornholm_North|Kattegat|Oresund|Skagen,12.5,13.9,27,9358010,russian federation,General cargo ship,2006,67
+461000252,8553,3,2026-01-05 11:03:20,2026-01-07 00:32:38,CARMA,Bornholm_North|Bornholm_South|Great_Belt|Kattegat|Skagen,12.2,13.7,845,9341081,Oman,Crude Oil Tanker,2006,336
+631010099,2814,1,2026-01-01 00:00:01,2026-01-01 04:16:52,INDUS 1,Skagen,3.2,4.5,1174,9360415,Equatorial Guinea,Oil Products Tanker,2007,973
+667001302,1618,1,2026-03-12 00:00:02,2026-03-12 01:39:00,FLORA 1,Oresund,11.7,12.6,1086,9307815,Sierra Leone,Chemical/Oil Products Tanker,2005,803
+273355410,13,1,2026-03-05 21:00:22,2026-03-05 21:17:10,,Origin_Kaliningrad,14.0,15.4,37,8807416,russian federation,Ro-Ro Cargo Ship,1990,210
+273293820,2,1,2026-03-05 17:12:01,2026-03-05 18:14:08,,Origin_Kaliningrad,0.7,0.7,560,9240550,russian federation,General cargo ship,2002,125

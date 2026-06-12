@@ -1,1 +1,1415 @@
-gur_id,imo,name,sanctioned,detected_in_baltic
+gur_id,name,imo,mmsi_current,mmsi_legacy,flag,vessel_type,callsign,former_names,build_year,status
+1575,ZHUO YUAN,9408683,352005626,,Panama,Crude Oil Tanker,3E8856,Profit / Advantage Solar,2009,listed
+1573,TRACOS,9224453,352004128,,Panama,Crude Oil Tanker,3E7630,SCF Khibiny / Mercury I / Berlina / Lin / Mars A,2002,listed
+1571,PAROS,9296195,354290000,,Panama,Crude Oil Tanker,3FIV5,Domus Aurea / Minerva Emma,2003,listed
+1547,STARLIGHT,9275995,306112000,,unknown,Oil Products Tanker,8PJB6,Northern Dawn / Northern Star / Phoenix Hill / Oceanic IІ,2003,listed
+1535,ROCK,9288356,314845000,,Barbados,Crude Oil Tanker,8PYO2,Energy Champion / Beks Lily,2005,listed
+1531,VALENTE,9298272,677093742,,unknown,Crude Oil Tanker,5IM593,New Century / Chemtrans Oceanic,2005,listed
+1522,CHRYSTAL SKY,9334569,538004215,,Marshall Islands,Oil Products Tanker,V7VU5,Sanko Heritage / STI Heritage / Polar Unicorn,2008,listed
+1521,OSCAR,9365386,636022074,,Liberia,Chemical/Oil Products Tanker,5LHB5,Dl Cosmos / Neutron Sonic,2007,listed
+1514,MINERVA SYMPHONY,9304605,636024903,,Liberia,Crude Oil Tanker,5LUV8,Flags (former),2006,listed
+1506,ARINA,9248813,477957300,,Hong Kong,Crude Oil Tanker,VRWC6,SKS Saluda / Sama / Zarby / Aksta / Tjatse / Talosa,2003,listed
+1505,VERNON,9232876,632001131,,unknown,Crude Oil Tanker,3X2103,Aegean Freedom / Brava Lake,2003,listed
+1501,COSMO SAIL,9318096,314001147,,Barbados,Crude Oil Tanker,8POQ,Seavoyager,2007,listed
+1,ADLER,9179854,273414440,273414440,russian federation,Ro-Ro Cargo Ship,UGPS,Rio Kelan / BBC Kelan / Ocean Power,1998,listed
+12,BALTIYSK,8318130,273317640,273317640,russian federation,Ro-Ro Cargo Ship,UHMA,Rider / Finnrider,1984,listed
+27,BERING,9267297,273437510,273437510,russian federation,General cargo ship,UBHR6,Vanessa-C / Vanessa C / Jan / BBC Amisia / Onego Ems,2003,listed
+33,ANGARA,9179842,273210440,273210440,russian federation,Ro-Ro Cargo Ship,UBYT2,Scan Arctic / Rickmers Arctic / BBC Arctic / BBC Karan / Ocean Energy / Fleet Star,1998,listed
+35,MYS ZHELANIYA,9366110,273216130,273216130,russian federation,General cargo ship,UBQT4,BBC Orinoco / Clipper Miami / Amanda / Gisele Scan / Beluga Generation,2008,listed
+54,ARKADIY CHERNYSHEV,8714695,273359930,273359930,russian federation,General cargo ship,UBSH5,Kapitan Babiyevskiy / Woodca / Lemmergracht / Corn Tulip,1988,listed
+55,CAPTAIN YAKUBOVICH,8318740,273348130,273348130,russian federation,General cargo ship,UBCG2,Eastern Venus,1984,listed
+56,MARIA,8517839,273359830,273359830,russian federation,General cargo ship,UBRH7,Pauwgracht / Corn Crest / White Rhino / Lev Yashin,1986,listed
+58,ASCALON,9198226,273219650,273219650,russian federation,Ro-Ro Cargo Ship,UBHU6,Scan Atlantic / OXL Bamboo / Hc Rubina / Ocean Lord,1999,listed
+59,ASKAR-SARYDZHA,9082142,273155400,273155400,russian federation,General cargo ship,UGUR,Torik,1993,listed
+60,SAPFIR,8700010,273355400,273355400,russian federation,General cargo ship,UBIG5,Ladoga-101 / Helena / Etim Emin,1988,listed
+62,GENRIKH GASANOV,9083196,273151300,273151300,russian federation,General cargo ship,UEUK,Dyurso,1993,listed
+64,LADY D,9349289,273293160,273293160,russian federation,General cargo ship,UBGW4,Jasper / Beluga Federation / Frida Scan / Thorco Diva / BBC Nevada / Ocean Might / Maliy B.S.,2006,listed
+65,LADY MARIIA,9220641,273292160,273292160,russian federation,Ro-Ro Cargo Ship,UBGW3,Scan Finlandia / Rickmers Finlandia / BBC Finlandia / BBC Konan / Rio Konan / Ocean Dream / Global Carrier / Stella-Maria,2000,listed
+66,LADY R,9161003,273212120,273212120,russian federation,Ro-Ro Cargo Ship,UBDT8,Sloman Producer,2004,listed
+67,MAIA-1,9358010,273291160,273291160,russian federation,General cargo ship,UBGW2,Beluga Evaluation / Nicola / BBC Hawaii / Ocean Rising / Neptune Crown / Neptun,2006,listed
+70,PORT OLYA-2,9481881,273379120,273379120,russian federation,General cargo ship,UBKM4,Ucf-1,2012,listed
+71,RASUL GAMZATOV,8861058,273157300,273157300,russian federation,General cargo ship,UBUT,Libern / Tsemdolina,1992,listed
+73,VALENTIN EMIROV,8866591,273159700,273159700,russian federation,General cargo ship,UDUO,Igor Shapovalov / Kaspiy / Caspiy,1993,listed
+107,INZHENER TRUBIN,8502080,273358380,273358380,russian federation,General cargo ship,UBCJ2,Kapitan Zuzenko / Pinega / Sea Progress,1993,listed
+124,SIYANIE SEVERA,9250385,273398650,273398650,russian federation,General cargo ship,UCAJ,UAL Aberdeen / Flintersky / Thorco Sky / Kaya,2002,listed
+132,BALTIYSKIY-111,7612448,273334100,273334100,russian federation,General cargo ship,UDCC,Flags (former),1980,listed
+150,SABETTA,9347061,273297290,273297290,russian federation,General cargo ship,UBYW8,Greetsiel / BBC Mississippi,2006,listed
+193,PATRIA,9159921,273394340,273394340,russian federation,Ro-Ro Cargo Ship,UBVP6,Flags (former),1999,listed
+209,SPARTA II,9160994,273394890,273394890,russian federation,Ro-Ro Cargo Ship,UAXX,Sloman Provider,2000,listed
+210,AMBAL,8807416,273355410,273355410,russian federation,Ro-Ro Cargo Ship,UBVG7,Railship III / Finnrunner / Runner,1990,listed
+211,PIZHMA,8814354,273413510,273413510,russian federation,General cargo ship,UDVD,Drummer / MCL Trader,1990,listed
+212,SPARTA,9268710,273389870,273389870,russian federation,Ro-Ro Cargo Ship,UCPH,Scan Brasil / Hyundai Buffalo / Hc Paulina,2003,listed
+213,URSA MAJOR,9538892,273396130,273396130,russian federation,General cargo ship,UFUZ,Scan Britania / Hyundai Britania / Eit Palmina / Sparta IІІ,2009,listed
+214,SPARTA IV,9743033,273413440,273413440,russian federation,General cargo ship,UIYM,Flags (former),2018,listed
+218,SKIF-V,8858087,273336790,273336790,russian federation,General cargo ship,UBRK6,Omskiy-29 / City of Chios / Petka / Sail,1984,listed
+282,MUSA JALIL,8846814,273353660,273353660,russian federation,General cargo ship,UBLI5,Daugavpils / Laima / Crystal,1989,listed
+283,BEGEY,8943210,273421560,273421560,russian federation,General cargo ship,UDZQ,Flags (former),1985,listed
+284,OMSKIY-103,8889385,273437300,273437300,russian federation,General cargo ship,UGDX,Moskva,1978,listed
+313,LAVRENTIOS,8647866,273387810,273387810,russian federation,Passenger / Ro-Ro Cargo Ship,UBXN7,Agios Lavrentios,2010,listed
+315,PORT OLYA-3,9481910,273371920,273371920,russian federation,General cargo ship,UHEQ,Ucf-4,2011,listed
+324,BORIS KUSTODIEV,9103817,273191000,273191000,russian federation,General cargo ship,UFZX,Boris Kustodiyev / Alikber / Alikber Pashaev,1994,listed
+325,PORT OLYA-4,9481934,273390550,273390550,russian federation,General cargo ship,UDHW,Ucf-6,2014,listed
+326,KOMPOZITOR RAKHMANINOV,8606616,273452650,273452650,russian federation,Ro-Ro Cargo Ship,UCXW,Brovary / Moon Admiral,1986,listed
+337,OMSKIY-119,8926913,273290480,273290480,russian federation,General cargo ship,UBSW7,Kiyev / Kiev / Pollux / Leslie / Yalker / Akca 1 / Tufan,1980,listed
+338,VAFA,8422670,273370900,273370900,russian federation,General cargo ship,UFZS,STK-1010 / Zarya,1984,listed
+339,VAFA-1,8422682,273375800,273375800,russian federation,General cargo ship,UHCT,STK-1011 / Antares,1984,listed
+340,ZAKAMSK,8951413,273216510,273216510,russian federation,General cargo ship,UBBT3,Volgo-Balt 27 / Akvamarin,1966,listed
+372,V. USPENSKIY,8946389,273372100,273372100,russian federation,General cargo ship,UCWO,VOLGO-DON 221,1978,listed
+373,YANA V,9931226,Call sign,273612940,russian federation,General cargo ship,Vessel name,Evolution A,2022,listed
+1128,GERMES,8920945,273359640,273359640,russian federation,Tug,UBAI6,Flags (former),1990,listed
+1134,KAPITAN SHLYGIN,,273311220,,russian federation,Tug,UBKE7,Flags (former),1982,listed
+2,AKADEMIK ALEKSANDR KARPINSKIY,8227238,273457410,273457410,russian federation,Research Vessel,UIZO,Flags (former),1984,listed
+3,AKADEMIK CHERSKIY,8770261,273399760,273399760,russian federation,Pipe-laying Vessel,UDQB,Jascon 18,2011 / 2015 / 2020,listed
+4,ALARA,9741724,273614220,273614220,russian federation,Bulk Carrier,UBOX9,Falcon Bay / Pola Monaco,2015,listed
+5,ALEKSANDR SOKOLOV,9889198,273216620,273216620,russian federation,General cargo ship,UBKK,Pola Anastasiya,2019,listed
+24,ANDREY OSIPOV,8711306,273379890,273379890,russian federation,General cargo ship,UBTN6,Onego Breeze / Alka,1994,listed
+25,ARCTICA-2,9243801,273370990,273370990,russian federation,General cargo ship,UBTN7,Metsaborg,2002,listed
+26,BARENTS,9278600,273385970,273385970,russian federation,General cargo ship,UBIP2,BBC Sweden,2003,listed
+28,MYS FLORA,9433286,273295260,273295260,russian federation,General cargo ship,UBHW2,BBC Florida,2009,listed
+29,MYS DEZHNEVA,9368340,273218890,273218890,russian federation,General cargo ship,UBFV9,Beluga Graduation / Svenja / BBC Thames,2008,listed
+30,MIKHAIL BRITNEV,9081370,273299250,273299250,russian federation,General cargo ship,UBCW9,Flags (former),1995,listed
+31,MYS SHMIDTA,9243825,273256600,273256600,russian federation,General cargo ship,UBIZ9,Vitoria Bay / Mark C / Mark-C / Innogy Sprite / Dina-C,2003,listed
+32,MANGAZEYA,7741108,273434010,273434010,russian federation,Fish Carrier,UFRI,Flags (former),1979,listed
+34,ARCTICA 1,9228980,273386130,273386130,russian federation,General cargo ship,UBDO8,Maineborg,2001,listed
+57,ARTEMIS OFFSHORE,9747194,273451870,273451870,russian federation,Offshore Support Vessel,UBRS8,Flags (former),2018,listed
+74,IPSALA,9759666,273615220,273615220,russian federation,Bulk Carrier,UBPX2,Pola Imabari / Glorious Sunrise,2016,listed
+75,ULA,9780940,273613220,273613220,russian federation,Bulk Carrier,UBOX8,Pola Ariake,2019,listed
+76,ASTROL-1,9906544,273217380,273217380,russian federation,General cargo ship,UBXU4,Flags (former),2020,listed
+77,MYS MANORSKIY,9190107,273292470,273292470,russian federation,General cargo ship,UBNW5,Oslo Wave 2 / Atlantic Progress / Hal Pride / Federal Pride / Seaboard Chile II / Atlantic Pride / Seaboard Rover,2000,listed
+78,POLA SEVASTIANA,9691785,273395260,273395260,russian federation,General cargo ship,UBDG,Flags (former),2017,listed
+79,POLA MAKARIA,9849423,273416760,273416760,russian federation,General cargo ship,UBZX,Flags (former),2018,listed
+80,POLA FILOFEIA,9849435,273414870,273414870,russian federation,General cargo ship,UBAV,Flags (former),2018,listed
+81,POLA SOFIA,9849459,273416980,273416980,russian federation,General cargo ship,UBFI,Flags (former),2018,listed
+82,POLA FEODOSIA,9849461,273422380,273422380,russian federation,General cargo ship,UHNY,Flags (former),2018,listed
+83,POLA FIVA,9849473,273423690,273423690,russian federation,General cargo ship,UBRR,Flags (former),2018,listed
+84,POLA  ANATOLIA,9851103,273435200,273435200,russian federation,General cargo ship,UCQV,Flags (former),2018,listed
+85,POLA ANFISA,9851115,273448220,273448220,russian federation,General cargo ship,UBXR7,Flags (former),2019,listed
+86,POLA GALI,9851127,273217290,273217290,russian federation,General cargo ship,UBCV2,Flags (former),2021,listed
+87,POLA HARITA,9888792,273215210,273215210,russian federation,General cargo ship,UBLL,Flags (former),2019,listed
+88,POLA PELAGIA,9888807,273217810,273217810,russian federation,General cargo ship,UDRW,Flags (former),2019,listed
+89,POLA MARIA,9897705,273215830,273215830,russian federation,General cargo ship,UDHN,Flags (former),2020,listed
+90,POLA ANASTASIA,9897690,273218530,273218530,russian federation,General cargo ship,UFON,Flags (former),2020,listed
+91,POLA YAROSLAVA,9903827,273218740,273218740,russian federation,General cargo ship,UDJO,Flags (former),2020,listed
+92,POLA VARVARA,9903839,273210550,273210550,russian federation,General cargo ship,UBFU2,Flags (former),2020,listed
+93,POLA AGATA,9903841,273214060,273214060,russian federation,General cargo ship,UBJU8,Flags (former),2020,listed
+94,POLA ALEXIA,9903853,273215270,273215270,russian federation,General cargo ship,UBUU3,Flags (former),2020,listed
+95,POLA MARINA,9903865,273214080,273214080,russian federation,General cargo ship,UBVU5,Flags (former),2020,listed
+96,POLA MIROPIA,9903877,273215580,273215580,russian federation,General cargo ship,UBYU3,Flags (former),2020,listed
+97,AUDAX,9763837,Call sign,,unknown,Heavy Load Carrier,Vessel name,Flags (former),2016,listed
+98,PUGNAX,9763849,Call sign,,unknown,Heavy Load Carrier,Vessel name,Flags (former),2016,listed
+134,BAVENIT,8406573,273459600,273459600,russian federation,Drilling Ship,UAIO,Flags (former),1986,listed
+152,GELENDZHIK,8826230,273434310,273434310,russian federation,Research Vessel,UFII,Flags (former),1989,listed
+153,YUZHMORGEOLOGIYA,8724482,273422600,273422600,russian federation,Research Vessel,UBSZ,Flags (former),1985,listed
+168,ALEXEY KOSYGIN,9904546,273253270,273253270,russian federation,LNG Tanker,UASA7,Zvezda 041,2024,listed
+169,SERGEI WITTE,9904687,Call sign,,russian federation,LNG Tanker,Vessel Type,Zvezda 043,2024,listed
+170,PYOTR STOLYPIN,9904675,Call sign,,russian federation,LNG Tanker,Vessel Type,Zvezda 042,2021 / 2024,listed
+171,ZVEZDA 044,9904699,Call sign,,russian federation,LNG Tanker,Vessel Type,Flags (former),2024,listed
+172,ZVEZDA 045,9904704,Call sign,,russian federation,LNG Tanker,Vessel Type,Flags (former),2024,listed
+173,ZVEZDA 046,9918779,Call sign,,russian federation,LNG Tanker,Vessel Type,Flags (former),2025,listed
+174,ZVEZDA 047,9918781,Call sign,,russian federation,LNG Tanker,Vessel Type,Flags (former),2025,listed
+177,GRIGORIY MIKHEYEV,8909331,273457920,273457920,russian federation,Passenger Ship,UCRE,Flags (former),1990,listed
+178,IVAN KIREEV,7423275,273915000,273915000,russian federation,Research Vessel,UCYO,Flags (former),1977,listed
+179,ALEKSEY MARYSHEV,8909329,273456920,273456920,russian federation,Research Vessel,UCRD,Flags (former),1990,listed
+180,YURI BABAEV,9912696,273296770,273296770,russian federation,Research Vessel,UBPW4,Flags (former),2022,listed
+181,BRIGHT OCEAN,9830769,Call sign,,unknown,Heavy Load Carrier,Vessel name,Zhi Xian Zhi Xing / Hunter Star,2018,listed
+182,GLORY OCEAN,9934498,Call sign,,unknown,Heavy Load Carrier,Vessel name,Nan Feng Zhi Xing,2022,listed
+186,KORYAK FSU,9915105,273259900,273259900,russian federation,FSO,UBLZ3,Flags (former),2023,listed
+187,SAAM FSU,9915090,273256300,273256300,russian federation,FSO,UBHZ6,Flags (former),2023,listed
+188,KUNASHIR,9142588,273350370,273350370,russian federation,General cargo ship,UBSI9,Egbert Wagenborg / MSC Bothnia,1998,listed
+189,SASCO ALDAN,9358034,273293420,273293420,russian federation,General cargo ship,UBOV4,Lea Auerbach / BBC Maple Lea / Maple Lea / Thorco Horizon / Beluga Flirtation,2007,listed
+190,SASCO AVACHA,9246140,273373920,273373920,russian federation,Container Ship,UBMO9,Veersedijk,2001,listed
+191,SASCO ANGARA,9242986,273390170,273390170,russian federation,Container Ship,UBUO6,Merwedijk,2001,listed
+192,SASCO ANIVA,9255402,273383520,273383520,russian federation,Container Ship,UBBO5,Sirrah,2002,listed
+194,ZEYA,9118355,273347430,273347430,russian federation,Container Ship,UHMI,Flags (former),1995,listed
+195,PARAMUSHIR,9190286,273354390,273354390,russian federation,General cargo ship,UGZM,Flags (former),1999,listed
+196,SELENGA,8714657,273352140,273352140,russian federation,General cargo ship,UBSH8,Lerici Star / Kapitan Grishin / Sofrana Kermadec / Capitaine Tasman,1988,listed
+197,OXIN,9190274,273359190,273359190,russian federation,General cargo ship,UBNJ7,Shantar,1999,listed
+198,SIMUSHIR,9179385,273356170,273356170,russian federation,General cargo ship,UBRI5,Munteborg / MSC Baltic,1998,listed
+199,SAKHALIN 8,8330516,273187000,273187000,russian federation,Ro-Ro Cargo Ship,UERK,Flags (former),1985,listed
+200,SAKHALIN 9,8728543,273185600,273185600,russian federation,Passenger / Ro-Ro Cargo Ship,UCEE,Flags (former),1986,listed
+201,SAKHALIN 10,8857667,273186400,273186400,russian federation,Passenger / Ro-Ro Cargo Ship,UCDL,Flags (former),1992,listed
+226,PROFESSOR LOGACHEV,8834691,273456410,273456410,russian federation,Research Vessel,UADZ,Flags (former),1990,listed
+227,AKADEMIK PRIMAKOV,9187514,273392760,273392760,russian federation,Research Vessel,UBCQ4,Flags (former),1999,listed
+228,PROFESSOR RYABINKIN,8504923,Call sign,273457600,russian federation,Research Vessel,Vessel name,Flags (former),1989,listed
+229,ORDOVIK,8409032,273454600,273454600,russian federation,Research Vessel,UETM,CGG Sirocco / Akademik Nemchinov,1988,listed
+230,AKADEMIK LAZAREV,8408985,273450600,273450600,russian federation,Research Vessel,UAJS,Flags (former),1987,listed
+232,BAKHTEMIR,9797577,273418880,273418880,russian federation,Salvage Ship,UBYQ7,Flags (former),2019,listed
+233,BALTIYSKIY ISSLEDOVATEL,9572020,273392360,273392360,russian federation,Offshore Support Vessel,UBAQ4,Baltic Explorer / Swissco Venus / Harkand Harmony / ASL Harmony,2013,listed
+234,FINVAL,9272412,273212470,273212470,russian federation,Offshore Tug / Supply Ship,UBSU4,Sayan Duke / Bourbon Surf / Havila Surf,2003,listed
+235,IVAN SIDORENKO,9624213,273413540,273413540,russian federation,Offshore Supply Ship,UHLC,Flags (former),2019,listed
+236,KAPITAN BEKLEMISHEV,8724080,273451820,273451820,russian federation,Tug,UBSJ,Flags (former),1985,listed
+237,LAMANTIN,9396854,273299220,273299220,russian federation,Offshore Support Vessel,UBNV2,Marlin / Intervention / Josh Cb / Olympic Intervention Iv,2008,listed
+238,MURMAN,9682423,273370640,273370640,russian federation,Salvage Ship,UBAN4,Flags (former),2015,listed
+239,NARVAL,9171876,273417870,273417870,russian federation,Offshore Tug / Supply Ship,UBVQ9,Flags (former),1998,listed
+240,OSTAP SHEREMETA,9624225,273459710,273459710,russian federation,Offshore Supply Ship,UBCS9,Flags (former),2020,listed
+241,SIVUCH,9157820,273418870,273418870,russian federation,Offshore Tug / Supply Ship,UBWQ2,Flags (former),1997,listed
+242,SPASATEL KAREV,9497531,273357360,273357360,russian federation,Salvage Ship,UBKI6,Flags (former),2012,listed
+243,UMKA,9171620,273397740,273397740,russian federation,Offshore Tug / Supply Ship,UBXP5,Sayan Cloudberry,1998,listed
+244,ANTEY,9310018,273312530,273312530,russian federation,Offshore Tug / Supply Ship,UEKQ,Vladislav Strizhov,2006,listed
+245,HERMES,9338230,273319940,273319940,russian federation,Offshore Tug / Supply Ship,UFYE,Yury Topchev,2006,listed
+247,FIONA,8674156,273395690,273395690,russian federation,Pipe-laying Vessel,UBDP8,Fortuna,2010,listed
+308,NOVA ENERGY,9324277,306002000,306002000,unknown,LNG Tanker,PJCL17,Neo Energy / New Energy,2007,listed
+365,VLADIMIR VIZE,9750658,477194200,477194200,Hong Kong,LNG Tanker,VRRV5,Flags (former),2018,listed
+371,NIKOLAY URVANTSEV,9750660,477327300,477327300,Hong Kong,LNG Tanker,VRRY3,Flags (former),2019,listed
+415,MARSHAL VASILEVSKIY,9778313,273437230,273437230,russian federation,Offshore Processing Ship,UBQR5,Flags (former),2018,listed
+417,BORIS SOKOLOV,9817315,209387000,209387000,Cyprus,Crude Oil Tanker,5BBS5,Flags (former),2018,listed
+418,YURIY KUCHIEV,9804033,209508000,209508000,Cyprus,Crude Oil Tanker,5BDY5,Flags (former),2019,listed
+589,YA QING HAI YANG,1021570,750056000,750056000,Guyana,Deck Cargo Ship,8RAC03,Ya Qing Hai Yang / Ocean 28,2022,listed
+599,KAPITAN GOTSKY,9372559,273335010,273335010,russian federation,Crude Oil Tanker,UBCF2,Flags (former),2008,listed
+619,TIMOFEY GUZHENKO,9372561,273330620,273330620,russian federation,Crude Oil Tanker,UBQF5,Flags (former),2009,listed
+648,ALEKSEY CHIRIKOV,9613551,273369290,273369290,russian federation,Offshore Supply Ship,UBXJ4,Flags (former),2013,listed
+659,BUK,9201994,273318480,273318480,russian federation,Tug,UBOE3,Kaptan Emre Omur / Sarah / Mekhanik Frolov,2000,listed
+667,DOBRYNYA,8730077,273449240,273449240,russian federation,Tug,UBOO,Flags (former),1989,listed
+668,FEDOR USHAKOV,9753739,273396260,273396260,russian federation,Standby-Safety Vessel,UBAQ3,Flags (former),2017,listed
+675,YEVGENY PRIMAKOV,9753741,273412440,273412440,russian federation,Standby-Safety Vessel,UAUH,Flags (former),2018,listed
+682,GENNADIY NEVELSKOY,9742120,273396990,273396990,russian federation,Offshore Supply Ship,UDFS,Flags (former),2017,listed
+703,LOTTA,9217979,Call sign,273414140,russian federation,FSO,Vessel name,Overseas Ann / DHT Ann / Kola / Fair Trader,2001,listed
+707,MURMANSK,9167930,273430430,273430430,russian federation,Chemical/Oil Products Tanker,UBRR2,Gazpromneft Murmansk,1998,listed
+722,RN USSURI,9653070,273320710,273320710,russian federation,Tug,UBTK3,Flags (former),2015,listed
+723,SCF ENDEAVOUR,9335678,273312540,273312540,russian federation,Offshore Supply Ship,UIHP,Pacific Endeavour,2006,listed
+724,SCF ENDURANCE,9335680,273314650,273314650,russian federation,Offshore Supply Ship,UIPN,Pacific Endurance,2006,listed
+725,SCF ENTERPRISE,9335692,273312060,273312060,russian federation,Offshore Supply Ship,UFHH2,Pacific Enterprise,2006,listed
+726,SCF SAKHALIN,9307724,273318120,273318120,russian federation,Offshore Supply Ship,UHME,FESCO Sakhalin,2005,listed
+727,SHTURMAN ALBANOV,9752084,273397870,273397870,russian federation,Crude Oil Tanker,UBXO2,Flags (former),2016,listed
+728,SHTURMAN KOSHELEV,9759939,273391160,273391160,russian federation,Crude Oil Tanker,UCMR,Flags (former),2017,listed
+729,SHTURMAN MALYGIN,9752096,273398780,273398780,russian federation,Crude Oil Tanker,UHBP,Flags (former),2016,listed
+730,SHTURMAN OVTSYN,9752101,273391790,273391790,russian federation,Crude Oil Tanker,UBEP3,Flags (former),2016,listed
+731,SHTURMAN SHCHERBININ,9759927,273385570,273385570,russian federation,Crude Oil Tanker,UEXZ,Flags (former),2017,listed
+732,SHTURMAN SKURATOV,9759915,273392990,273392990,russian federation,Crude Oil Tanker,UBFP4,Flags (former),2017,listed
+735,STEPAN MAKAROV,9753727,273392530,273392530,russian federation,Standby-Safety Vessel,UAOZ,Flags (former),2017,listed
+741,TIS,9817779,273396740,273396740,russian federation,Tug,UBXP4,Flags (former),2017,listed
+749,VITUS BERING,9613549,273358680,273358680,russian federation,Offshore Supply Ship,UBGJ9,Flags (former),2012,listed
+751,VYACHESLAV TIKHONOV,9538115,273350140,273350140,russian federation,Research Vessel,UBSH6,Polarcus Selma,2011,listed
+752,ELM,9804057,273418480,273418480,russian federation,Tug,UBXQ5,Vyaz,2018,listed
+923,CLAUDIA GAS,8813087,636017205,636017205,Liberia,LPG Tanker,D5JU2,Skriveri / Polargas,1990,listed
+974,VENGERY,9451642,273217060,273217060,russian federation,Offshore Supply Ship,UBQU6,Posh Constant,2010,listed
+994,TONG YUAN,9638197,412303160,412303160,People's Republic of China,Dredger,BQEC,Flags (former),2012,listed
+1131,MARIO PRIMO,8743763,273390060,273390060,russian federation,Pipe-laying Vessel,UBQP2,Flags (former),2007,listed
+1453,YAKOV GAKKEL,9750672,311000634,311000634,Bahamas,LNG Tanker,C6DC2,Flags (former),2019,listed
+1454,RUDOLF SAMOYLOVICH,9750713,311000627,311000627,Bahamas,LNG Tanker,C6DB3,Flags (former),2018,listed
+1455,NIKOLAY YEVGENOV,9750725,311000631,311000631,Bahamas,LNG Tanker,C6DB7,Flags (former),2019,listed
+1456,EDUARD TOLL,9750696,311000548,311000548,Bahamas,LNG Tanker,C6CR2,Flags (former),2017,listed
+1457,GEORGIY USHAKOV,9750749,311000633,311000633,Bahamas,LNG Tanker,C6DB9,Flags (former),2019,listed
+1458,VLADIMIR RUSANOV,9750701,477150100,477150100,Hong Kong,LNG Tanker,VRRA7,Flags (former),2018,listed
+1459,VLADIMIR VORONIN,9750737,311000632,311000632,Bahamas,LNG Tanker,C6DB8,Flags (former),2019,listed
+1516,YANTAR,7524419,Call sign,,russian federation,Research Vessel,Vessel Type,Flags (former),1975,listed
+1517,YURI OSOKIN,9912701,273256500,273256500,russian federation,Research Vessel,UBIZ8,Flags (former),2024,listed
+6,ALEXANDR DEEV,9940186,273615820,273615820,russian federation,Passenger / Ro-Ro Cargo Ship,UBSX6,Flags (former),2023,listed
+13,GENNADY EGOROV,9945124,273615800,273615800,russian federation,General cargo ship,UBGX4,Flags (former),2022,listed
+15,NAVIS-6,9868807,273451690,273451690,russian federation,General cargo ship,UAQK,Flags (former),2019,listed
+17,NIKOLAY ANISHCHENKOV,9942392,273614750,273614750,russian federation,General cargo ship,UBIY9,Flags (former),2023,listed
+18,PETROTRANS-5902,9900514,273218340,273218340,russian federation,General cargo ship,UBXT9,Flags (former),2020,listed
+19,VICTOR ANDRYUKHIN,9922110,273298410,273298410,russian federation,General cargo ship,UBIV4,Flags (former),2021,listed
+20,VLADIMIR LATYSHEV,9921996,273213790,273213790,russian federation,General cargo ship,UBEV8,Flags (former),2021,listed
+21,VYACHESLAV ARSHINOV,9945136,273613800,273613800,russian federation,General cargo ship,UBGX2,Flags (former),2022,listed
+23,ANATTA,1011159,319025900,319025900,Cayman Islands,Yacht,ZGBI5,Ahimsa / Aglaia,2011,listed
+102,FESCO MAGADAN,9287699,273452980,273452980,russian federation,Container Ship,UBUS7,India / Velazquez / CMA CGM Tatiana,2003,listed
+103,FESCO MONERON,9277412,273210520,273210520,russian federation,Container Ship,UBHT4,Francop / Tavastland,2003,listed
+131,MADAME GU,1011331,319906000,319906000,Cayman Islands,Yacht,ZGCW7,Dream,2013,listed
+135,DILBAR,9661792,319094900,319094900,Cayman Islands,Yacht,ZGFO,Omar,2016,listed
+151,FLYING FOX,9829394,533132807,533132807,Malaysia,Yacht,9M3333,Shu,2019,listed
+175,GRACEFUL,1011551,273294110,273294110,russian federation,Yacht,UBGV8,Flags (former),2014,listed
+176,OLYMPIA,1006960,319766000,319766000,Cayman Islands,Yacht,ZCGR,Flags (former),2002,listed
+207,LENA,9594339,378314000,378314000,British Virgin Islands,Yacht,ZJL8309,Flags (former),2010,listed
+219,SHELLEST,RS 150443,273385420,,unknown,Yacht,UBAO8,Flags (former),2015,listed
+220,NEGA,RS 130280,273337970,,unknown,Pleasure Craft,J8Y4483,Flags (former),2013,listed
+222,NIRVANA,1011202,533132675,533132675,Malaysia,Yacht,9M3187,Nirvana,2012,listed
+246,ST. VITAMIN,,375311000,,Saint Vincent and the Grenadines,Pleasure Craft,Vessel Type,Matchinho,2005,listed
+255,SEA RHAPSODY,1010648,533132399,533132399,Malaysia,Yacht,9M2864,Flags (former),2012,listed
+714,FINVAL,9620633,273274660,273274660,russian federation,Bulk Carrier,UAAF6,Nord Sirius / Dennisan / Orient Harmony,2012,listed
+715,LEGENDA,9673202,273273660,273273660,russian federation,Bulk Carrier,UAAF5,Orient Genesis / Integrale / Orient Vision,2014,listed
+721,RN AMUR,9653068,273333470,273333470,russian federation,Tug,UIZU,Flags (former),2013,listed
+737,SVYATOY KNYAZ VLADIMIR,9678238,273393630,273393630,russian federation,Passenger Ship,UBUP4,Flags (former),2017,listed
+816,CELEBES,8710730,525018077,525018077,Indonesia,Tug,YDA3301,Flags (former),1986,listed
+821,MALILI,9179921,525018442,525018442,Indonesia,Tug,YBEN,Flags (former),1997,listed
+822,MARINA VISION,8106109,525010379,525010379,Indonesia,Tug,YDA3415,Flags (former),1981,listed
+1153,ALOR 2,9228538,307081000,307081000,unknown,Container Ship,P4AG16,Chief / CSCL Kelang / Chief / Ace,2001,listed
+1154,VIRA 1,9088524,Call sign,,unknown,Container Ship,Vessel name,Helene Delmas / Calaparana / CMA CGM Maya / Niledutch Congo / Admiral Santosh / Santosh / Hazel / Aeolus,1996,listed
+1155,RAMA 3,9303754,750799000,750799000,unknown,Container Ship,8RAA25,CMA CGM Respect / Emirates Eminence / Mark Twain / Solar N / Avni / Ale,2006,listed
+1157,NYRA 2,9241487,307076000,307076000,unknown,Container Ship,P4AG11,CMA CGM Intensity / MCC Jakarta / Med / Nordmed / Snoopy / Bertie,2003,listed
+1158,BIGLI,9307047,636020524,636020524,Liberia,Container Ship,D5ZP3,APL Paradise / MOL Paradise / Paradise Star,2005,listed
+1162,XARON,9554834,Call sign,,unknown,Asphalt/bitumen tanker,Vessel name,Petro Omega / Black Pearl / Xante,2010,listed
+1165,COURAGE 7,9553957,626046000,626046000,unknown,Asphalt/bitumen tanker,TRAY6,Iver Courage,2015,listed
+1166,VELIX,9554822,Call sign,,unknown,Asphalt/bitumen tanker,Vessel name,Petro Alpha / Black Jade / Ianthe,2012,listed
+1168,MAHADEV,9571052,649555000,649555000,unknown,Asphalt/bitumen tanker,TZAC4,Wen Zhou Wan / JS Nanjing / Ocean Crystal / Clymene / Kailash,2011,listed
+1268,NORA,9259408,422000125,422000125,Iran,Container Ship,EPA6448,Kota Gunawan / Cerus,2003,listed
+1269,VELON 1,9122473,307074000,307074000,unknown,Container Ship,P4AG09,Sagittarius / DAL Madagascar / CMA CGM Ipanema / Sagittarius / Sl Gulliver / Kabul / Dhanu,2001,listed
+1271,GAUJA,9348493,620800110,620800110,unknown,Container Ship,D6A4110,Hammonia Xenia / TS Hongkong,2006,listed
+1272,HAKUNA MATATA,9354167,636021002,636021002,Liberia,Container Ship,5LBT7,NYK Terra / X-Press Annapurna,2008,listed
+1274,LIDIA,9330501,620800054,620800054,unknown,Container Ship,D6A4054,Ital Fulgida / Uni Fulgent / Fulgent / Bomar Fulgent / Tintin,2007,listed
+1275,TAVA 4,9292151,620800061,620800061,Comoros,Container Ship,D6A4061,Maersk Dortmund / HS Humboldt / Maine Trader / Moana,2004,listed
+1276,PINOCCHIO,9400112,636020659,636020659,Liberia,Container Ship,5LAB8,Conti San Francisco / Zim San Francisco / San Francisco IІ / Seamelody,2009,listed
+1277,PUMBA,9302566,620999952,620999952,unknown,Container Ship,D6A3952,MSC Benedetta / Sct Santiago / S Santiago / ANL Wantirna,2006,listed
+1278,RANTANPLAN,9307023,636021101,636021101,Liberia,Container Ship,5LCH2,Canada Express / OOCL Dubai,2006,listed
+1279,ENZO 2,9236652,307079000,307079000,unknown,Container Ship,P4AG14,Katharina / CSCL Lianyungang / MOL Symphony / Katharinas / Kent Trader / Marina Jade / Mogly / Rob,2001,listed
+1280,SIMBA,9719862,636021266,636021266,unknown,Container Ship,5LDC3,Cape Chronos,2015,listed
+1281,STAR,9436484,620800051,620800051,Comoros,Container Ship,D6A4051,HS Debussy / SCI New Delhi / Hs Debussy / Gh Scirocco / Sonic / Sila 3,2009,listed
+1282,ZYRA,9237084,307058000,307058000,unknown,Container Ship,P4AF15,Wan Hai 306 / Tb Anping,2002,listed
+1283,FLEXI 2,9246322,422000124,422000124,Iran,Container Ship,EPA6447,Maersk Norfolk / E. R. Bremen / CCNI Manzanillo / Puccini / Sl Tweety / Tex,2003,listed
+1284,TIMON,9415844,636021306,636021306,Liberia,Container Ship,A8TH7,Uasc Yanbu / RDO Concert / Rdo Concert,2009,listed
+1286,YOGI,9307009,636020609,636020609,Liberia,Container Ship,D5ZZ2,OOCL Kaohsiung,2006,listed
+1287,ZAYNAR 2,9313242,Call sign,,unknown,Container Ship,Vessel name,Zim Norfolk / Conti Emden / Segara Mas / Goofy / Zagor,2006,listed
+1591,UGAH CONFIDENCE,9892963,341141000,,Saint Kitts and Nevis,General cargo ship,V4KU4,Flags (former),2021,listed
+1619,ANGORA 4,9356969,636020314,,Liberia,General cargo ship,D5YQ8,Mir Jalal Pashayev,2006,listed
+7,ALPHA HELIOS,9924340,273296030,273296030,russian federation,General cargo ship,UBSV3,Flags (former),2021,listed
+8,ALPHA HERMES,9924352,273294550,273294550,russian federation,General cargo ship,UBDW5,Flags (former),2021,listed
+14,LEONID PESTRIKOV,9922122,273297510,273297510,russian federation,General cargo ship,UBJV2,Flags (former),2021,listed
+16,NIKOLAI LEONOV,9922134,273298020,273298020,russian federation,General cargo ship,UBLV9,Flags (former),2021,listed
+61,GASRET ALIEV,9083330,273150400,273150400,russian federation,General cargo ship,UEVI,Mys Khako / Myskhako,1993,listed
+118,MEKHANIK MAKARIN,8904379,273115700,273115700,russian federation,General cargo ship,UCOR,Flags (former),1991,listed
+123,S. KUZNETSOV,9210359,273336180,273336180,russian federation,General cargo ship,UBLK7,BBC Spain / Atlantic Steamer,2001,listed
+126,SMP NOVODVINSK,9398046,273298320,273298320,russian federation,General cargo ship,UBNV6,CFL Prudence / Prudence,2008,listed
+127,SMP SEVERODVINSK,9376440,273291430,273291430,russian federation,General cargo ship,UBUV7,CFL Prospect / Prospect,2007,listed
+130,VIKTOR ZABELIN,9210256,273292680,273292680,russian federation,General cargo ship,UBUW4,Ostkap / SDS Rain,2000,listed
+136,ENISEY,9079169,273212240,273212240,russian federation,Bulk Carrier,UBVT8,Federal Baffin / Baffin / Ice Power II / Izara Princess / Cedar 4 / Nordic Barents,1995,listed
+141,SIBERIA,9239458,273217210,273217210,russian federation,Bulk Carrier,UBZS7,Harriett,2002,listed
+205,SV KONSTANTIN,9203710,273450880,273450880,russian federation,General cargo ship,UBUS4,Boris Shcherbina / St. Constantine,2002,listed
+206,SV NIKOLAY,9482926,273215770,273215770,russian federation,General cargo ship,UBTU6,St. Nicolas,2009,listed
+224,COMETA,8315499,613429702,613429702,Cameroon,General cargo ship,TJM5203,Gotland / Gotland 1 / Emhani Ana / Pal Palych / Pawell,1984,listed
+256,BAYAZE D,9385233,671555100,671555100,Togo,Bulk Carrier,5VJK4,Sider Black / Gullwing / Finikia / San Severus / Monte Bianco,2009,listed
+257,SAN DAMIAN,9274331,669513000,669513000,unknown,General cargo ship,3DAM1,Ostkap Carrier / BBC California / Souria,2004,listed
+258,MONTE ROSA,9274343,Call sign,,unknown,General cargo ship,Vessel name,Beluga Enterprise / Laodicea / San Cosmas,2005,listed
+285,NADEZHDA,8611221,273456690,273456690,russian federation,General cargo ship,UBXS8,Boklum / Thamesteel 1 / Tahsin / Whiskey Trio,1989,listed
+286,GAM EXPRESS,8204119,Call sign,,unknown,General cargo ship,Vessel Type,Ali-M / Martakla / Lady Eman / Narsis / Haje Amira / Hajeh Amira / Agm Express,1982,listed
+287,MEZHDURECHENSK,8948167,273311460,273311460,russian federation,General cargo ship,UAAX2,Flags (former),1966,listed
+288,USKO MFU,7919781,613101900,613101900,Cameroon,General cargo ship,TJM0080,Med Voyager / Sveti Duje,1982,listed
+289,ZAFAR,9720263,273254900,273254900,russian federation,Bulk Carrier,UBKZ6,Nordic Melbourne / Summit / Wl Kirillov / Am Kirillov / Am Theseus,2015,listed
+290,ZAID,9715270,273251900,273251900,russian federation,Bulk Carrier,UBKZ5,Nordic Sydney / Alpine / Wl Totma / Am Totma / Am Calypso,2015,listed
+291,IRKUTSK,9419084,273611180,273611180,russian federation,General cargo ship,UBWY6,Laneia / St. Zoya / Salvinia / Alpha / Alfa M,2007,listed
+294,FEDOR,9431977,273294380,273294380,russian federation,Bulk Carrier,UBSW5,Rita B / Rita Br,2007,listed
+301,MATROS KOSHKA,9550137,273297880,273297880,russian federation,Bulk Carrier,UBWW4,Fair Winds / Amira Ilham,2009,listed
+303,GRUMANT,9385879,273318940,273318940,russian federation,Bulk Carrier,UFCK,Cooperation,2006,listed
+304,MIKHAIL NENASHEV,9515539,273292290,273292290,russian federation,Bulk Carrier,UBYW5,Atlantic Diana / Targa,2009,listed
+305,MATROS SHEVCHENKO,9574195,273611850,273611850,russian federation,Bulk Carrier,UBJY4,Prinsesa Sirena / Maria Gs,2011,listed
+306,MATROS POZYNICH,9573816,273292990,273292990,russian federation,Bulk Carrier,UBBX5,Shunwa / Tramontana,2010,listed
+310,KRASNODAR,9296781,273611740,273611740,russian federation,Bulk Carrier,UBDY2,New Hunter / New Hunter,2005,listed
+312,BOMUSTAFA O,9114476,352001900,352001900,Panama,Bulk Carrier,3E3715,Sea Justice / Bright Coral / Marina K / Allegra,1995,listed
+314,KAPITAN MIRONOV,9077563,273383610,273383610,russian federation,General cargo ship,UBWN6,Flags (former),1995,listed
+316,STK-1003,8326058,273458720,273458720,russian federation,General cargo ship,UBEL,Flags (former),1983,listed
+317,STK-1016,8521880,273438520,273438520,russian federation,General cargo ship,UEKG,Flags (former),1985,listed
+319,ANT,8407230,273355250,273355250,russian federation,General cargo ship,UAFS,Flags (former),1985,listed
+320,SWORD LION,9136785,271050524,271050524,Turkey,General cargo ship,TCA7128,Sanko Eternal / Lion,1996,listed
+321,SORMOVSKIY-48,8226428,273453680,273453680,russian federation,General cargo ship,UBTS9,Flags (former),1983,listed
+322,VERA,8602957,273443550,273443550,russian federation,General cargo ship,UBZR3,Ariel S / Alperen / Lady Ay,1985,listed
+343,SH EXPRESS,9085443,511625000,511625000,Palau,General cargo ship,T8A2711,Win Honey / Seiyo Crystal / Integro / Kovalevych,1994,listed
+344,ALFA1,9045601,273610370,273610370,russian federation,General cargo ship,UBTY2,Hamburg Pride / Imbat / Novosea / Mehmet Bey,2000,listed
+345,KONAK,8933203,613906100,613906100,Cameroon,General cargo ship,TJM4U4,Nadezhda / Omskiy 7,1976,listed
+346,SOFIA,9245263,273251830,273251830,russian federation,General cargo ship,UACA5,Sider Monique / Sider Ponza / Onego Ponza / Fwn Leon / Blue Ivy,2002,listed
+348,STK-1004,8326060,273439130,273439130,russian federation,General cargo ship,UBEM,Flags (former),1984,listed
+349,STK-1019,8620014,273327700,273327700,russian federation,General cargo ship,UBEU,Flags (former),1986,listed
+350,LUBOV,9915650,273292860,273292860,russian federation,General cargo ship,UBKW2,Flags (former),2021,listed
+357,VOLGO BALT 106,8230077,273459650,273459650,russian federation,General cargo ship,UCGP,Flags (former),1969,listed
+358,AMUR-2501,8721272,273455780,273455780,russian federation,General cargo ship,UBUS3,Flags (former),1984,listed
+359,VOLGO-DON 205,8959166,273374000,273374000,russian federation,General cargo ship,UCWG,Flags (former),1977,listed
+360,VOLGO-BALT188,8875530,273435220,273435220,russian federation,General cargo ship,UFMV,Janis,1975,listed
+361,VOLGO DON 5043,8866321,273316500,273316500,russian federation,General cargo ship,UGWY,Nord / Volgo-Don 5043 / Orion,1972,listed
+362,LAVRION,8729195,273418280,273418280,russian federation,General cargo ship,UBXQ2,KRASNYI AKSAY,1989,listed
+364,ARINA A,9101637,372108000,372108000,Panama,Bulk Carrier,H9HV,Eun Hee / Oriental Hope / Captainyannis L / Petra Star / Twin Star,1995,listed
+366,CAPITAN KORCHIN,8959219,273370100,273370100,russian federation,General cargo ship,UCWM,Volgo-Don 223,1978,listed
+367,M. ANDREEV,8946377,273379000,273379000,russian federation,General cargo ship,UCWL,Volgo-Don 217,1978,listed
+368,WUZHOU STAR,9254575,354447000,354447000,Panama,Bulk Carrier,H9YY,Amapola / Emmakris II / Ice Queen,2002,listed
+370,KAPITAN SKACHKOV,8951255,273318240,273318240,russian federation,General cargo ship,UGXT,VOLGO DON 5001,1968,listed
+439,BABYLON,8902474,630001156,630001156,Guinea-Bissau,Bulk Carrier,J5AS2,Sayany / Almi / Ak Ceren / Petra II / Horasan,1991,listed
+440,DIANA MARIA,9874789,273218230,273218230,russian federation,General cargo ship,UBQT8,Flags (former),2019,listed
+441,ALPHA MERCURY,9917983,273211390,273211390,russian federation,General cargo ship,UBCV4,Flags (former),2020,listed
+442,ALEKSEY AFANASYEV,8033132,273339400,273339400,russian federation,General cargo ship,UBZD,Sormovskiy-3004,1981,listed
+443,ALTAIR,8943416,667021000,667021000,Sierra Leone,General cargo ship,9LC2000,Neriungri / Avkvamarin / Zion,1988,listed
+642,PRINCESS EVA,9109861,613003584,613003584,Cameroon,General cargo ship,TJMC40,Ku Am / Hai Duong 01 / Jasmin Queen,1994,listed
+856,BETA,8878374,273353420,273353420,russian federation,General cargo ship,UBDH2,Alioth,1979,listed
+880,ANATOLIY NIKOLAEV,9868821,273450690,273450690,russian federation,General cargo ship,UAQJ,Flags (former),2019,listed
+881,CORAL,8932302,273427610,273427610,russian federation,General cargo ship,UBKJ,Zhigansk,1986,listed
+882,DUNE-2,8728048,273214220,273214220,russian federation,General cargo ship,UBET9,Volgo-Balt 247,1983,listed
+883,EMERALD,8935407,273447370,273447370,russian federation,General cargo ship,UDYW,Omskiy-124 / Pevek / Star Light,1985,listed
+884,KAPITAN AVESHNIKOV,8332796,273334900,273334900,russian federation,General cargo ship,UEDP,Sormovskiy-50,1985,listed
+885,LAZURIT,8957132,273430690,273430690,russian federation,General cargo ship,UGBV,Angarsk / Omskiy-132/1,1988,listed
+886,OMMAX,9481738,616999019,616999019,Comoros,General cargo ship,D6GD2,Flags (former),2010,listed
+887,OMSKIY-86,8936798,273337010,273337010,russian federation,General cargo ship,UBCF4,Tayshet / Rigel / Davenport / Sailcountess,1986,listed
+888,ONIX,8943478,273435130,273435130,russian federation,General cargo ship,UAXO,Norilsk,1982,listed
+889,OREL-1,8853570,422604600,422604600,russian federation,General cargo ship,EPAY6,Flags (former),1989,listed
+890,OMSKIY-133,8873336,273310900,273310900,russian federation,General cargo ship,UIWR,Flags (former),1988,listed
+891,PETR HAMITOV,8989214,352646000,352646000,Panama,General cargo ship,3FOO7,Pyotr Khamitov,1987,listed
+892,PANO-02,8897198,273448370,273448370,russian federation,General cargo ship,UEAO,Ruby / Thunder,1985,listed
+893,STAROPOLYE,8230522,273314900,273314900,russian federation,General cargo ship,UIDA,Flags (former),1982,listed
+1072,ALEVTIN SHELKOVNIKOV,7943287,273257490,273257490,russian federation,General cargo ship,UALB9,Flags (former),1981,listed
+1080,VICTORIA V,9454125,273253030,273253030,russian federation,Bulk Carrier,UAWA2,Universe 1 / Matrix,2007,listed
+1087,NOVAYA ZEMLYA,9549281,273334820,273334820,russian federation,Bulk Carrier,UFNZ,North Way,2009,listed
+1088,NEMAN,7005554,273315300,273315300,russian federation,General cargo ship,UAQT,Sormovskiy-11 / Nikolay Lebedev,1969,listed
+1122,VICTORIA K,1041348,273253950,273253950,russian federation,General cargo ship,UALA7,Xiang Yi Shun / Fu Ru,2020,listed
+1127,GRAND,8877253,273390210,273390210,russian federation,General cargo ship,UEPI,Flags (former),1974,listed
+1129,KAPITAN YAKOVLEV,9077575,273384030,273384030,russian federation,General cargo ship,UBDO2,Flags (former),1996,listed
+1132,HENG YANG 9,1059979,352003889,352003889,Panama,Container Ship,3E5304,Kai Hang 1,2012,listed
+1136,STK-1031,8719425,273312310,273312310,russian federation,General cargo ship,UBEQ,Flags (former),1987,listed
+1137,CAFFA,9143611,632001135,632001135,unknown,General cargo ship,3X2107,Ufa / Vetluga,1997,listed
+1139,ZHIBEK ZHOLY,9598880,436000362,436000362,Kazakhstan,General cargo ship,UNIJ,Neva-Leader 8,2016,listed
+1140,SORMOVO 2,7945869,273314800,273314800,russian federation,General cargo ship,UFDH,Savite,1981,listed
+1141,VOLGO-BALT 216,8841656,273331200,273331200,russian federation,General cargo ship,UDCK,Flags (former),1978,listed
+1142,VOLGO-BALT 230,8230443,273337300,273337300,russian federation,General cargo ship,UHZC,Flags (former),1981,listed
+1143,VOLGO-BALT 237,8230510,273339800,273339800,russian federation,General cargo ship,UIBV,Flags (former),1983,listed
+1337,SAFINA,8611219,620999054,620999054,Comoros,General cargo ship,D6A3060,Rantum / Vera Su,1989,listed
+1338,KLC ERCIYES,9132480,577295000,577295000,Vanuatu,Bulk Carrier,YJTZ8,Scanda / Serdika,1997,listed
+1339,KUDMA 4,9100190,Call sign,273455920,russian federation,General cargo ship,Vessel name,Sampo / Samur 8,1993,listed
+1340,ST. OLGA,9493224,352001914,352001914,Panama,Bulk Carrier,3E3727,Westgate / Amira Sophie,2011,listed
+1341,ANKA,9365415,677081900,677081900,Tanzania,General cargo ship,5IM919,Xin Long Zhou 155 / Vera 777 / Victoria,2005,listed
+1342,AYA ZANOUBYA 3,9367164,Call sign,677069000,Tanzania,General cargo ship,Vessel name,Nasico Star / Star 126 / Star 26,2006,listed
+1379,GLADIUS,8919879,630001202,630001202,Guinea-Bissau,General cargo ship,J5AX2,BBC Frisia / Roelof / Peresvet / Ayana Star / Aminah Star,1992,listed
+9,SANAR-10,9300348,273444390,273444390,russian federation,Oil Products Tanker,UBYS,Avrora Altair / Yaroslavl,2004,listed
+10,SANAR-9,9300350,273433680,273433680,russian federation,Oil Products Tanker,UGGU,Kostroma / Avrora Regul,2005,listed
+11,SANAR-14,9313589,273445480,273445480,russian federation,Oil Products Tanker,UHSW,Vladimir / Avrora Sirius,2004,listed
+22,ANASTASIIA,9349291,273298160,273298160,russian federation,General cargo ship,UBGW6,Beluga Foundation / Opal Gallant / Freya Scan / Thorco Denmark / Amber / BBC Kansas / Victory Shine / Viktoria Shain,2006,listed
+63,KOMPOZITOR ELZA IBRAGIMOVA,8606628,273428520,273428520,russian federation,Ro-Ro Cargo Ship,UAVY,Kompozitor Rimskiy-Korsakov / Aquarama / Akvarama / Kompozitor Gasanov,1986,listed
+110,KAPITAN KOKOVIN,9279422,273396150,273396150,russian federation,General cargo ship,UAOX,Flinterborg / Flinterbright / Fast Gilles,2004,listed
+122,MIKHAIL LOMONOSOV,9216482,273343810,273343810,russian federation,General cargo ship,UBTE3,Millennium / Validus / Vento di Garbi,2000,listed
+140,SEVERNIY PROECT,9202053,273432110,273432110,russian federation,General cargo ship,UFAV,Trina Oldendorff / Cielo del Caribe / MSC Toulouse / Niledutch Kuito / Marchicora,2000,listed
+202,LADY LEILA,9683740,273340060,273340060,russian federation,Oil Products Tanker,UCGL,Flags (former),2014,listed
+203,LADY RANIA,9784893,273382620,273382620,russian federation,Chemical/Oil Products Tanker,UBBO9,Victoria,2015,listed
+204,LADY SEVDA,9683738,273342180,273342180,russian federation,Oil Products Tanker,UBWL7,Flags (former),2014,listed
+208,MARIA E,9617923,273380810,273380810,russian federation,Passenger / Ro-Ro Cargo Ship,UBXN5,Maria / Maria Eleni,2011,listed
+231,SANAR 15,9777670,273375360,273375360,russian federation,Oil Products Tanker,UALW,Lady Aria / Synergy 2,2015,listed
+254,YAZ,9735323,273342890,273342890,russian federation,Chemical/Oil Products Tanker,UBDM9,Flags (former),2014,listed
+341,MEE,6603177,273438290,273438290,russian federation,Bunkering Tanker,UIFW,Flags (former),1965,listed
+342,ISIK 3,9031260,273250800,273250800,russian federation,General cargo ship,UBJZ9,Vera Sky / Nordstrand / Nicole,1991,listed
+351,AZOV,8943260,273437770,273437770,russian federation,Vegetable Oil Tanker,UHDR,Aston Explorer / Izabella / Bratya Shamariny,1987,listed
+352,KOYSUG,8883252,273454720,273454720,russian federation,Chemical/Oil Products Tanker,UBRY,Aston Challenger / Aston / Aston_Challenger / Belgrad,1985,listed
+353,NIZAMI GANJAVI,9369617,273314230,273314230,russian federation,Chemical/Oil Products Tanker,UABQ,Lenkaran,2006,listed
+354,ANDROPOV,9269348,273450240,273450240,russian federation,Oil Products Tanker,UGKW,Kapitan Zimin,2004,listed
+412,BARQ,9321691,461000284,626244000,Oman,Crude Oil Tanker,A4FB4,Cap Guillaume / Sai Baba / Lahar,2006,listed
+450,PERSEY,9544281,273273160,352002588,russian federation,Oil Products Tanker,UARE2,Four Sky / Corum / Corus,2010,listed
+517,GUSTAV,9436006,273272260,352002486,russian federation,Crude Oil Tanker,UAUE8,Cape Anglia / Stealth Chios / Ghibli / Signal Cheetah / Stealth Chios / Paramount / Samsun / Samira,2009,listed
+522,GLACIA,9321689,667002284,334919000,Sierra Leone,Crude Oil Tanker,9LS1987,Solviken / Agneta Pallas 2 / Ocean Faye / Navigator Ridge,2007,listed
+542,RANGLER,9206671,613670000,613670000,Cameroon,Crude Oil Tanker,TJMC964,Stena Natalita / Sensei / Elbrus,2001,listed
+551,ARLAN,9227443,667002314,667002314,Sierra Leone,Crude Oil Tanker,9LS2017,Searacer / Innova,2002,listed
+563,ORFEOS,9336414,538012620,352002521,Marshall Islands,Crude Oil Tanker,V7B3114,SPT Conqueror / Bergina / Freedom / Volta River,2007,listed
+594,COATLICUE,9235000,613404611,613404611,Cameroon,Crude Oil Tanker,TJM64N,Nord Stealth / Eagle Stealth / Happy Century / Happy C / Trident Harmony,2001,listed
+635,MOCHA,9271951,613271309,613271309,Cameroon,Oil Products Tanker,TJMOW7,Formosa Twelve / Ardmore Seamaster / CCPC Voyager / Barcan IІІ / Bacci / Facca,2004,listed
+636,ASCENDANT,9248801,613419802,352002666,Cameroon,Oil Products Tanker,TJMV3C,Seacrown / Seacrown I / Atacama / Mu Dan,2003,listed
+651,APUS,9280885,352001692,352001692,unknown,Crude Oil Tanker,3E2712,Astro Phoenix,2004,listed
+657,MARIA,9198783,273610900,273610900,russian federation,Oil Products Tanker,UBGX6,Gulf Progress / Moray / Boray,2000,listed
+663,VIEW,9271327,632001123,632001123,unknown,Crude Oil Tanker,3X2095,Iblea / Lea / Cup,2003,listed
+669,LADA,9749130,511101480,511101480,Palau,Oil Products Tanker,T8A4860,New Ocean Wind 1,2016,listed
+670,MIDVOLGA-3,9735141,273374820,273374820,russian federation,Oil Products Tanker,UBOM5,Flags (former),2014,listed
+713,AZALEA,9236640,273275070,632001130,russian federation,Chemical/Oil Products Tanker,UACF3,Nefeli / High Nefeli / Crown IІ / Own IІ / Onyx,2003,listed
+763,AKAR WEST,9258167,613612000,613612000,Cameroon,Crude Oil Tanker,TJMC232,Troitsky Bridge,2003,listed
+781,SEA MARINE 1,9255830,574322000,574322000,Vietnam,Oil Products Tanker,3WMU,Nordafrika / Petrolimex 08,2003,listed
+782,CELERIX,9222560,613139804,355804000,Cameroon,Crude Oil Tanker,TJM4G7,St. Clemens / Tulum / Jiangxi / Durango / Trident Modesty / Cheetah IІ,2000,listed
+787,TOA PAYOH,9298492,647260303,632001161,unknown,Chemical/Oil Products Tanker,5RA003,North Point / Northern Ocean,2005,listed
+796,MANASLU,9388027,647553009,,unknown,Chemical/Oil Products Tanker,5RA09,Energy Puma,2008,listed
+807,JUPITER I,9599341,273253180,273253180,russian federation,Oil Products Tanker,UBDL5,Svl Pride,2010,listed
+810,C VIKING,9261657,667002414,518999144,Sierra Leone,Chemical/Oil Products Tanker,9LS2117,Southern Unity / Amalienborg / Shandong Zihe,2004,listed
+841,VOLGONEFT-111,8230663,273436920,273436920,russian federation,Oil Products Tanker,UIDE,Flags (former),1973,listed
+843,IGOR ORLOV,8892007,273270200,273270200,russian federation,Oil Products Tanker,UBIM,Inline 147 / Volgoneft-147,1979,listed
+845,VOLGONEFT-117,8925426,273437920,273437920,russian federation,Oil Products Tanker,UIHR,Flags (former),1974,listed
+853,KALUGA,9585924,273298630,273298630,russian federation,Chemical/Oil Products Tanker,UBWV6,Flags (former),2021,listed
+858,CARUZO,9137648,667002403,667002403,Sierra Leone,Crude Oil Tanker,9LS2106,Crimson / Rimson / Osprey,1998,listed
+861,LONGEVITY 7,9240885,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel name,Torm Gertrud / Caida Star / East 1,2002,listed
+863,KATRAN,9260275,667002357,667002357,Sierra Leone,Chemical/Oil Products Tanker,9LS2060,Blue Sun / Sw Monaco I / Cape Bruny,2004,listed
+866,SEA MAVERICK,9265885,667002316,667002316,Sierra Leone,Chemical/Oil Products Tanker,9LS2019,Andromar / Overseas Andromar / Seaways Andromar / Johnny Trader,2004,listed
+914,WALER,9393668,352002874,352002874,Panama,Chemical/Oil Products Tanker,3E4653,Anuket Ruby,2008,listed
+915,MESTRAL,9391402,352004840,352004840,Panama,Chemical/Oil Products Tanker,3E7074,Conti Guinea / Cape Guinea / Grace Felix,2008,listed
+916,SANRAYZ,8862935,273437420,273437420,russian federation,Oil Products Tanker,UCIA,Roskem 2 / Roschem-2,1986,listed
+919,TENDUA,9299862,667002199,667002199,Sierra Leone,Oil Products Tanker,9LS1902,Baltic Advance / Irbis / Amatra,2006,listed
+921,SEAHORSE,9266750,613541600,613541600,Cameroon,Crude Oil Tanker,TJM23X,Formosaproduct Alpine / Turris / FPMC P Alpine / Super Lotus / Yong Xing Shun Hang / Magic Lady / Seabass,2004,listed
+933,NEMBUS,9334296,626455000,626455000,Gabon,Chemical/Oil Products Tanker,TRBP6,Commagenian / Frosta / Northsea Rational / Northsea I,2006,listed
+940,SREDINA,9236975,357263000,357263000,Panama,Oil Products Tanker,HPOW,Maersk Ramsgate / Maersk Rhode Island / Countess I / Mariner ІІІ,2002,listed
+942,CELINE,9252400,Call sign,,unknown,Oil Products Tanker,Vessel name,Freja Ocean / Kriti Sea / Onyx / Seal,2002,listed
+943,CH ELIXIR,9253246,229599000,229599000,Barbados,Chemical/Oil Products Tanker,8PQI,Purple Star / Kolka / Angi,2003,listed
+945,NOSTOS,9258014,636019667,636019667,Liberia,Oil Products Tanker,D5VO7,Sea music / Tajin / Aldan,2003,listed
+947,GARUDA,9272931,667001584,667001584,Sierra Leone,Chemical/Oil Products Tanker,9LU2387,High Endeavour / Sw Tropez I / Pericles,2004,listed
+951,FEI YUN HE,9263198,613425603,613425603,Cameroon,Chemical/Oil Products Tanker,TJMV17,Mount Robson / Hafnia Robson / Beks Naz / Saint / Nordimar Gale,2004,listed
+952,DORIN,9290828,613414203,613414203,Cameroon,Oil Products Tanker,TJMA63,Scarlet Star / Byron / Voula / E Mei Shan,2005,listed
+954,HAWK III,9260263,374125000,374125000,Panama,Oil Products Tanker,3EDT2,Cape Bille / Sw Julia I,2003,listed
+955,GEORGIA,9302683,215375000,215375000,Malta,Chemical/Oil Products Tanker,9HA2712,Cape Bilbao,2006,listed
+970,STORM PEARL,9263203,613407501,630001099,Cameroon,Chemical/Oil Products Tanker,TJMI22,Mount Adamello / Hafnia Adamello / Beks Lina / Soul,2004,listed
+984,PAXMARIS,9495832,610000049,610000049,unknown,Oil Products Tanker,TYAF3,Menara Satu / Sara 2 / Sara 2nd / Zayn / Trident King / Blacksea Eagle,2008,listed
+986,AVIOR,9164512,273415140,273415140,russian federation,Oil Products Tanker,UHFR,Flags (former),1999,listed
+995,SATURN I,9655470,273259970,273259970,russian federation,Oil Products Tanker,UADB4,SVL Unity / RN Saratov / Svl Unity,2013,listed
+997,IRTYSH RIVER,9435375,273332530,273332530,russian federation,Chemical/Oil Products Tanker,UBXF3,Vilesh River,2009,listed
+998,VELES,9640516,273353450,273353450,russian federation,Oil Products Tanker,UBFI4,Vf Tanker-3,2012,listed
+999,POSEIDON S,9640528,Call sign,273354450,russian federation,Oil Products Tanker,Vessel name,Vf Tanker-4,2012,listed
+1003,DMITRY POKROVSKY,9683726,273332580,273332580,russian federation,Oil Products Tanker,UEHF,Flags (former),2014,listed
+1025,VENUS III,9599353,273255980,273255980,russian federation,Oil Products Tanker,UBDL6,Svl Glory / Rn Tuapse / Venus I,2011,listed
+1033,PIERRE,9266877,667002336,667002336,Sierra Leone,Crude Oil Tanker,9LS2039,British Vine / Sea Vine,2004,listed
+1036,GOGLAND,9430210,613511200,613511200,Cameroon,Chemical/Oil Products Tanker,TJMX8,Vedrey Vinga / Tanker-Himovoz-352 / Adriana,2018,listed
+1047,FLURA,9354636,273318520,273318520,russian federation,Chemical/Oil Products Tanker,UHIT,Chingiz Mustafayev,2005,listed
+1048,ARMADA EXPLORER,9377042,273311240,273311240,russian federation,Chemical/Oil Products Tanker,UHJS,Baku,2006,listed
+1061,LISTIGA,9292838,667002323,667002323,Sierra Leone,Crude Oil Tanker,9LS2026,Alnasl Star / Bahri Jasmine / Petronilla,2005,listed
+1066,MARLIN,9585912,273452590,273452590,russian federation,Chemical/Oil Products Tanker,UBXS4,Flags (former),2020,listed
+1069,TEMPEST DREAM,9308132,Call sign,630001117,unknown,Crude Oil Tanker,Vessel name,Ocean Venus / Beks Ebru / Unite,2006,listed
+1070,RHEIN,9306562,613271814,613271814,Cameroon,Crude Oil Tanker,TJMOT9,LMZ Afroditi / Dhonoussa / Beks Iron / Pone,2005,listed
+1071,VOLGO-DON 5079,8852784,273359420,273359420,russian federation,General cargo ship,UBEH2,Delaware,1980,listed
+1073,SORMOVSKIY-3057,8419635,273325400,273325400,russian federation,General cargo ship,UCVL,Flags (former),1987,listed
+1074,PETROTRANS-5903,9902196,273210350,273210350,russian federation,General cargo ship,UBDU8,Flags (former),2020,listed
+1075,LYDIA V,9875422,273214570,273214570,russian federation,General cargo ship,UBSU7,Flags (former),2020,listed
+1076,DON STAR 6,8951396,273430550,273430550,russian federation,General cargo ship,UENP,Kapitan Matveev / Morozovsk,1987,listed
+1077,KAPITAN KRASNOV,9584372,273350720,273350720,russian federation,General cargo ship,Vessel Type,Flags (former),2011,listed
+1082,YULIY MAKARENKOV,9612923,273351260,273351260,russian federation,Crude Oil Tanker,UBJI2,Flags (former),2013,listed
+1083,SMART,8943428,273439590,273439590,russian federation,General cargo ship,UFUO,Flags (former),1987,listed
+1085,OLIMPIADA,9361976,273314540,273314540,russian federation,General cargo ship,UGOM,Ulus Wind / Fair Wind,2006,listed
+1098,SUZDAL,9288992,273444330,273444330,russian federation,Oil Products Tanker,UFZV,Flags (former),2003,listed
+1119,MARQUISE,9315745,613271604,613271604,Cameroon,Chemical/Oil Products Tanker,TJM03V,Agisilaos / Seaways Cape Horn / Chemtrans Leo,2006,listed
+1121,KARAKUZ,9621558,273359180,273359180,russian federation,Oil Products Tanker,UBAJ2,Almetyevsk,2013,listed
+1125,TM HAI HA 568,9274082,574004200,574004200,Vietnam,Chemical/Oil Products Tanker,XVOC7,Nyathi / Torea,2004,listed
+1130,OLEG PERVAK,8881369,273451910,273451910,russian federation,Oil Products Tanker,UIRP,Brothers-11,1983,listed
+1133,ELENA II,8647751,671427100,671427100,unknown,Passenger / Ro-Ro Cargo Ship,5VIY8,Ag Fanouiros I / Elena A,2009,listed
+1135,VYACHESL.PAYSHCHIKOV,9942407,273615060,273615060,russian federation,General cargo ship,UBLY2,Flags (former),2024,listed
+1147,AURA,9624316,273355480,273355480,russian federation,Chemical/Oil Products Tanker,UBDJ5,Мальта,2012,listed
+1150,NIKOLAY GAMAYUNOV,9766073,511101517,511101517,Palau,Oil Products Tanker,T8A4923,Flags (former),2016,listed
+1151,NIKOLAY VELIKIY,9766085,273427090,273427090,russian federation,Oil Products Tanker,UBBR7,Flags (former),2018,listed
+1160,ORVI,9321718,Call sign,,unknown,Crude Oil Tanker,Vessel name,Cap Philippe / Ikara / Zale,2006,listed
+1169,MISHELL,9332315,613442787,632001156,unknown,Chemical/Oil Products Tanker,TJM46Q,Atlantic Gemini / Ridgebury Voyager,2008,listed
+1211,BAVLY,9621560,273358180,273358180,russian federation,Oil Products Tanker,UBZI9,Flags (former),2013,listed
+1213,IVAN KRAMSKOY,9640499,273351450,273351450,russian federation,Oil Products Tanker,UBFI2,Vf Tanker-1,2012,listed
+1221,SINO STAR,9263693,477642800,477642800,Hong Kong,Chemical/Oil Products Tanker,VRTV6,Gron Falk / Torm Camilla,2003,listed
+1298,CENTAR,9251676,352001672,352001672,Panama,Chemical/Oil Products Tanker,3E2695,Eberhardt Arctic,2022,listed
+1299,OPTIMAL ACE,9304590,477215800,477215800,Hong Kong,Chemical/Oil Products Tanker,VRXL2,St. Gabriel / Njord Eric / Torm Eric / Elim Grace / One Advance,2006,listed
+1300,KAPITAN BARMIN,9269350,273423570,273423570,russian federation,Oil Products Tanker,UHJL,Flags (former),2002,listed
+1301,KOLENTE,9264271,667002453,667002453,Sierra Leone,Chemical/Oil Products Tanker,9LS2156,J. Shartava / Cape Bradley / Pm Bradley,2004,listed
+1304,WONDER STAR,9327425,636023490,636023490,Liberia,Chemical/Oil Products Tanker,5LNZ2,Adonis / Omega Princess / Juniper 2 / Morgane / Skyros / Wonder Formosa,2006,listed
+1306,LOYALTY,9655468,273333570,273333570,russian federation,Oil Products Tanker,UBIK7,Rn Syzran / Svl Loyalty,2013,listed
+1307,LIBERTY,9645982,273331440,273331440,russian federation,Oil Products Tanker,UFNT,Rn Samara / Svl Liberty,2013,listed
+1308,KORE,9637583,273354270,273354270,russian federation,Chemical/Oil Products Tanker,UBRI9,Flags (former),2012,listed
+1309,GARMONIA,9616955,273358450,273358450,russian federation,Chemical/Oil Products Tanker,UBFI8,Galatea,2012,listed
+1311,MAGNI ALEXA,9255842,352002560,352002560,Panama,Chemical/Oil Products Tanker,3E2339,Nordpark / Ngol Queve / Naftilos An,2003,listed
+1328,CHEM HELEN,9340116,636013337,636013337,Liberia,Chemical/Oil Products Tanker,A8MG4,Meg / Spruce 3,2007,listed
+1330,VALGARDENA,9384124,215072000,215072000,Malta,Chemical/Oil Products Tanker,9HA4948,Flags (former),2008,listed
+1336,ETERNAL,9273351,636025354,636025354,Liberia,Oil Products Tanker,5LXA6,Pioneer Sunshine / Eternal Sunshine,2004,listed
+1484,TRUVOR,9676230,273359580,273359580,russian federation,Chemical/Oil Products Tanker,UBFJ9,Mukhalatka,2013,listed
+1577,SANAR,9185530,647553068,,unknown,Crude Oil Tanker,5RA68,Crude Tria / Genmar Argus / Gener8 Argus / Lion King / Akin I / Spar / Dawn II,2000,listed
+1590,GELMOND 3,9403499,341588000,,Saint Kitts and Nevis,General cargo ship,V4WR,Gelius 3,2008,listed
+1596,VOLGO-BALT 206,8230340,511100640,,Palau,General cargo ship,T8A3824,Flags (former),1977,listed
+1610,ADA,1060784,636023996,,Liberia,General cargo ship,5LQL5,Flags (former),2024,listed
+1611,MINA,1060796,636023997,,Liberia,General cargo ship,5LQL6,Flags (former),2024,listed
+1613,ALIADO,9300570,636093342,,Liberia,Bulk Carrier,D5PV7,Cape Provence / Voyageurs / Aquavoyageurs,2005,listed
+1614,GAS MARY,9161065,352002617,,Panama,LPG Tanker,3E4942,Chiltern / Gas Galaxy,1997,listed
+1615,MOZART 1,9174086,352003508,,Panama,Chemical/Oil Products Tanker,3E5164,Mozart,2000,listed
+1616,AAI PRELUDE,9952361,477856900,,Hong Kong,Bulk Carrier,VRUZ6,Flags (former),2022,listed
+1617,DIAMOND,8935457,667002190,,Sierra Leone,General cargo ship,9LU2993,Sky Light,1986,listed
+1618,LEDA,9648178,518559000,,Cook Islands,General cargo ship,E5U2509,Flags (former),2013,listed
+1620,G. PUCCINI,9156993,273216520,,russian federation,Chemical/Oil Products Tanker,UBHT6,Flags (former),1998,listed
+1633,JUPITER,8867210,518998738,,Cook Islands,General cargo ship,E5U4718,Cherokee,1992,listed
+1641,TETHYS,9517109,273359090,,russian federation,Oil Products Tanker,UBTG5,Flags (former),2010,listed
+1645,BADE,8932297,667509000,,Sierra Leone,General cargo ship,9LC2088,Regul / Hilda / Sailstar,1980,listed
+1649,GALISA,8301838,577492000,,Vanuatu,General cargo ship,YJWZ6,Flags (former),1982,listed
+1650,VOLGO-BALT 242,8230560,613226940,,Cameroon,General cargo ship,TJM5213,Flags (former),1982,listed
+1653,VEGA,8744224,577490000,,Vanuatu,General cargo ship,YJWZ4,Sarisa,1996,listed
+1654,RHONE,9057305,577268000,,Vanuatu,General cargo ship,YJTW6,Flags (former),1996,listed
+649,ALEXANDER BEGGROV,9876373,Call sign,,russian federation,Chemical/Oil Products Tanker,Vessel Type,Flags (former),2024,listed
+650,ALEXEY BOGOLYUBOV,9876361,Call sign,,russian federation,Chemical/Oil Products Tanker,Vessel Type,Flags (former),2024,listed
+666,DMITRY MENDELEEV,9888182,273296810,273296810,russian federation,Bunkering Tanker,UBJV8,Flags (former),2021,listed
+687,MIKHAIL ULYANOV,9333670,273328440,273328440,russian federation,Crude Oil Tanker,UBAL3,Flags (former),2010,listed
+709,NURSULTAN NAZARBAYEV,9842217,Call sign,,russian federation,Crude Oil Tanker,Vessel Type,Zvezda 131050,2025,listed
+710,OKEANSKY PROSPECT,9898254,Call sign,,russian federation,Crude Oil Tanker,Vessel Type,Flags (former),2025,listed
+753,ZVEZDA 131040,9842205,Call sign,,russian federation,Crude Oil Tanker,Vessel Type,Flags (former),2026,listed
+754,ZVEZDA 131080,9908994,Call sign,,russian federation,Crude Oil Tanker,Vessel Type,Flags (former),2026,listed
+44,ARKHITEKTOR,9381744,273274460,632001112,russian federation,Crude Oil Tanker,UAZ3E,Sea Legend / HS Legend / Antila,2008,listed
+52,ASTRA,9296585,273271460,632001119,russian federation,Oil Products Tanker,UAYE7,High Consensus / UACC Consensus / UOG Consensus / Sensus,2005,listed
+101,GALLILEO,9256860,Call sign,,russian federation,Crude Oil Tanker,UAZE8,Montiron / Herm / Texas Star / Perun / Pegas / Lana / Veronica,2003,listed
+281,ROSALIND,9277735,Call sign,677062600,unknown,Oil Products Tanker,Vessel name,Torm Anna / Anna Victoria / Keros / Houston Star / Beks Aqua / Lunar Tide,2004,listed
+382,VERA,9304655,306267000,306267000,unknown,Crude Oil Tanker,PJZ7,Toba / Kioni / Annick / Carnatic,2004,listed
+444,ROSALIN,9253325,Call sign,352002470,unknown,Crude Oil Tanker,Vessel name,Ceram Sea / Gold Sun / Nurkez,2004,listed
+446,SAGITTA,9296822,Call sign,352001616,unknown,Crude Oil Tanker,Vessel Type,Angelica Schulte,2005,listed
+464,THALIA III,9259197,Call sign,352002137,unknown,Crude Oil Tanker,Vessel name,Pacific Leo / Ads Oslo / Gundala / Redbud,2003,listed
+466,MEROPE,9281891,Call sign,352002495,unknown,Crude Oil Tanker,Vessel name,Stena Conductor / Diamond Champ / Baltic Sea / Amber Sun,2003,listed
+471,VESNA,9233349,312242000,312242000,unknown,Crude Oil Tanker,V3MD7,Glory Crystal / Drakes Moon / Moon Safari / Ocean Safari,2000,listed
+472,INTEGRATOR,9436941,Call sign,621819005,russian federation,Crude Oil Tanker,UAYE3,Stavanger Bell / Syra / Attica,2010,listed
+501,EKSPANDER,9281011,Call sign,621819067,russian federation,Crude Oil Tanker,Vessel name,Kilimanjaro Spirit / Blue Pride / Oriental Pearl / Moti / Dianchi,2004,listed
+544,NAYARA,9264570,511101768,353744000,unknown,Crude Oil Tanker,T8A5255,Song Lin Wan / Portman Square / Themis,2002,listed
+549,YODAN,9304356,613569715,314992000,Cameroon,Crude Oil Tanker,TJM0181,Seapacis / Hera / Hera 1 / Jeno,2005,listed
+562,REGAL I,9247431,613447808,613447808,Cameroon,Crude Oil Tanker,TJM18I,Asian Spirit / Eurofaith / Eastern Pride / Remy / Wilma II,2004,listed
+567,TELESTO,9213296,Call sign,314001023,Barbados,Crude Oil Tanker,Vessel name,Overseas Shirley / Seaways Shirley / Shirley / Bright Sonia,2001,listed
+570,SOUFIA 1,9273052,Call sign,,unknown,Crude Oil Tanker,Vessel name,Singapore Voyager / Delos Voyager / Gulf Voyager / Lafiza / Afra Crown / Danica / Alissa,2003,listed
+576,MIN HANG,9257137,Call sign,,unknown,Crude Oil Tanker,Vessel name,Astro Cassiopeia / Maran Cassiopeia / Auriga,2003,listed
+629,BERTHA,9292163,Call sign,,unknown,Crude Oil Tanker,Vessel Type,Monica S / Front Force / Onoba / Sea Force / MT. Pertamina 1,2004,listed
+652,AQUILA II,9281152,352001694,352001694,unknown,Crude Oil Tanker,3E2714,Astro Polaris,2004,listed
+655,ASTRA,9273387,574005470,574005470,Vietnam,Chemical/Oil Products Tanker,XVJT7,Chembulk New Orleans / Spirit,2003,listed
+695,M SOPHIA,9289477,Call sign,,unknown,Crude Oil Tanker,Vessel name,Delos / Younara Glory / DHT Condor,2004,listed
+761,VERONICA III,9326055,352002475,352002475,unknown,Crude Oil Tanker,3E2317,Symphonic / White Nova / Veronica,2006,listed
+774,STAR FOREST,9237632,477949100,477949100,unknown,Crude Oil Tanker,VRWB4,Samco Asia / Maran Triton / Forest Eagle / Galaxy Star,2003,listed
+808,RCELEBRA,9286073,613902500,613902500,Cameroon,Crude Oil Tanker,TJMQ3,Adventure / Caroline / Rolin / T Cereal,2005,listed
+820,SOKOLO,9153525,Call sign,,russian federation,Crude Oil Tanker,UAZE6,Front Vista / Dewi Maeswara / Oman Pride / Pride / Rider 1 / Lemur / Lilian,1998,listed
+834,LBS,9271406,570313000,570313000,unknown,Crude Oil Tanker,8Q8191,Minerva Concert / Ornella / Astrid I / Altus / Meng Xin / Yuan Qi,2003,listed
+929,DELLA,9227479,477714500,477714500,Hong Kong,Crude Oil Tanker,VRUB7,Astro Cygnus / Maran Cygnus / Calypso 8 / Cathay 6,2001,listed
+1096,STAR TWINKLE 6,9256987,352003519,352003519,unknown,Crude Oil Tanker,3E5173,C. Emperor,2004,listed
+1103,NOVA,9283801,306733000,,unknown,Crude Oil Tanker,PJCD17,Kai-Ei / Amorgos / Achelous / Jadear / Egret,2004,listed
+1164,URANUS,9248485,636014160,636014160,Tanzania,Crude Oil Tanker,D5YQ2,Ondina / Front Stratus / Ads Stratus / Calliope / Calliop / Hermes / Aztec,2002,listed
+1321,AVA 10,9247986,620999909,620999909,Comoros,Crude Oil Tanker,D6A3908,Portel / Genmar Strength / Gener8 Pericles / Pericles / Jacob / Amenity / Crested / Ervina,2003,listed
+1347,VOY,9222443,Call sign,668116375,Sao Tome and Principe,Crude Oil Tanker,Vessel name,Tenyo / Kyoto / Arabela / Tiburtina / Tricia Ii / Lily,2000,listed
+1374,GALE,9294240,Call sign,,unknown,Crude Oil Tanker,Vessel name,Katsuragisan / Lila Osaka / Tema / Cathay Kirin / Sapphire,2005,listed
+1385,SKIPPER,9304667,Call sign,,unknown,Crude Oil Tanker,Vessel name,Toyo / Maera / Adisa,2005,listed
+1390,TAMIA,9315642,477186300,477186300,Hong Kong,Crude Oil Tanker,VRXC8,Artemis Glory / Ds Vidonia / Seahero / Cynthia,2006,listed
+1392,WHITE CRANE,9323429,Call sign,,unknown,Crude Oil Tanker,Vessel name,Khk Vision / Eastern Juniper / Jiu Yue / Gesi,2007,listed
+1394,MARINERA,9230880,273276460,273276460,russian federation,Crude Oil Tanker,UAZE5,Overseas Mulan / Seaways Mulan / Xiao Zhu Shan / Yannis / Neofit / Timimus / Bella 1,2022,listed
+1400,VALIANT,9409247,477206500,477206500,Hong Kong,Crude Oil Tanker,VRXH3,Athenian Victory / Eurovictory,2009,listed
+68,OLGA,8700046,273356400,273356400,russian federation,General cargo ship,UBIG6,Ladoga-104,1988,listed
+69,PORT OLYA-1,9481922,273343190,273343190,russian federation,General cargo ship,UBBM4,Ucf-5,2013,listed
+72,SONA,8700060,273357400,273357400,russian federation,General cargo ship,UBIG7,Ladoga 106,1989,listed
+99,BALTIC LEADER,9220639,273297850,273297850,russian federation,Ro-Ro Cargo Ship,UBEW6,Scan Germania / Rickmers Germania / BBC Germania / BBC Kusan / Rio Kusan / Ocean Pride / Fleet Leader,2000,listed
+100,INDA,9256858,Call sign,,unknown,Crude Oil Tanker,Vessel name,Montigny / Lady M / Lady D / Linda,2003,listed
+104,CHIZHOVKA,8730455,273912200,273912200,russian federation,Hopper Barge,UIGQ,Flags (former),1989,listed
+105,BELOMORSKIY,8305781,273915100,273915100,russian federation,Dredger,UHYW,Flags (former),1985,listed
+106,DVINSKIY ZALIV,8922486,273914100,273914100,russian federation,Dredger,UHXI,Flags (former),1989,listed
+108,INZHENER VESHNYAKOV,8502107,273354480,273354480,russian federation,General cargo ship,UBDJ3,Radist Nesmenova / Maida / Malambo / Sea Rover,1998,listed
+109,IOHANN MAHMASTAL,8603406,273110100,273110100,russian federation,General cargo ship,UCKT,Flags (former),1990,listed
+111,KAPITAN RYNTSYN,8618073,273440100,273440100,russian federation,General cargo ship,UBQY,Carola R / Tiger Sea / Coringle Bay / Tricolor Star II / Carola,1988,listed
+112,KAPITAN SAKHAROV,9279434,273395150,273395150,russian federation,General cargo ship,UAOU,Flinterbjorn / Flinterbay,2004,listed
+113,KHOLMOGORY,9109081,273342810,273342810,russian federation,General cargo ship,UBTE2,Jenna Catherine,1995,listed
+114,LAPOMINKA,8928143,273911200,273911200,russian federation,Hopper Barge,UFZM,Flags (former),1974,listed
+115,MEKHANIK BRILIN,8904408,273114600,273114600,russian federation,General cargo ship,UCOO,Flags (former),1991,listed
+116,MEKHANIK KOTTSOV,8904410,273113600,273113600,russian federation,General cargo ship,UCOP,Flags (former),1991,listed
+117,MEKHANIK KRASKOVSKIY,8904458,273116000,273116000,russian federation,General cargo ship,UFHZ,Flags (former),1992,listed
+119,MEKHANIK PUSTOSHNYY,8904422,273114000,273114000,russian federation,General cargo ship,UCBM,Flags (former),1992,listed
+120,MEKHANIK PYATLIN,8904434,273118000,273118000,russian federation,General cargo ship,UCBP,Flags (former),1992,listed
+121,MEKHANIK YARTSEV,8904367,273114700,273114700,russian federation,General cargo ship,UCOQ,Flags (former),1990,listed
+125,SMP ARKHANGELSK,9240550,273293820,273293820,russian federation,General cargo ship,UBRV5,Jannie-C / Jannie C / FWN Atlantide / Ara Antwerpen,2002,listed
+128,TERIBERKA,8931748,273913200,273913200,russian federation,Hopper Barge,UFAX,Chernomorets 5 / Voltar,1974,listed
+129,TRITON,7236141,273314420,273314420,russian federation,Tug,UISR,Norderney / Gwentgarth / Remmar,1972,listed
+133,ALIREZA 1,6703769,273445070,273445070,russian federation,General cargo ship,UAYK,Baltiyskiy 39 / Komplekt / Laima / Stella / Troya / Endeavour / Grin / Aida,1965,listed
+137,NP DIKSON,9255270,273290390,273290390,russian federation,Chemical/Oil Products Tanker,UBYW9,Jurmo / Bonito,2004,listed
+139,RZK CONSTANTA,8711289,273148510,273148510,russian federation,General cargo ship,UHRA,Vysokogorsk / Fesco Vysokogorsk,1991,listed
+142,TAIBOLA,9086253,273298070,273298070,russian federation,General cargo ship,UBLW5,Eurogracht,1995,listed
+143,TAIMYR,8821797,273397130,273397130,russian federation,General cargo ship,UELU,Anjeliersgracht,1990,listed
+144,TAMBEY,9014872,273386260,273386260,russian federation,General cargo ship,UGBR,Ankergracht / Tasman Sky,1991,listed
+145,TERIBERKA,9081291,273211090,273211090,russian federation,General cargo ship,UBAV6,Eemsgracht,1995,listed
+146,TERSKIY BEREG,9081368,273295950,273295950,russian federation,General cargo ship,UBEW9,Erasmusgracht,1994,listed
+147,TIKSY,8821802,273396870,273396870,russian federation,General cargo ship,UFVH,Achtergracht / Tasman Star,1990,listed
+148,TURUKHAN,9081332,273299950,273299950,russian federation,General cargo ship,UBFW5,Elandsgracht,1995,listed
+149,UTRENNIY,9347059,273292120,273292120,russian federation,General cargo ship,UBMV3,BBC Elbe / Horumersiel,2006,listed
+225,POLAR ROCK,9116632,273398330,273398330,russian federation,Crude Oil Tanker,UBTP7,Ce-Merapi,1996,listed
+249,NORD,9025778,273313020,273313020,russian federation,Tug,UBFX4,OT-2077 / OT 207 / OT-2077 (Navaga) / OT-2077(Barabulka),1976,listed
+250,PASSAT,8523242,273440080,273440080,russian federation,Tug,UBIQ,Galati 1 / Pasats,1983,listed
+311,ROSTUM HEDONIST,9955894,636093240,636093240,Liberia,Bulk Carrier,5LHD5,Flags (former),2023,listed
+1583,GELMOND 1,9407017,341487000,,Saint Kitts and Nevis,General cargo ship,V4SU,Gelius 1,2007,listed
+1592,S WATERS ONE,9017202,577536000,,Vanuatu,General cargo ship,YJXE9,Almenum / Vliehors / West Carrier / Bulk Carrier / Snp Moon / Laroz,1992,listed
+1612,PANOREA,9628104,229027000,,Malta,Bulk Carrier,9HA3005,Flags (former),2013,listed
+1651,F0RTUNA,7729966,620262000,,Comoros,General cargo ship,D6A2262,Kalena / Vitaliy Satik / Sandra,1977,listed
+1652,TURBO SM,7612498,620798000,,Comoros,General cargo ship,D6A2809,Baltiyskiy-103 / Aressa,1978,listed
+38,AKKORD,9259599,273271560,636016693,russian federation,Crude Oil Tanker,UAAF2,CT Leader / Ying Hai / Celtic Sea / Sea Lady / Hai II / Lauryn,2003,listed
+39,ALGORITM,9299745,Call sign,669611000,russian federation,Oil Products Tanker,UAYE4,Mesaieed / Argeus / Hs Arge / Apus,2006,listed
+48,ASGARD,9322267,273279670,632001100,russian federation,Crude Oil Tanker,UAFF8,Ellinis / Nellis / Sahara,2007,listed
+261,BODHI,9144782,613003728,613003728,Cameroon,Crude Oil Tanker,TJM0106,Omera Queen / Мera Q / Pelican / Turba / Robon,1997,listed
+278,BEIJING,9259185,Call sign,620999378,unknown,Crude Oil Tanker,Vessel name,Seanostrum / Hebe / Daksha,2002,listed
+374,AMIL,9308778,Call sign,632001129,unknown,Oil Products Tanker,Vessel name,Shimanami Sunshine / Adventurous / Amelia / Satina,2004,listed
+375,HONG LU,9208215,306253000,306253000,unknown,Crude Oil Tanker,PJR7,Sanko Unity / Saga Unity / Chryssi / Arcadia V / Dimitra IІ,2000,listed
+376,DAVINA,9259367,306531000,306531000,unknown,Crude Oil Tanker,PJE10,Eneos Tokyo / Jessica D / Solana,2004,listed
+377,CRYSTAL ROSE,9292228,352001298,352001298,Panama,Crude Oil Tanker,3E4037,MT. Pertamina 2 / Sea Energy / Front Energy,2004,listed
+378,BLUEBELL,9251810,Call sign,,unknown,Crude Oil Tanker,Vessel name,British Laurel / Afra Laurel / Cross Ocean,2002,listed
+379,CAMELIA,9070072,Call sign,,unknown,LPG Tanker,Vessel name,Coral Pavona / Coral / Carol,1995,listed
+380,CARINA,9240512,Call sign,,unknown,Crude Oil Tanker,Vessel name,Astro Carina / Maran Carina / Carina V,2003,listed
+381,SALVIA,9297319,Call sign,,unknown,Crude Oil Tanker,Vessel name,Birdie / Yannis,2005,listed
+383,BELMA,9289491,Call sign,306269000,unknown,Crude Oil Tanker,Vessel name,Aquarius Voyager / Maran Aquarius / Leonor,2005,listed
+384,FURY,9280873,Call sign,632001128,unknown,Crude Oil Tanker,Vessel name,Astro Perseus / Aventus I,2004,listed
+385,WEN YAO,9288095,306254000,306254000,unknown,Crude Oil Tanker,306254000,New Spirit,2005,listed
+386,CUME,9379703,Call sign,,unknown,Crude Oil Tanker,Vessel name,Chang Jiang Zhi Hui / New Talisman / Yong Ding / Pandora / Goodwin / Goodwin,2009,listed
+387,ANHONA,9354521,Call sign,,unknown,Oil Products Tanker,Vessel name,Aramis / Orient Sunshine,2008,listed
+388,BERG 1,9262168,Call sign,,unknown,Crude Oil Tanker,Vessel name,Fujikawa / Folegandros I,2004,listed
+389,TYCHE I,9247390,Call sign,352002704,Panama,Crude Oil Tanker,Vessel name,Nordpacific / Neverland / Tornado A,2003,listed
+390,ELZA,9221671,306720000,306720000,unknown,Crude Oil Tanker,PJAU21,Alam Bayu / Neches / Torm Neches / Majnoon,2000,listed
+391,HORNET,9197844,Call sign,,unknown,Crude Oil Tanker,Vessel name,Ryuohsan / Kassos Warrior / New Kassos,2000,listed
+392,PUYANG,9174220,Call sign,,unknown,Crude Oil Tanker,Vessel name,Chang-Lin Tien / Regulus Voyager / Maran Regulus / Regulus / Niki / Viki / Selene / Luna Prime,2000,listed
+393,OCTANS,9224295,Call sign,,unknown,Crude Oil Tanker,Vessel name,Antonis / Alter Ego / Alter Ego I / Tian Ying Zuo / Judy II,2001,listed
+394,MARIGOLD,9242118,306801000,,unknown,Crude Oil Tanker,PJCB17,Sinova / Hs Medea / Celestial / Shanaye Queen / Shanaye Queen,2003,listed
+395,NICHOLA,9224271,Call sign,,unknown,Crude Oil Tanker,Vessel name,Antares / Crude Okto / Genmar Orion / Gener8 Orion / Maria Grace / Spirit Of Casper,2002,listed
+396,VORAS,9203265,Call sign,,unknown,Crude Oil Tanker,Vessel name,Mars Glory / Songa Agnes / Saga Agnes / Kalymnos / Duras / Tiana / Ermis,2000,listed
+447,RENS,9242223,Call sign,636022303,unknown,Crude Oil Tanker,Vessel name,World Kronos / Felicity / Phoenix Beta / Anggerik / Shun Tai / Adonia,2003,listed
+449,FUGA BLUEMARINE,9235725,629009500,352978218,unknown,Crude Oil Tanker,C5J602,Astro Saturn,2003,listed
+452,SYNDRA,9321976,Call sign,352001510,unknown,Crude Oil Tanker,Vessel name,Mitera Marigo / Heidi A,2007,listed
+465,ZEVS,9168946,613833000,613833000,Cameroon,Crude Oil Tanker,TJMC822,Guru,1999,listed
+469,GELOR,9185528,613081409,613003808,Cameroon,Crude Oil Tanker,TJM5229,Crude Dio / Genmar Spyridon / Gener8 Spyridon / Kriti Island / Sland / Eagle / Limo / Artara,2000,listed
+473,HERA,9326720,574005330,574005330,Vietnam,Crude Oil Tanker,XVKD7,SKS Spey / Gracy,2007,listed
+478,DENEB,9301524,667002369,667002369,Sierra Leone,Crude Oil Tanker,9LS2072,SKS Satilla / Palmer,2006,listed
+479,MERU,9187227,631010101,667002333,Equatorial Guinea,Crude Oil Tanker,3CAN5,Front Sky / Potomac / Cape Bantry / Kriti Sfakia / Krit / Spirit / Omega,2000,listed
+495,AMBER 6,9235713,550167020,352001387,unknown,Crude Oil Tanker,7SL852,Astro Sculptor,2003,listed
+510,BENEDICT,9293155,613003709,352003443,Cameroon,Crude Oil Tanker,TJMC128,Asian Jade / KWK Jade / Davis Sea / Wonder Vega / Junia,2005,listed
+512,CECILA,9247792,613412600,352002845,Cameroon,Crude Oil Tanker,TJMO3,British Oak / Afra Oak / Oaka / Damia / Gabrielle / Lalique,2003,listed
+516,HANSON,9237412,Call sign,268242902,unknown,Crude Oil Tanker,Vessel name,Jag Lavanya / Hontao,2004,listed
+521,VOLANS,9422988,314679000,314679000,unknown,Crude Oil Tanker,8PDO3,Al Khalidia / Victory 1 / Mare / Okeanos / Super Sapphire,2009,listed
+524,KOALA,9234642,Call sign,636024230,unknown,Crude Oil Tanker,Vessel name,Discovery / Zarifa Aliyeva / Sumac / Alexei / Nikel / Orbit I,2003,listed
+525,CHIOS,9231509,613007420,312325000,Cameroon,Crude Oil Tanker,TJMY20,SCF Ural / Ra 2 / Spm Strength / Mm Strength / Trend,2002,listed
+527,STELLAR BEVERLY,9208069,613471902,372839000,Cameroon,Crude Oil Tanker,TJM062,Minerva Nounou / Jag Lateef / Quan Xiang / Jannat Alferdos / Xocota,2000,listed
+529,IZOLA,9249312,667001624,314001001,Sierra Leone,Crude Oil Tanker,9LU2427,Front Melody / Ds Melody / A Melody / Misca / Mossa,2001,listed
+534,LOTUS,9392822,Call sign,352002872,unknown,Crude Oil Tanker,Vessel name,Sentosa River / Berica / Himalayan,2008,listed
+536,CINDY,9270517,613327400,518999319,Cameroon,Crude Oil Tanker,TJMF8,Krasnodar / Dream Vision / Seagull,2003,listed
+539,FREDA,9402469,Call sign,352003485,unknown,Crude Oil Tanker,Vessel name,Dubai Princess / Brightoil Lucky / Anavatos / Anavatos II / Taurus II / Huang Pu,2009,listed
+545,AGNI,9337389,620999422,620999422,unknown,Crude Oil Tanker,D6A3421,Stavanger Blossom / Glaucus,2007,listed
+546,SHANGHAI,9237228,Call sign,�620999375,unknown,Crude Oil Tanker,Vessel name,Ocean Lady / Pacific Bridge / Rhea / Luka / Soma,2002,listed
+561,FRUNZE,9263643,Call sign,518998343,unknown,Crude Oil Tanker,Vessel Type,Unique Privilege / Maersk Privilege / Ever Rich No. 18 / Azimuth / Patmos Ii / Amalfi / Lidinia / Sona Star,2003,listed
+564,TAWANNA,9247780,306103000,352002942,unknown,Crude Oil Tanker,PJA52,British Hawthorn / Afra Hawthorn / Datura / Turaco,2003,listed
+566,KOEN,9199127,Call sign,,unknown,Oil Products Tanker,Vessel name,Torm Gudrun / Borey G,2000,listed
+568,FURIA,9257802,667001248,667001248,Sierra Leone,Crude Oil Tanker,9LU2051,Eagle Tacoma / Chola Queen,2002,listed
+569,AQUA LIVE,9282792,613445621,613445621,Cameroon,Crude Oil Tanker,TJM13Q,Valpiave / Atalandi / Clyde Noble,2004,listed
+571,ELISE,9277747,613447509,613447509,Cameroon,Oil Products Tanker,TJM703,Venus R / Nordvenus / Black Ocean,2004,listed
+572,IZUMO,9249324,Call sign,,unknown,Crude Oil Tanker,Vessel name,Cathay Phoenix / A Symphony / Ds Symphony / Front Symphony / Izumo,2001,listed
+573,OCEAN RIVER,9284594,Call sign,,unknown,Crude Oil Tanker,Vessel name,Bunga Kelana 8 / Leopard,2004,listed
+574,MODESTE,9220938,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel name,Valle Di Siviglia / Minerva / Marbel / Manta,2001,listed
+575,KYLO,9189146,620800028,,unknown,Crude Oil Tanker,D6A4028,Four Smile / Metis / Memphis,2001,listed
+577,NAVISTAR,9296810,613902604,613902604,Cameroon,Crude Oil Tanker,TJME2,Esteem Splendour / Luna Erawan / Serendi / Missoni,2005,listed
+578,ALBA,9268112,Call sign,629009588,unknown,Crude Oil Tanker,Vessel name,Fuji Spirit / Blue Power / Arc I / Olia,2003,listed
+579,PANDA,9284582,Call sign,,unknown,Crude Oil Tanker,Vessel name,Bunga Kelana 7,2004,listed
+581,INVICTA,9250543,613510201,613510201,Cameroon,Crude Oil Tanker,TJMC202,Megalonissos / Wonder Avior / Neomi,2004,listed
+591,ALBEDO,9213313,314001114,314001114,unknown,Crude Oil Tanker,8PZU9,Overseas Fran / Seaways Fran / Tsar Vladimir / Vankor / Oloro / Olmeca / Alita I,2001,listed
+595,CRIUS,9251274,352002070,352002070,Panama,Crude Oil Tanker,3E3759,Khafji / Aldebaran Star,2003,listed
+603,PETRA,9276561,Call sign,,unknown,Crude Oil Tanker,Vessel name,Minerva Helen / Lion Marine / Prs Ocean,2004,listed
+628,SIRI,9281683,Call sign,,unknown,Crude Oil Tanker,Vessel name,Formosapetro Forever / Smiti / Cybele / Anthea,2005,listed
+630,BILI,9285756,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel name,British Liberty / Liberty / Black Panther,2004,listed
+631,CERES I,9229439,Call sign,,unknown,Crude Oil Tanker,Vessel name,Mogamigawa / Pacific Glory / Pacific Alfa / Affluence,2001,listed
+632,ELVA,9196644,629009392,629009392,Gambia,Crude Oil Tanker,C5J403,Hakata / Otina / Front Hakata / Ekaterina,2002,listed
+633,FIONA II,9262766,351073000,351073000,Panama,Crude Oil Tanker,HPOE,Selene Trader,2003,listed
+634,FT ISLAND,9166675,334017000,334017000,Honduras,Crude Oil Tanker,HQAI6,Ccpc Vanguard,1998,listed
+637,ION,9183271,Call sign,613003744,Saint Kitts and Nevis,Crude Oil Tanker,Vessel Type,Mega Eagle / Front Archer / Ataulfo Alves / Ataul / Calypso / Iona,2000,listed
+643,JAYA,9410387,306033000,306033000,unknown,Crude Oil Tanker,PJBF17,Duqm / Monoceros,2008,listed
+644,LADY LUCY,9341512,Call sign,,unknown,Oil Products Tanker,Vessel name,Cielo Di Guangzhou / Valentina / Delphine / Delphi / Lady Lucy,2006,listed
+645,EMMA,9321421,Call sign,,unknown,Oil Products Tanker,Vessel name,Seongho Mercury / Minitank Four / Angel 26 / At Lucky / Lara IІ,2006,listed
+646,NIL 308,9285744,Call sign,,unknown,Oil Products Tanker,Vessel name,British Fidelity / Fidelity / Lioness,2004,listed
+660,CANGJIE,9299680,419001990,419001990,India,Crude Oil Tanker,ATCK2,NS Challenger,2005,listed
+662,FREYA,9238052,Call sign,,unknown,Crude Oil Tanker,Vessel name,Sarpen / Clio / Luna,2002,listed
+694,LAUREN II,9258521,Call sign,,unknown,Crude Oil Tanker,Vessel name,World Lake / BW Lake / DHT Lake,2004,listed
+702,IVY,9337133,574005380,574005380,Vietnam,Crude Oil Tanker,XVJI7,Bunga Kasturi Empat,2007,listed
+705,AMELL,9257993,629009452,629009452,unknown,Crude Oil Tanker,C5J464,Kaluga / Majestic / Mistral 1,2003,listed
+708,NEW POWER,9266853,Call sign,,unknown,Crude Oil Tanker,Vessel Type,British Hazel / Sea Hazel / Nereus Sophia,2004,listed
+716,RAINE,9223540,350656000,632001122,unknown,LPG Tanker,H7AA6,Ocean Orchid / Opec Neptune / Owens,2001,listed
+717,OXIS,9224805,629009692,,unknown,Crude Oil Tanker,C5J794,Kos / Uzor,2001,listed
+755,MASAL,9169421,422169700,422169700,Iran,Crude Oil Tanker,EPHO6,True Ocean / Galaxy Royal,1998,listed
+756,TWENTY ONE,9288265,Call sign,,unknown,Crude Oil Tanker,Vessel name,Energy Challenger / Olive / Blue Nil,2005,listed
+757,PHONIX,9198317,750308000,750308000,unknown,Crude Oil Tanker,8RCY3,Formosapetro Challenger / Pacific Challenger / Luna Lake,2001,listed
+758,ELMO,9256913,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel name,Hermitage Bridge / Lady Tyna / Rio Napo,2003,listed
+759,TONIL,9307932,Call sign,,unknown,Crude Oil Tanker,Vessel name,Dalisia / Tai Hu / Paragon Dawn,2007,listed
+760,NECLEUS,9371608,Call sign,,unknown,Crude Oil Tanker,Vessel name,Yangtze Pearl / New Founder / Nave Photon / Ocean Phantom / Blissful Sea / Vanity / Jela,2008,listed
+762,YURI,9235737,Call sign,,unknown,Crude Oil Tanker,Vessel name,World Progress / Neptune / Samho Dream / Skopelos / Jennifer ІІІ / Somerset,2002,listed
+772,YFABULOUS,9276585,Call sign,,unknown,Crude Oil Tanker,Vessel Type,Minerva Roxanne / Ch Billion,2004,listed
+773,GLOBAL STAR,9198082,570314000,570314000,unknown,Crude Oil Tanker,8QAA14,Eagle Seville / Gioiosa,1999,listed
+779,VASLATI,9252333,613007203,613007203,Cameroon,Crude Oil Tanker,TJMA15,Astro Corona / Maran Corona / Coron / Sao Paulo / Takma / Sprite,2003,listed
+783,YI TONG,9259733,352002051,352002051,Panama,Crude Oil Tanker,3E2208,Da Yuan Hu / Lila Guangzhou / Snow Lotus,2004,listed
+815,SKYWAVE,9328716,611000117,611000117,unknown,Crude Oil Tanker,A2AB23,Yugawasan / Yio / Sharp Ocean / Jilhan / Blue Gulf,2005,listed
+817,FABULE,9276573,655071176,655071176,unknown,Crude Oil Tanker,7QS197,Minerva Eleonora / Corona Fun,2004,listed
+818,ITAUGUA,9102277,Call sign,,unknown,Crude Oil Tanker,D6A3529,Lila Rome / Peron / Cinnamon,1997,listed
+819,LEXI,9203277,613806561,613806561,unknown,Crude Oil Tanker,TJ04M,Pluto Glory / DS Victory / Victory I / Dante,2001,listed
+823,NESO,9257149,352003483,352003483,unknown,Crude Oil Tanker,3E5143,Elizabeth I. Angelicoussi / Elizabeth I.A. / Statice,2004,listed
+824,MARINE SPIRIT,9288019,Call sign,,unknown,Crude Oil Tanker,Vessel name,Joelmare / Peace Hill,2005,listed
+825,POLARIS 1,9272694,422546600,422546600,Iran,Chemical/Oil Products Tanker,EPXT5,Aquila / Polaris / Formosa Fourteen,2005,listed
+826,TIMA,9237797,750099000,750099000,unknown,Crude Oil Tanker,8RAB20,Capricorn Star / Lulu / Mega / Youxia / Shannon II,2003,listed
+827,AMAK,9244635,647553039,647553039,unknown,Crude Oil Tanker,5RA39,Taizan / Dragon / Berwick,2002,listed
+828,ASTERIX,9181194,Call sign,629009370,unknown,Crude Oil Tanker,Vessel name,Else Maersk / Marina M / Lerax / Phoenix,2000,listed
+829,AMEN,9365764,Call sign,,unknown,Crude Oil Tanker,Vessel name,Manah / Marley / Ayden,2008,listed
+830,DING XIANG,9280366,306663000,,unknown,Crude Oil Tanker,PJAF21,Sanko Confidence / Confidence / Casinova / Ying Ge,2004,listed
+831,ELPIS,9212400,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel name,Nordamerika / Chamtang,2000,listed
+832,FLORA,9365752,Call sign,,unknown,Crude Oil Tanker,Vessel name,Marbat / Cordelia / Fiona,2008,listed
+833,AZELIA,9365776,Call sign,,unknown,Crude Oil Tanker,Vessel name,Mazyonah / Maren / Lydia II,2009,listed
+835,NEREIDA,9163269,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel name,Peterpaul,1998,listed
+836,FENGHUANG,9236248,647553034,647553034,unknown,Crude Oil Tanker,5RA34,Torness / Minerva Zenia / Burgundy Star / Phoenix I,2002,listed
+837,PING SHUN,9231901,Call sign,,unknown,Crude Oil Tanker,Vessel name,Aegean Spirit / Intisar / Venice / Urgane I,2002,listed
+838,THEMIR,9154000,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel Type,Violet / Violet 1,1998,listed
+839,YATEEKA,9191553,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel Type,Spring Lyra / Bow Andes / Andes / Maha Laxmi,2000,listed
+846,DAKUSH,9278698,518999378,,Cook Islands,Chemical/Oil Products Tanker,E5U5359,Caribbean Spirit / Caribbean Star,2004,listed
+860,ATLANTIS MZ,9218181,Call sign,,unknown,Crude Oil Tanker,Vessel name,Ocean Accord / Speed Pioneer / Caili Star / Tomie,2000,listed
+871,MAISAN,9289776,Call sign,,unknown,Oil Products Tanker,Vessel name,Affinity / Emerald Shiner / Galatia / Gagan,2005,listed
+935,PIONЕ,9171345,Call sign,511101538,Saint Kitts and Nevis,Chemical/Oil Products Tanker,V4AX7,Marinoula / Sofi 1 / Lata 1 / Nvs Pioneer,2000,listed
+936,BENTLEY,9220914,Call sign,518999247,unknown,Chemical/Oil Products Tanker,Vessel name,Valle Di Aragona / Birdhum / Brandly / Bonetta,2001,listed
+939,MACKEREL,9236755,629009376,629009376,unknown,Oil Products Tanker,C5J388,Seaempress / Linnet / Liana,2002,listed
+1007,CARCHARODON,9258882,613007700,574005290,Cameroon,Crude Oil Tanker,TJMX18,British Osprey / Star Osprey / Legend / Mila,2003,listed
+1038,VISION,9260067,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel name,Cape Bird / Tornado / Juvenis,2003,listed
+1057,ALA,9198094,750931000,,unknown,Crude Oil Tanker,8RPP6,Minerva Alexandra / Blue Star / Jolie / Joel,2000,listed
+1058,GOLDEN EAGLE,9255684,613407803,613407803,unknown,Crude Oil Tanker,TJM0097,Minerva Zoe,2004,listed
+1089,TAVARIS CASSEL,9235244,307080000,307080000,unknown,FSO,P4AG15,Zeeland / Astro Chorus / New Global / Balu,2001,listed
+1090,AEGIS,9275660,570320000,570320000,unknown,Crude Oil Tanker,8QAA15,Energy Conqueror / Conqueror / Htm Conqueror / Roc,2004,listed
+1091,BIG MAG,9263215,356336000,356336000,unknown,Crude Oil Tanker,HORS,Cosgreat Lake / Lila Zhuhai / Win Win,2002,listed
+1092,IMPALAS,9171448,668116257,668116257,unknown,Crude Oil Tanker,S9Z4,Astro Callisto / Maran Callisto,1999,listed
+1093,LAMD,9320843,Call sign,,unknown,Crude Oil Tanker,Vessel name,Tohshi / Tai He,2007,listed
+1095,SKADI,9230971,Call sign,,unknown,Crude Oil Tanker,Vessel name,Nordatlantic / SC Sara / Silver Sun,2001,listed
+1104,RESTON,9265744,Call sign,613464706,Cameroon,Crude Oil Tanker,Vessel name,Fucsia / Atlas Voyager / Violeta / Sea Vixen / Chao Xing / Evershine,2003,listed
+1105,RANI,9250907,632001134,632001134,unknown,Crude Oil Tanker,3X2106,Eagle Trenton,2003,listed
+1106,TIANMA,9242120,570389000,570389000,unknown,Crude Oil Tanker,8Q8199,Avor / Hs Carmen / Aquanaut / Shawna / Rossoneri / Nyantara,2003,listed
+1108,LUMEN,9182291,Call sign,,unknown,Crude Oil Tanker,Vessel name,Berge Ichiban / Ichiban / Namur / Gc Haikou / New Karpathos / Karo / Roma / Amor,2000,listed
+1109,CHILTERN,9171498,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel name,Iver Exact / Bro Premium / Camilla Maersk / Chiltern / Splendour Chiltern / Chiltern / Chil 1 / Al Jafzia,1999,listed
+1110,GLOBAL ACE,9190078,307221000,307221000,unknown,Chemical/Oil Products Tanker,P4XYA,Liquid Gold / Rhodes Sun / Rhona,1999,listed
+1111,GLOBAL ANGEL,9311309,353283000,353283000,unknown,Oil Products Tanker,3FVC9,Aulac Dragon / Dong Hai 202,2003,listed
+1112,AVENGER BOW,9005338,307122000,307122000,unknown,Asphalt/bitumen tanker,P4Z72,Global Asphalt,1991,listed
+1113,OCEANA KAI,9221267,307102000,307102000,unknown,Chemical/Oil Products Tanker,P4A05,Tarnvik / Ternvik / Global Beauty,2001,listed
+1114,SIMBA V,9113094,307131000,307131000,unknown,Crude Oil Tanker,P4BC8,Fly Seal / Global Crest,1996,listed
+1115,ELIAH,9309227,307210000,307210000,unknown,Chemical/Oil Products Tanker,P4SF2,Bit Okland / Global Dignity,2006,listed
+1161,YUG,9288875,620999317,620999317,unknown,Crude Oil Tanker,D6A3316,Andromeda Voyager / Maran Andromeda / Pratika / Sava / Mur,2005,listed
+1163,OMRA,9264881,750766000,750766000,unknown,Crude Oil Tanker,8RAD25,Nissho Maru / Nereides / Cosmos / Vani,2004,listed
+1167,BREEZ,9247778,620800101,620800101,unknown,Crude Oil Tanker,D6A4101,San Jacinto / Torm San Jacinto / Sabella / Iris,2002,listed
+1170,MOLLY,9531375,Call sign,620693000,unknown,Chemical/Oil Products Tanker,Vessel name,Magoshine / Tamim,2013,listed
+1173,SEABASS,9251640,Call sign,,unknown,Oil Products Tanker,Vessel name,Flags (former),2001,listed
+1176,SEAHAKER,9255488,Call sign,,unknown,Oil Products Tanker,Vessel name,Seahake,2003,listed
+1177,SEATURBO,9204764,Call sign,,unknown,Crude Oil Tanker,Vessel name,Flags (former),2000,listed
+1178,FOURACE,9531387,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel name,Krystallon / Magofortune / Sofia,2013,listed
+1179,TIFANI,9273337,611000201,611000201,unknown,Crude Oil Tanker,A2AB46,Bunga Kasturi / Amfitriti / Anahi,2003,listed
+1180,TONDA SOURCE,9127667,603898000,603898000,unknown,Chemical/Oil Products Tanker,D3Q25,Champion Trader / Exuberant Star,1997,listed
+1181,TRUGEN,9200861,Call sign,,unknown,Oil Products Tanker,Vessel Type,Flags (former),2000,listed
+1182,ZEAL,9486805,626017000,626017000,unknown,Oil Products Tanker,TRAM4,Aue,2017,listed
+1196,SC CUTTA,9037123,613471041,613471041,Cameroon,Oil Products Tanker,TJM065,Duke / Berca / Nordanvind / Hai Chang You 8 / Haichang Dalian / Zhong Gang Dalian / Shan Gang Rong He / As Calcutta,2001,listed
+1203,INNOVATOR,9306809,477165100,477165100,Hong Kong,Chemical/Oil Products Tanker,VRXA5,NCC Tabuk / CC Innovator,2006,listed
+1251,ADELINE G,9234666,352002297,352002297,unknown,Crude Oil Tanker,3E3513,Overseas Roselyn / Overseas Rosalyn / Seaways Rosalyn / Da Zhu Shan / Isaiah / Nierus,2003,listed
+1252,ADENA,9254862,636020606,636020606,unknown,Oil Products Tanker,D5ZY7,Skopelos,2003,listed
+1253,ALEXANDRA,9273260,636023078,636023078,unknown,Oil Products Tanker,5LLV6,Penyu Agar / Torm Sara,2003,listed
+1254,BELLAGIO,9299446,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel Type,Maersk Belfast / Bella,2005,listed
+1255,BIANCA,9259927,649142000,649142000,unknown,Chemical/Oil Products Tanker,TZBP1,Fresia / Green Trader,2003,listed
+1256,CAMILLA,9254850,636020658,636020658,unknown,Oil Products Tanker,5LAB7,Erikoussa,2003,listed
+1257,DELFINA,9256248,610107212,610107212,unknown,Crude Oil Tanker,TYE12,White Dolphin / Stena Comanche / Sn Federica / Telluride,2003,listed
+1258,ARES,9174397,Call sign,649114000,unknown,Crude Oil Tanker,Vessel name,Front Commander / Ds Commander / Winson No. 6 / Sino Macro / Melissa Amy / Lisa,1999,listed
+1259,LILIANA,9297905,Call sign,,unknown,Crude Oil Tanker,Vessel Type,Jag Lalit,2005,listed
+1260,PAOLA,9299458,610000065,610000065,unknown,Chemical/Oil Products Tanker,TYAG9,Maersk Barry,2006,listed
+1261,ROBERTA,9237008,636023554,636023554,unknown,Oil Products Tanker,5LOG7,Robert Maersk,2003,listed
+1262,CLS,9256975,570322000,570322000,unknown,Crude Oil Tanker,8QAA30,C. Champion / Sedir / Tml / Kongm,2009,listed
+1263,KATSUYA,9178068,Call sign,,unknown,Oil Products Tanker,Vessel name,Chance / Boyka Ii,1999,listed
+1264,MACHO QUEEN,9238868,477722100,477722100,Hong Kong,Crude Oil Tanker,VRUF3,Olympic Legend / Red Stem / Grace / Giant,2003,listed
+1265,WENDY,9379698,Call sign,,unknown,Crude Oil Tanker,Vessel name,Chang Jiang Zhi Guang / New Globe / Advantage Virtue / Yinghao Spirit / Lafit,2009,listed
+1266,SONDOS,9268186,305263000,305263000,unknown,Chemical/Oil Products Tanker,V2YL4,Keilir / Ow Atlantic / Atlantic,2002,listed
+1267,VICTORY ARI,9290919,305049000,305049000,unknown,Chemical/Oil Products Tanker,V2YR4,Strymon / Victorious,2005,listed
+1270,FOGAS,9012886,Call sign,,unknown,LPG Tanker,Vessel name,Musashi Gloria / Red Rum / Gas Sapphire / Takao Gas / Fabio Gas / Fabino Gas / Elke,1993,listed
+1273,SIONA,9282106,Call sign,,unknown,LPG Tanker,Vessel name,Oriental Queen / Artemis Gas / Luna / Kanti,2004,listed
+1285,ZIRAN,9041655,750767000,750767000,unknown,LPG Tanker,8RAE25,Gas Miracle / Maharshi Vishwamitra / Sisouli Prem / Beatris Gas / Tris Gas,1992,listed
+1297,WAN HE,9248461,314783000,314783000,Barbados,Chemical/Oil Products Tanker,8PRO3,Chembulk Savannah / Chem Sinyoo,2002,listed
+1320,RIESCO,9251822,679881006,,unknown,Crude Oil Tanker,Z2B892,British Willow / Afra Willow / Willowy / Aquaris,2003,listed
+1355,SIREN II,9337195,Call sign,477945800,Hong Kong,Crude Oil Tanker,Vessel name,Fpmc C Honor / Duplic Dynamic,2008,listed
+1393,MAYA,9171357,306104000,,unknown,Chemical/Oil Products Tanker,8PJO6,Nounou / Dev Shakti / Dp 7 / Divine Power,2000,listed
+1414,KURDOS III,9380570,511101819,511101819,Palau,Chemical/Oil Products Tanker,T8A5317,Cargo / Style / Osaka,2008,listed
+1415,MURLIKISHAN,9269403,647553055,,unknown,Chemical/Oil Products Tanker,5RA055,Bianca Amoretti / M K A,2003,listed
+1480,LUNA LUSTER,9292187,667002478,667002478,Sierra Leone,Crude Oil Tanker,9LS2181,Seaking / Gold Pearl,2005,listed
+1499,RIEVERIA I,9286229,268245201,,unknown,Crude Oil Tanker,EPA6521,Athenian Glory / Angelica / Godavari Spirit / Rineia / Ocean Hermana,2004,listed
+1529,ANIKA,9305609,650000222,,unknown,Crude Oil Tanker,C9NB68,Proteas / Meline / Celine,2006,listed
+1538,UMA,9258870,750057000,,unknown,Crude Oil Tanker,8RAC03,British Merlin / Pericles / Carolina / Emilia / Lelia,2003,listed
+1546,KUSH,9282522,620800036,,unknown,Oil Products Tanker,D6A4036,High Power / Jal Sunayna / Brizo / Baxter,2004,listed
+1548,DORIN,9260055,629009386,,unknown,Chemical/Oil Products Tanker,C5J398,Cape Bon / Vardar / Gratia / Garuda,2003,listed
+248,MARSHAL ZHUKOV,9690224,273377120,273377120,russian federation,Chemical/Oil Products Tanker,UCRP,Transflot-03,2014,listed
+251,SIG,9735335,273340190,273340190,russian federation,Chemical/Oil Products Tanker,UDKP,Flags (former),2014,listed
+252,STALINGRAD,9690212,273340640,273340640,russian federation,Chemical/Oil Products Tanker,UAFH,Transflot-02,2014,listed
+307,DAMAS WAVE,8915299,620842000,620842000,Comoros,Bulk Carrier,D6A2850,My Vuong / My Vuong 1 / Hai Van Xanh 01 / Golden Yara,1989,listed
+318,RM 3,8877241,273379650,273379650,russian federation,General cargo ship,UBEN8,Flags (former),1983,listed
+347,NADYM,9210933,273332020,273332020,russian federation,General cargo ship,UBJF9,Kozak / Ebel,2007,listed
+36,VASILY LANOVOY,9621601,273256410,273256410,russian federation,Chemical/Oil Products Tanker,UBOZ8,Lacerta,2016,listed
+37,KAROL,9327413,632001110,632001110,unknown,Chemical/Oil Products Tanker,3X2083,Aristidis / Aristo,2006,listed
+40,AKCENT,9381732,273273460,632001084,russian federation,Crude Oil Tanker,UAZE2,Alburaq / Hs Buraq / Auga,2008,listed
+41,AKSEL,9410894,273273360,632001089,russian federation,Crude Oil Tanker,UAWE6,Southern Spirit / Celsius Esbjerg / Hs Esberg / Valour,2009,listed
+42,ROWAN,9410870,632001096,636022403,unknown,Crude Oil Tanker,3X2071,Pacific Spirit / Mucua / Celsius Everett / Hs Everett,2008,listed
+43,DRACO,9249087,632001118,,unknown,Crude Oil Tanker,3X2090,Euroglory / Hrvatska / HS Glory,2005,listed
+45,ADMIRAL,9274446,273271860,636018885,russian federation,Crude Oil Tanker,UABF4,Huelva Star / Cap Pierre / HS Star / Sorion,2004,listed
+46,DEIMOS,9274616,632001101,632001101,unknown,Crude Oil Tanker,3X2076,Pantelis / Seajewel / Atlantic Pride / La Pride,2004,listed
+47,MILEY,9314818,632001103,632001103,unknown,Chemical/Oil Products Tanker,3X2078,Baltic Monarch / Mona,2006,listed
+49,KRUGER,9412995,632001090,632001090,unknown,Crude Oil Tanker,3X2065,Eagle Stavanger / Stavanger Eagle / Prosperous / Osperous,2009,listed
+50,ANTARES,9322827,273271070,632001107,russian federation,Crude Oil Tanker,UACF2,Stena Antarctica / Four Antarctica / Minerva Antarctica / Antarctica / Imperia / Peria / Pictor,2006,listed
+51,SIRTIC,9301615,Call sign,636022546,unknown,Chemical/Oil Products Tanker,Vessel name,Alios Hermes / Ilios Ermis / Sara 1 / Sara IІ,2004,listed
+53,ANEMON,9323338,273276070,669529000,russian federation,Chemical/Oil Products Tanker,UACF5,Puze / Uze / Bettle,2006,listed
+138,NР DUDINKA,9183831,273292090,273292090,russian federation,Oil Products Tanker,UBXW7,Rhonestern,2000,listed
+154,GEORGY MASLOV,9610793,273259730,273259730,russian federation,Crude Oil Tanker,UACA3,Flags (former),2012,listed
+155,ANTARKTIKA,9413559,273251530,273251530,russian federation,Crude Oil Tanker,UAYA2,Ns Antarctic,2009,listed
+156,LADOGA,9339313,636013273,273259430,russian federation,Crude Oil Tanker,UAXA9,NS Lion,2007,listed
+157,KOLOMNA,9341093,273250930,273250930,russian federation,Crude Oil Tanker,UADA2,NS Consul,2006,listed
+158,ANATOLY KOLODKIN,9610808,273253130,273253130,russian federation,Crude Oil Tanker,UAAA7,Flags (former),2013,listed
+159,BRATSK,9411020,273250630,273250630,russian federation,Crude Oil Tanker,UAYA9,NS Burgas,2009,listed
+160,DF PEAK,9341067,610000033,610000033,unknown,Crude Oil Tanker,TYAD5,NS Captain / Kaliningrad,2006,listed
+161,KEMEROVO,9312884,273250830,273250830,russian federation,Crude Oil Tanker,UACA4,NS Columbus,2007,listed
+162,SAKHALIN,9249128,273259630,273259630,russian federation,Crude Oil Tanker,UAZA5,SAKHALIN ISLAND,2004,listed
+163,NEVSKIY PROSPECT,9256054,273258030,273258030,russian federation,Crude Oil Tanker,UAAA5,Flags (former),2003,listed
+164,LITEYNY PROSPECT,9256078,273254130,273254130,russian federation,Crude Oil Tanker,UAAA8,Stena Contender,2003,listed
+165,KRYMSK,9270529,273259230,273259230,russian federation,Crude Oil Tanker,UAXA6,Flags (former),2003,listed
+166,KRASNOYARSK,9312896,273257030,626390000,russian federation,Crude Oil Tanker,UAWA8,NS Creation,2007,listed
+167,BELGOROD,9412359,273259530,273259530,russian federation,Crude Oil Tanker,UAYA7,NS Bravo,2010,listed
+183,KAZAN,9258002,273259910,273259910,russian federation,Crude Oil Tanker,UBSZ5,Flags (former),2003,listed
+184,LIGOVSKY PROSPECT,9256066,273251810,273251810,russian federation,Crude Oil Tanker,UBRZ6,Flags (former),2003,listed
+185,KARELIYA,9306782,273257910,273257910,russian federation,Crude Oil Tanker,UBSZ7,NS Century,2006,listed
+215,VIKTOR BAKAEV,9610810,273258810,273258810,russian federation,Crude Oil Tanker,UBSZ2,Flags (former),2013,listed
+216,OTLA,9299719,Call sign,273258910,unknown,Crude Oil Tanker,Vessel name,Ns Champion / Kotlas,2005,listed
+217,AVANGARD,9322839,Call sign,632001087,russian federation,Crude Oil Tanker,UAYE9,Four Atlantica / Stena Atlantica / Minerva Atlantica / Sunny Atlantica / Beks Atlantica / Hs Atlantica / Avril,2006,listed
+221,PRIMORYE,9421960,273255610,273255610,russian federation,Crude Oil Tanker,UBQZ3,SCF Primorye,2009,listed
+223,LIPETSK,9339301,273255820,273255820,russian federation,Crude Oil Tanker,UBZZ2,Ns Leader,2007,listed
+253,SUDAK,8943155,273445150,273445150,russian federation,Oil Products Tanker,UBGG9,Flags (former),1968,listed
+259,OSANA,9394935,667002072,314911000,Sierra Leone,Crude Oil Tanker,9LU2875,Overseas Everglades / Everglades / Ocean AMZ / Ozanno,2008,listed
+260,DHEZI,9289520,306667000,314912000,unknown,Chemical/Oil Products Tanker,PJAA31,Western Atlantic / Aris / Canis Power / N Cerna,2005,listed
+262,LEVEL,9339325,461000246,314889000,Oman,Crude Oil Tanker,A4DT4,NS Laguna / Liberty,2007,listed
+263,GALAXY,9826902,461000329,�677064000,Oman,Crude Oil Tanker,A4HA3,Korolev Prospect,2019,listed
+264,PRIMAVERA,9511533,461000256,314919000,Oman,Crude Oil Tanker,A4DV7,Primorsky Prospect / Rigel,2010,listed
+265,NORELLA,9288899,Call sign,314913000,Sierra Leone,Crude Oil Tanker,Vessel name,Toledo Spirit / Eurovoyager / Rocky Runner / Lorena Grand,2005,listed
+266,JUNDAR,9286657,Call sign,314915000,Sierra Leone,Crude Oil Tanker,Vessel name,South Sea / Dynamik Trader / Lokosao / Legacy Crest,2005,listed
+267,PONTIC PIONEER,9296391,613472050,314909000,Cameroon,Crude Oil Tanker,TJMS50,Ice Explorer / Ridgebury Mary Selena / Mike R / Jal Fighter / Fighter Two / Peta Lumina / Boston Beacon,2006,listed
+268,SOLARIS,9333436,461000248,314893000,Oman,Crude Oil Tanker,A4DT7,SCF Amur / Success,2007,listed
+269,PHOTON,9333424,613004300,314917000,Cameroon,Crude Oil Tanker,TJMF20,SCF Pechora / Phoenix,2007,listed
+270,JASMINE,9354313,461000258,352003364,Oman,Crude Oil Tanker,A4DV8,Zaliv Amurskiy,2008,listed
+271,LAVENDER,9339337,461000249,314892000,Oman,Crude Oil Tanker,A4DT8,NS Lotus / Legacy,2008,listed
+272,CAVALIER,9306794,461000235,314920000,Oman,Crude Oil Tanker,A4DQ8,NS Commander / Constellation,2006,listed
+273,AMAZON,9292204,461000219,314921000,Oman,Crude Oil Tanker,A4DN4,Four Stream / Adygeya / Andromeda,2005,listed
+274,JUN MA,9353113,613812500,677020400,Cameroon,Oil Products Tanker,TJM4V,CPO Norway / Louie / Hana / Kavya,2008,listed
+275,QASR,9402471,461000282,621819008,Oman,Crude Oil Tanker,A4FA6,Dubai Paradise / Brightoil League / Fulmar / Andromeda Star / Feng Shou / Apar / Devika,2009,listed
+276,SAGA,9318553,273277750,314894000,russian federation,Chemical/Oil Products Tanker,UAEE8,NS Spirit,2006,listed
+277,SERENADE,9318541,273271160,314897000,russian federation,Chemical/Oil Products Tanker,UAQE8,NS Stream,2006,listed
+279,RIZVEL,9331141,667002061,314916000,Sierra Leone,Crude Oil Tanker,9LU2864,Spike / Samraa Alkhaleej / Vela Rain / Kelly Grace,2006,listed
+280,MAYLO,9331153,667001249,�314914000,Sierra Leone,Crude Oil Tanker,9LU2052,Show / Alhani / Galian 2 / Delvina,2007,listed
+302,NERO,9374868,574005510,574005510,Vietnam,Crude Oil Tanker,XVJF7,Ocean Crown / Masteri / Elephant,2007,listed
+327,NOMAD,9610781,461000254,314950000,Oman,Crude Oil Tanker,A4DV5,Nikolay Zuyev / Zenith,2012,listed
+328,CAMEL,9341079,461000253,461000253,Oman,Crude Oil Tanker,A4DU9,NS Corona / Capella,2006,listed
+329,DISCOVERY,9316127,461000239,314968000,Oman,Crude Oil Tanker,A4DR6,Aleksey Kosygin / SCF Vankor / Vega,2007,listed
+330,DINASTY,9311622,461000242,314967000,Oman,Crude Oil Tanker,A4DS4,Vladimir Tikhonov / Vanguard,2006,listed
+331,BREEZE,9305568,613004310,314962000,Cameroon,Crude Oil Tanker,TJMF5,SCF Baltica,2005,listed
+332,ARROW,9413561,461000236,314938000,Oman,Crude Oil Tanker,A4DQ9,Ns Asia / Alliance,2009,listed
+333,LYNX,9412347,461000241,314965000,Oman,Crude Oil Tanker,A4DS3,Leonid Loza / Leo,2011,listed
+334,OASIS,9511387,461000237,314966000,Oman,Crude Oil Tanker,A4DR2,Olympiysky Prospect / Olympus,2010,listed
+335,ZALIV ANIVA,9418494,461000231,352002209,Oman,Crude Oil Tanker,A4DQ3,Flags (former),2009,listed
+336,CARMA,9341081,461000252,314964000,Oman,Crude Oil Tanker,A4DU6,Ns Clipper / CASSIOPEIA,2006,listed
+355,ULUC KA,9228801,271051063,271051063,Turkey,Chemical/Oil Products Tanker,TCA7379,Flores I / Flores / Baltic Sky I,2001,listed
+397,BOND,9412335,461000240,314984000,Oman,Crude Oil Tanker,A4DS2,NS Bora / Bolero,2010,listed
+398,ARCADIA,9413573,461000247,314895000,Oman,Crude Oil Tanker,A4DT6,NS Africa / Atlas,2009,listed
+399,MIRABEL,9511521,461000255,314983000,Oman,Crude Oil Tanker,A4DV6,Moskovsky Prospect / Meridian,2010,listed
+400,AMULET,9413547,461000238,314937000,Oman,Crude Oil Tanker,A4DR4,NS Arctic / Altair,2009,listed
+401,CELT,9299692,461000233,314942000,Oman,Crude Oil Tanker,A4DQ6,NS Concord,2005,listed
+402,BOBCAT,9422457,461000234,314985000,Oman,Crude Oil Tanker,A4DQ7,SCF Baikal / SCF Vankor / Blossom,2010,listed
+403,SPARTAN,9421972,461000232,314989000,Oman,Crude Oil Tanker,A4DQ4,SCF Sakhalin / SCF Samotlor / Saturn,2010,listed
+404,SIERRA,9522324,613007200,314979000,Cameroon,Crude Oil Tanker,TJMY15,Suvorovsky Prospect,2011,listed
+405,AZORIN,9285859,613447202,334920000,Cameroon,Crude Oil Tanker,TJM14U,Gansea / Trochus / Troviken / Dubai Horizon / Agneta Pallas / Wonder Bellatrix / Eastern Pearl / Pacific Runner,2006,listed
+406,MELITE,9288710,613710000,518998625,Cameroon,Crude Oil Tanker,TJMC961,Delta Captain / Kudos Stars / Kars,2005,listed
+407,KOUSAI,9285835,667002070,334902000,Sierra Leone,Crude Oil Tanker,9LU2873,Ganstar / Tanea / Telleviken / Dubai Harmony / Wonder Polaris / Sea Fidelity,2005,listed
+408,AURO,9288708,620999725,334917000,Comoros,Crude Oil Tanker,D6A3724,Delta Victory / Stratos Aurora,2005,listed
+409,PALARA,9299898,667002277,334099000,Sierra Leone,Crude Oil Tanker,9LS1980,Pelagos / Pelagos One / Turbo Voyager / Range Vale,2005,listed
+410,RORA,9288722,613469620,334029000,Cameroon,Crude Oil Tanker,TJM0133,Delta Sailor / Azure Celeste / Brave Discoverer,2005,listed
+411,PHOENIX,9332810,273270560,636022168,russian federation,Crude Oil Tanker,UAZE9,Pacific Apollo / Virgo Sun / P. Fos / Odysseus / Varuna / Pushpa / Kiwala / Boracay / Feniks,2007,listed
+413,KARTHA,9317949,667001798,621819096,Sierra Leone,Crude Oil Tanker,9LU2601,Polar Merchant / Seamagic / Artemis / Xiwang,2007,listed
+414,NAGARJUNA,9299733,667002024,621819092,Sierra Leone,Crude Oil Tanker,9LU2827,Umlma / Antaios / Antaeus,2006,listed
+419,KOMANDER,9271585,273274930,352004581,russian federation,Crude Oil Tanker,UARD6,Monte Granada / Archway / Crescent Moon / Heracles / Krishna 1 / Prudence,2004,listed
+420,LIDER,9321706,273273450,626315000,russian federation,Crude Oil Tanker,UACE7,Cap Charles / Mercury / Latur,2006,listed
+421,MAINI,9319870,613003573,352004885,Cameroon,Crude Oil Tanker,TJMC162,Nordbay / Thalassa,2007,listed
+422,VULKAN,9297371,273279660,352002677,russian federation,Crude Oil Tanker,UAAF9,British Eagle / Amore Mio / Godam / Parosea / Suleyman I / Diva 1,2006,listed
+423,VOYAGER,9843560,461000326,314906000,Oman,Crude Oil Tanker,A4HA5,Vernadsky Prospect,2019,listed
+424,JALDHARA,9304825,667001708,626282000,Sierra Leone,Crude Oil Tanker,9LU2511,Seamaster / Seamaster IV / Theseus,2006,listed
+425,JAGGER,9354301,273277060,352003366,russian federation,Crude Oil Tanker,UALE4,Zaliv Amerika / Jaguar,2008,listed
+426,GRUS I,9224441,613424630,352003221,Cameroon,Crude Oil Tanker,TJMV10,SCF Caucasus / Bear Alcor / Firn,2002,listed
+427,JUMBO,9290335,667002023,626292000,Sierra Leone,Crude Oil Tanker,9LU2826,Aegean Dignity / Aysen,2004,listed
+428,GEFEST,9319882,273272850,630001163,russian federation,Crude Oil Tanker,UAFE5,Isis / Houston Star / Atalanta / Aryabhata,2007,listed
+429,QENDIL,9310525,461000286,461000286,Oman,Crude Oil Tanker,A4FB6,Elia / Ionia / Oilstar / Spark,2006,listed
+430,ELYTE,9345623,461000370,352004960,Oman,Oil Products Tanker,A4HF5,Champion Pleasure / Apostolos II / Morea / Tarang / Ru Yi,2008,listed
+431,PLUTON,9288746,273271850,621819084,russian federation,Crude Oil Tanker,UAFE4,Seaborn / Marathon / Udaya / Marathon,2005,listed
+432,STARLIT,9257022,631010103,626285000,Equatorial Guinea,Crude Oil Tanker,3CAN7,Sanko Bright / Acs Bright / Ridgebury Alice M / S-Trooper / Laconia / Bosca,2003,listed
+433,MIRADOR,9288693,620800015,334916000,Cameroon,Crude Oil Tanker,Vessel name,Delta Pioneer / Andaman Skies,2004,listed
+434,RIGEL,9296406,613572604,352004666,Cameroon,Crude Oil Tanker,TJM61,Ice Transporter / Pagos,2006,listed
+435,NOSU,9318539,613741301,518998876,Cameroon,Crude Oil Tanker,TJMO2S,Donat / Swiftsea Rider,2007HQZS3,listed
+436,MYSTERY,9332834,667001245,626312000,Sierra Leone,Crude Oil Tanker,9LU2048,Forward Bright / Jupiter Sun / Wisdoms Daughter / Sooraj,2007,listed
+437,ACHILLES,9368223,461000320,352002679,Oman,Crude Oil Tanker,A4FE9,Ocean Queen / Gullit,2008,listed
+438,RIMMA,9337901,613511600,626289000,Cameroon,Crude Oil Tanker,TJMW1A,Kriti Galaxy / Esteem Brilliance / Golden Mile / Samudra,2006,listed
+445,MIKATI,9250892,667002308,667002308,Sierra Leone,Crude Oil Tanker,9LS2011,Eagle Toledo / Joseph / Melia / Lucia,2003,listed
+448,ROSITA,9290309,613223700,352002003,Cameroon,Crude Oil Tanker,TJMS4,Pacific Alliance / Seagrace / Thea / Hulda,2004,listed
+451,LYRA,9314088,352001732,352001732,Panama,Crude Oil Tanker,3E2571,Ruby Queen / Ruby River / Seachance,2004,listed
+453,SAPNA,9247883,667002270,314996000,Sierra Leone,Oil Products Tanker,9LS1973,Morning Glory VIII / Ocean Aquamarine / Aquamarine / Ever Rich No. 18 / Elza / Hatti,2002,listed
+454,MITZEL,9233741,620999869,667002317,unknown,Crude Oil Tanker,D6A3868,Four Sun / Nell Jacob / Henry / Hali / Olivia,2003,listed
+455,SKAGE,9194995,630001207,511100566,Guinea-Bissau,Crude Oil Tanker,J5AX7,Majestic / Nordic Sirius / Ocean Peri,2000,listed
+456,NOCTIS,9258868,613003614,574005280,Cameroon,Crude Oil Tanker,TJM0088,British Swift / Star Swift / Marid / Gold Season / Asher / Luna,2003,listed
+457,DUSK,9283289,667001258,351588000,Sierra Leone,Crude Oil Tanker,9LU2061,Maersk Progress / Spectrum / Thya,2005,listed
+458,BAI LU,9388780,667001611,352003056,Sierra Leone,Crude Oil Tanker,9LU2414,Ocean Unicorn / Wellington / Khalissa,2009,listed
+459,NIGHT GLORY,9319674,667001672,626296000,Sierra Leone,Crude Oil Tanker,9LU2475,Maersk Penguin / Buena Vista / Eastern Glory,2007,listed
+460,AQUA TITAN,9332781,613961020,352003147,Cameroon,Crude Oil Tanker,TJM41,Mars Sun / Forward Flair / Panta Rei 1 / Lang Ya,2006,listed
+461,VEXIA,9387255,613445605,314839000,Cameroon,Crude Oil Tanker,TJM17H,Eagle Sapporo / Centennial Sapporo / Beks Daisy / Main / Azure,2008,listed
+462,FONDEYA,9388742,Call sign,621819066,Sierra Leone,Crude Oil Tanker,Vessel name,Ocean Odyssey / Thunderbolt / Minoansea / Hector / Surya,2008,listed
+463,HU PO,9319686,667002022,352003031,Sierra Leone,Crude Oil Tanker,9LU2825,Maersk Pelican / Timberwolf / Epanastasea / Nemo 1,2008,listed
+467,OLAF 1,9224465,355090000,352003222,unknown,Crude Oil Tanker,H7ZU26,SCF Sayan / Bear Mizar / Neve,2002,listed
+468,OCEAN THUNDER,9416422,352003620,352003620,Panama,Crude Oil Tanker,3E5246,Crude Gamma / Wilsky / Ridgebury John Zipser,2009,listed
+470,LINDOR,9311531,Call sign,626281000,Cameroon,Crude Oil Tanker,Vessel name,Star Lady / Sulu Sea / SL Success / Hao Yu / Lefkada / Afkada / Reinel,2005,listed
+474,RESPECT,9422445,461000221,314988000,Oman,Crude Oil Tanker,A4DV9,SCF Surgut,2009,listed
+475,ODUNE,9229374,667002337,667002337,Sierra Leone,Crude Oil Tanker,9LS2040,Silia T / Odyssey / Simba,2002,listed
+476,NELSA,9408205,613741800,334913000,Cameroon,Crude Oil Tanker,TJMO4M,Front Njord / Fast Kathy,2010,listed
+477,STILGAR,9291250,667002271,630001100,Sierra Leone,Crude Oil Tanker,9LS1974,Rainier Spirit / Almi Star / Beks Star / Line / Cortex,2005,listed
+480,MAKALU,9314105,631010102,314001002,Equatorial Guinea,Crude Oil Tanker,3CAN6,Forward Pioneer / Al Muminah / Songa Coral,2005,listed
+481,NEER 1,9224283,629009466,518998787,Gambia,Crude Oil Tanker,C5J478,Sol Pride / Nordic Moon / Summer Sky / Euro Sky / Kapal Cantik,2002,listed
+482,DESTAMAR,9253894,613271813,304797000,Cameroon,Crude Oil Tanker,TJMOT4,Voyager / Voss / Ocean / Taurus A,2002,listed
+483,KAIROS,9236004,Call sign,372669000,unknown,Crude Oil Tanker,Vessel name,Paros / Filikon / Katiuska,2002,listed
+484,SUVEREN,9274434,273271360,621819007,russian federation,Crude Oil Tanker,UAWE4,Cap Leon / Nanda Devi / Sindhu / Shangri La,2003,listed
+485,TASSOS,9408695,Call sign,636022764,unknown,Crude Oil Tanker,Vessel name,Roxen Star / Seasalvia / Front Balder / Bay Global,2009,listed
+486,SEA HONOR,9315654,Call sign,352003068,unknown,Crude Oil Tanker,Vessel name,Lila Orlando / Sonangol Kassanje / Kapok,2005,listed
+487,FIESTA,9260823,667002321,667002321,Sierra Leone,Crude Oil Tanker,9LS2024,Mare Tirrenum / Aura / Future,2004,listed
+488,STRATEG,9589750,273277650,352002861,russian federation,Crude Oil Tanker,UAEE2,Rio Arauca / Melodia / Li Bai / Azuron / Danshui,2011,listed
+489,SONATA,9524463,273279060,352002168,russian federation,Crude Oil Tanker,UAOE3,Suez Hans / Sakarya / Satara,2011,listed
+490,ZODIAK,9513139,273278260,352001925,russian federation,Crude Oil Tanker,UAWE2,Hero / Suez George / Feyha N / Fjord Seal / Fearless,2011,listed
+491,DASHAN,9299666,Call sign,621819020,unknown,Crude Oil Tanker,Vessel name,Eurochampion 2004 / Mianzimu,2005,listed
+492,CETUS,9418482,667002291,�626475000,Sierra Leone,Crude Oil Tanker,9LS1994,Zaliv Anadyr / Stride / Ride,2009,listed
+493,ASTERI,9282493,Call sign,�352001958,unknown,Crude Oil Tanker,Vessel name,British Cormorant / Tartan / Vaigai / Fiora,2005,listed
+494,KIRA K,9346720,352002809,352002809,Panama,Crude Oil Tanker,3E5096,Shanghai / Dakota Strength / Aegean Blue,2007,listed
+496,NOVATOR,9297357,273272530,352002801,russian federation,Crude Oil Tanker,UAPD3,British Kestrel / Androklis / Mandala / Bluesea / Hammurabi / Arjun / Yanhu,2006,listed
+497,AREIA,9321847,668116314,352001452,unknown,Crude Oil Tanker,S9A3114,Forward Venture / Aries Sun / Emily S,2006,listed
+498,ASTRAL,9274800,667001270,626294000,Sierra Leone,Crude Oil Tanker,9LU2073,Sparto / Seatrust / Prometheus / Yangtze / Astral 1,2004,listed
+499,UNITY,9388792,Call sign,442303030,unknown,Crude Oil Tanker,Vessel Type,Ocean Explorer / Ocean Vela / Beks Swan / March,2009,listed
+500,ALTIS,9265756,Call sign,314843000,Sierra Leone,Crude Oil Tanker,TJMS43,Yerotsakos / Atlantic Galaxy / Sophie Schulte / Beks Sun / Life / Oasis / Sunny,2005,listed
+502,TRANSFORMER,9288851,273278480,314975000,russian federation,Crude Oil Tanker,UAKF4,Carlton / Hs Tosca / Carl / Grinch,2004,listed
+503,PATE,9338905,667002026,626357000,Sierra Leone,Crude Oil Tanker,9LU2829,Aegean Power / Shaanxi,2007,listed
+504,MA JIN,9346744,667002086,352003394,Sierra Leone,Crude Oil Tanker,9LU2889,Action / Fsl Shanghai / P. Kikuma,2007,listed
+505,DESTAN,9388766,461000321,352002926,Oman,Crude Oil Tanker,A4JN,Ocean Quest / Ampleforth,2008,listed
+506,VOKKI,9434890,667002021,314001030,Sierra Leone,Crude Oil Tanker,9LU2824,Adele Marina Rizzo / Ps Pisa / Nautilus,2010,listed
+507,DALVA,9378620,613271403,621819095,Cameroon,Crude Oil Tanker,TJM021,Lr2 Polaris / Polaris Bay / Varvara / Ganga,2008,listed
+508,REUS,9253076,667002335,667002335,Sierra Leone,Crude Oil Tanker,9LS2038,Eagle Tampa / Mira,2003,listed
+509,AKTROS,9257814,667002283,314981000,Sierra Leone,Crude Oil Tanker,9LS1986,Marathon / Karachi / Torex,2003,listed
+511,SELVA,9336426,461000187,352002674,Oman,Crude Oil Tanker,A4DH4,SPT Crusader / Bergitta / Sifis / Naxos,2007,listed
+513,NEON,9183295,667002409,518999148,Sierra Leone,Crude Oil Tanker,9LS2112,Ioannis / Ioann / Aurora,1999,listed
+514,THRON,9404948,613271404,352003102,Cameroon,Crude Oil Tanker,TJMO22,Pro Triumph / Bambu / Chen Lu,2009,listed
+515,NASLEDIE,9293002,273279840,626313000,russian federation,Crude Oil Tanker,UAZD5,Primo Stealth / Signal Puma / S Puma / Jaguar / Argent / Blint,2005,listed
+518,STRIZH,9832547,273278060,352003251,russian federation,Crude Oil Tanker,UAOE2,Crudemed / Venture / Velmar,2018,listed
+519,PROMETEY,9832559,273270850,352003207,russian federation,Crude Oil Tanker,UAFE3,Crudesun / Valour / Virat,2018,listed
+520,ROZMARINE,9250531,Call sign,314993000,unknown,Crude Oil Tanker,Vessel Type,Alonissos / Wonder Musica / Python,2004,listed
+523,VERNAL,9207027,667002362,667002362,Sierra Leone,Crude Oil Tanker,9LS2065,Nuria Tapias / Algeciras Spirit / Kriti Spirit / Riti S / Liberty,2000,listed
+526,TYCHE 1,9308077,613271708,352001823,Cameroon,Crude Oil Tanker,Vessel Type,Roviken / Navion Gothenburg,2006,listed
+528,EVENTIN,9308065,Call sign,211146780,unknown,Crude Oil Tanker,Vessel Type,Storviken / Charvi,2006,listed
+530,DELIVER,9194983,613471908,477113600,Cameroon,Crude Oil Tanker,TJMO69,Cosmic / Jag Laadki / Jannat Alferdos II,2000,listed
+531,SUN,9293117,Call sign,304736000,unknown,Crude Oil Tanker,Vessel name,SM Everest / Cape Bari / Bari / Leopard I,2005,listed
+532,NARCISSUS,9232931,352002661,352002661,Panama,Crude Oil Tanker,3E4983,SKS Sinni / Okeanos,2003,listed
+533,SINTEZ,9378632,Call sign,352002898,russian federation,Crude Oil Tanker,UAYE5,Lr2 Poseidon / Poseidon Bay / Ping An / Malak,2009,listed
+535,SILVERA,9248849,667002338,667002338,Sierra Leone,Crude Oil Tanker,9LS2041,Overseas Cathy / DHT Cathy / Camelia / Bull Damai 1 / Swordfish / Salamander,2004,listed
+537,SIRAJ,9319703,461000285,626226000,Oman,Crude Oil Tanker,A4FB5,Torm Marianne / Maersk Piper / Lionheart / Great Jacombo / Divya / Solea,2008,listed
+538,BULLAR,9389679,667002240,314994000,Sierra Leone,Crude Oil Tanker,9LS1943,Overseas Acadia / Acadia / Ace / Lieto,2800,listed
+540,SKIF,9419137,273275260,352002488,russian federation,Crude Oil Tanker,UAVE3,United Grace / Gstaad Grace / Sivas / Sikar,2010,listed
+541,TRADER,9388754,273270320,352002820,russian federation,Crude Oil Tanker,UAJD3,Ocean Trader / Ocean Avra / Wei Feng / Long Bai,2008,listed
+543,ARABESCA,9288734,667001321,518999121,Sierra Leone,Crude Oil Tanker,9LU2124,Seabravery,2005,listed
+547,VIKRAM,9205067,613429702,314001003,Cameroon,Crude Oil Tanker,TJM5203,Zallaq / New Navigator / Episkopi / Raven,2001,listed
+548,TANI,9417464,Call sign,352002243,unknown,Crude Oil Tanker,Vessel name,Aspasia Lemos / Argo / Aion / Nestos / Anika,2009,listed
+550,KAPITAN KOSTICHEV,9301392,273264590,352002205,russian federation,Crude Oil Tanker,UAYC6,Captain Kostichev,2005,listed
+552,FULGER,9326718,667002327,667002327,Sierra Leone,Crude Oil Tanker,9LS2030,SKS Segura / Caro,2007,listed
+553,SERENA,9255660,613471602,352002772,Cameroon,Crude Oil Tanker,TJMO41,Seascout / Pontus I,2004,listed
+554,TIBURON,9283291,667001287,314001021,Sierra Leone,Crude Oil Tanker,9LU2090,Maersk Phoenix / Maza / Ruby Phoenix,2005,listed
+555,TORERO M,9292503,613471903,305014000,Cameroon,Crude Oil Tanker,TJMO67,Helga Spirit / Panther I,2005,listed
+556,GARASAN,9323986,667002004,630001161,Sierra Leone,Crude Oil Tanker,9LU2807,River Pride / Minerva Indiana / Beks Indiana / Alicia,2007,listed
+557,SALUT,9383950,273271660,352002791,russian federation,Crude Oil Tanker,UAAF3,Champion Prosperity / Star Prosperity / Elegance / Eminent,2009,listed
+558,AQUATICA,9299769,631010100,352004367,Equatorial Guinea,Crude Oil Tanker,3CAN4,Aldana / Bareilly / S-Treasure,2005,listed
+559,BELUGA,9524451,273271260,352002179,russian federation,Crude Oil Tanker,UAUE4,Suez Vasilis / Nautilus I / Sable / Sabina,2011,listed
+560,VESNA,9530917,273276260,352002280,russian federation,Crude Oil Tanker,UAVE4,Cap Isabella / Kimolos Warrior / Salty Wolf / Sakina,2013,listed
+565,BLUE,9236353,613414602,613414602,Cameroon,Crude Oil Tanker,TJMA05,Aegean Eagle / Arlene / Iskmati Spirit / Icaria / Azul / Julia A,2003,listed
+580,TAGOR,9282481,Call sign,,unknown,Crude Oil Tanker,Vessel name,British Gannet / Piper / Priapus,2005,listed
+582,AILANA,9232888,667002025,667002025,Sierra Leone,Crude Oil Tanker,9LU2828,Aegean Faith / Kriti Bastion / Ksena / Ailama,2003,listed
+583,PEACE,9249130,613404910,613404910,Cameroon,Crude Oil Tanker,TJMA08,Governor Farkhutdinov / Sargazo / Butterfly A / Chilli,2004,listed
+584,GURU,9353096,613419900,626287000,Cameroon,Chemical/Oil Products Tanker,TJM7EV,Cpo Germany / Dewey / Zeynep / Guru / Madhav,2008,listed
+585,SAVITRI,9289752,667002039,667002039,Sierra Leone,Oil Products Tanker,9LU2842,Perseverance / River Shiner / Ariadne / Arjuna,2005,listed
+586,LEONA,9299721,Call sign,,unknown,Crude Oil Tanker,Vessel Type,Ruwais / Amba Bhargavi / Ocean Mare / Oberon / Cepheus,2006,listed
+587,AGNІ,9314167,613202701,613202701,Cameroon,Oil Products Tanker,TJM5226,Omega Emmanuel / Juniper 3 / La Boheme / Agnes,2007,listed
+592,BRIONT,9252955,613442732,,unknown,Crude Oil Tanker,TJM19O,Iasonas / Omega Lady Sarah / Juniper 5 / Ariel / Plutus,2003,listed
+593,CAUVERI,9282508,613271440,352002074,Cameroon,Crude Oil Tanker,TJMOK5,British Robin / Forties,2005,listed
+596,GUANYIN,9299707,Call sign,,unknown,Crude Oil Tanker,Vessel name,NS Concept,2005,listed
+597,PROGRESS,9306627,273278840,273278840,russian federation,Crude Oil Tanker,UAZD3,Torm Margit / LR Aldebaran / Kudos / Huang He / Wu Tong,2007,listed
+598,DG HONG KONG,9436018,613503100,613503100,Cameroon,Crude Oil Tanker,TJM04V,V8 Stealth / Cape Antigua / Iridescent / Afragold / Huihai Indianocean / Jinjiang Experience / Venetians / Ocean Pearl,2009,listed
+600,KUSTO,9308833,667001256,667001256,Sierra Leone,Crude Oil Tanker,9LU2059,Lovina,2005,listed
+602,LEBRE,9255672,667001242,667001242,Sierra Leone,Crude Oil Tanker,9LU2045,Isabella,2004,listed
+604,LUCKY FAIRY,9348479,613277600,613277600,Cameroon,Crude Oil Tanker,TJMOV4,Aegean Myth,2006,listed
+605,SPIRIT 2,9409259,667001617,667001617,Sierra Leone,Crude Oil Tanker,9LU2420,Atlantic Spirit / STI Spirit / Free Spirit,2008,listed
+606,OLINA,9282479,Call sign,,unknown,Crude Oil Tanker,Vessel name,Magnus / British Mallard / Minerva M,2005,listed
+607,MIRES,9299771,667002360,667002360,Sierra Leone,Crude Oil Tanker,9LS2063,S-Trust / Kanpur / Alhasbah,2005,listed
+608,NICHOLE,9332822,613741201,613741201,Cameroon,Crude Oil Tanker,TJM03I,Pacific Brave / Taurus Sun / Nicholas,2007,listed
+609,CHARIOT TIDE,9323376,613472080,613472080,Cameroon,Chemical/Oil Products Tanker,TJMOL6,Piltene / Marabella Sun,2007,listed
+610,ORION,9131357,613003807,613003807,Cameroon,Crude Oil Tanker,TJMC129,Elisabeth Knutsen / Knut,1997,listed
+611,PREMIER,9577082,273278950,314945000,russian federation,Crude Oil Tanker,UAHE6,SCF Prime,2011,listed
+612,RYMO,9308857,667001997,667001997,Sierra Leone,Crude Oil Tanker,9LU2800,Carmel,2006,listed
+613,SAGAR1,9302970,352002786,352002786,Panama,Crude Oil Tanker,3E5077,Garden City River / Sealoyalty / Sea 1 / Hai 1,2005,listed
+614,NOBLE WALKER,9292981,307025000,307025000,unknown,Crude Oil Tanker,P4AA06,Bunga Kelana 10 / Sagar Violet,2004,listed
+615,GARNET,9577094,461000264,461000264,Oman,Crude Oil Tanker,A4DW9,SCF Provider,2011,listed
+616,SILVAR,9291262,613414707,352001887,Cameroon,Crude Oil Tanker,TJMA37,Matterhorn Spirit / Themis 1 / Rowan,2005,listed
+617,SAI,9292979,352002775,352002775,Panama,Crude Oil Tanker,3E5068,Bunga Kelana 9 / Sky 1 / Space 1,2004,listed
+618,SPRING FORTUNE,9386536,613277601,613277601,Cameroon,Crude Oil Tanker,TJMOV5,Cape Alba / Stealth Haralambos / Seadelta / Stealth Haralambos / Gstaad Grace IІ,2009,listed
+620,URSUS MARITIMUS,9297345,636022406,636022406,Liberia,Crude Oil Tanker,5LIQ2,British Cygnet / Alba,2005,listed
+621,UTAKI,9262924,667002334,667002334,Sierra Leone,Crude Oil Tanker,9LS2037,Lita / Intrepid Reliance / Guneshli / Lin Dan / Linda I,2002,listed
+622,VLADIMIR VINOGRADOV,9842188,273295230,273295230,russian federation,Crude Oil Tanker,UBTV8,Moskva,2022,listed
+623,VOSTOCHNY PROSPECT,9866392,273611590,273611590,russian federation,Crude Oil Tanker,UBEZ2,Flags (former),2023,listed
+624,ECHO,9276030,613400212,314972000,Cameroon,Chemical/Oil Products Tanker,TJM0019,Elbrus,2004,listed
+625,OCEAN EMBRACE,9327372,667002210,626291000,Sierra Leone,Oil Products Tanker,9LS1913,Baltic Favour / Grace Glaciesruptor / Zelda / Tyagaraja / Ocean Amber,2006,listed
+626,TRUST,9382798,273271950,314953000,russian federation,Oil Products Tanker,UAGE4,Transsib Bridge,2008,listed
+627,OKEANSKY PROSPECT,9866380,273618730,273618730,russian federation,Crude Oil Tanker,UBFV,Flags (former),2022,listed
+638,EAGLE S,9329760,Call sign,518998167,unknown,Crude Oil Tanker,Vessel Type,Fr8 Pride / LR Mimosa / Norstar Intrepid,2006,listed
+639,WALRUS,9297888,613419901,613419901,Cameroon,Crude Oil Tanker,TJM6EV,Seadancer / Cordelia Moon / Walrus 1,2006,listed
+640,GENERAL SKOBELEV,9503304,273335920,273335920,russian federation,Oil Products Tanker,UBKF8,Agsu,2008,listed
+647,AKADEMIK GUBKIN,9842190,273616040,273616040,russian federation,Crude Oil Tanker,UBZX4,Flags (former),2023,listed
+653,RN SAKHALIN,9650016,273399390,273399390,russian federation,Oil Products Tanker,UBCP8,Flags (former),2018,listed
+654,ARIADNE,9397547,273268690,314948000,russian federation,Chemical/Oil Products Tanker,UAZC5,Prisco Alexandra / SCF Anadyr,2008,listed
+656,AULIS,9233765,Call sign,352003752,unknown,Crude Oil Tanker,Vessel name,Euro Sea / Calm Sea / Nordic Cosmos,2003,listed
+658,DIGNITY,9283241,273253500,273253500,russian federation,Crude Oil Tanker,UBIZ6,Teide Spirit / Eurodignity / Dignity I,2004,listed
+661,KLEVER,9411331,273277260,273277260,russian federation,Crude Oil Tanker,UAVE6,George S. / Cankiri / Canara,2009,listed
+664,DEYNA,9299903,Call sign,,unknown,Crude Oil Tanker,Vessel name,Delta Blue / Deep Blue,2005,listed
+665,ALMOND,9385142,273276930,273276930,russian federation,Chemical/Oil Products Tanker,UARD7,Prisco Elizaveta / SCF Don / Diamond,2009,listed
+671,KUPAVA,9749154,273380170,273380170,russian federation,Oil Products Tanker,UBFR,Flags (former),2017,listed
+672,ZALIV VOSTOK,9360130,461000260,352002196,Oman,Crude Oil Tanker,A4DW3,Flags (former),2009,listed
+673,ZALIV BAIKAL,9360128,Call sign,352002194,Oman,Crude Oil Tanker,Vessel Type,Flags (former),2009,listed
+674,YURI SENKEVICH,9301419,273275850,352002198,russian federation,Crude Oil Tanker,UAFE6,Flags (former),2005,listed
+676,SOFIA,9211999,273615700,273615700,russian federation,Crude Oil Tanker,UBFX5,Valbruna,2000,listed
+677,VICTORIA,9212008,273619700,273619700,russian federation,Crude Oil Tanker,UBFX8,Vallombrosa,2000,listed
+678,VLADIMIR ARSENYEV,9901025,Call sign,352002203,unknown,Crude Oil Tanker,Vessel name,Flags (former),2022,listed
+679,NIKOLAY ZADORNOV,9901037,273276850,352002208,russian federation,Crude Oil Tanker,UAFE7,Flags (former),2022,listed
+680,TK SCORPIO,9346732,Call sign,352002122,unknown,Crude Oil Tanker,Vessel name,Aqua / Fsl Hong Kong / Huihai Pacific,2007,listed
+681,ARIA,9397559,273267690,273267690,russian federation,Chemical/Oil Products Tanker,UAZC4,Prisco Ekaterina / SCF Angara,2008,listed
+683,JUPITER,9397535,273265590,314931000,russian federation,Chemical/Oil Products Tanker,UAYC7,Prisco Elena / SCF Irtysh,2009,listed
+684,IVAN AIVAZOVSKY,9876359,273257370,273257370,russian federation,Chemical/Oil Products Tanker,UATA4,Flags (former),2025,listed
+685,KIRILL LAVROV,9333682,273345750,273345750,russian federation,Crude Oil Tanker,UBOL9,Flags (former),2010,listed
+686,MIKHAIL LAZAREV,9837547,273212310,273212310,russian federation,Crude Oil Tanker,UBZS8,Flags (former),2019,listed
+688,PROSPERITY,9322956,273266690,273266690,russian federation,Chemical/Oil Products Tanker,UAZC3,NS Pride,2006,listed
+689,SILVER,9309576,649113000,649113000,unknown,Chemical/Oil Products Tanker,TZAM1,NS Silver / Sapphire,2005,listed
+690,PAVEL CHERNYSH,9301380,273264760,352002195,russian federation,Crude Oil Tanker,UATC6,Flags (former),2005,listed
+692,VICTOR KONETSKY,9301421,273278850,352002197,russian federation,Crude Oil Tanker,UAFE9,Flags (former),2005,listed
+693,VIKTOR TITOV,9301407,273276660,352002204,russian federation,Crude Oil Tanker,UAAF8,Flags (former),2005,listed
+696,TASCA,9313149,Call sign,,unknown,Crude Oil Tanker,Vessel name,Tamagawa / Indigo Nova / Cristina / Cristina IІ,2007,listed
+697,MEGION,9590137,273355640,273355640,russian federation,Chemical/Oil Products Tanker,UBAI2,Omega 2 / Gazpromneft Nordwest,2011,listed
+698,GAZPROMNEFT ZUID EAST,9537109,Call sign,273353580,russian federation,Oil Products Tanker,Vessel name,Kaitank,2012,listed
+699,HENG TAI,9419448,Call sign,,unknown,Crude Oil Tanker,Vessel name,Target / Advantage Arrow / Amax Arrow,2009,listed
+700,PROVIDER,9312872,273272770,655081771,russian federation,Crude Oil Tanker,UAGF2,Cork Spirit / Almi Spirit / Huihai Atlantic / Xd Leo,2007,listed
+701,HYPERION,9322968,Call sign,314958000,russian federation,Chemical/Oil Products Tanker,UAEE9,NS Power,2006,listed
+704,XANTHOS EOS,9231212,306761000,306761000,unknown,Crude Oil Tanker,PJAZ21,Golden Sea / Oinoussian Spirit / Dubai Legend / Seafalcon / Mermar,2002,listed
+706,SPRING,9315446,Call sign,,unknown,Crude Oil Tanker,Vessel name,Maersk Pearl / Diamondback / Diamond / Mum,2005,listed
+711,OLANGA,9286463,273355340,273355340,russian federation,Oil Products Tanker,UBVH4,Elka-S / Baltic Swan / Oralake / Gazpromneft Zuid West,2004,listed
+712,OMSK,9418509,273371330,273371330,russian federation,Oil Products Tanker,UBZU,Trefin Adam / Aksaz-C / Aksaz C / Gazpromneft Omsk,2008,listed
+718,PEGASUS,9276028,273276060,273276060,russian federation,Chemical/Oil Products Tanker,UAKE2,Pamir,2004,listed
+719,PRAVASI,9409467,632001125,632001125,unknown,Oil Products Tanker,3X2098,Holy Victoria / Bowfin / Sharkfin,2008,listed
+720,PROXIMA,9329655,273264690,273264690,russian federation,Chemical/Oil Products Tanker,UAZC2,NS Point,2008,listed
+733,PIONER 1,9378618,273271320,273271320,russian federation,Crude Oil Tanker,UAJD6,Lr2 Pioneer / Pioneer Bay / Si He,2008,listed
+734,SIRIUS 1,9285847,Call sign,,unknown,Crude Oil Tanker,Vessel name,Gansky / Torinia / Tofteviken / Dubai Hope / Wonder Sirius,2005,listed
+736,RUBY CROSS,9350654,Call sign,,unknown,Crude Oil Tanker,Vessel name,Bai Lu Zhou / Clivia / Surrey Quays,2007,listed
+738,SYMPHONY,9309588,273273750,314947000,russian federation,Chemical/Oil Products Tanker,UAEE5,NS Stella,2005,listed
+739,TALISMAN,9292060,273275060,314956000,russian federation,Oil Products Tanker,UAJE9,Tavrichesky Bridge,2006,listed
+740,TANGO,9292058,273270950,273270950,russian federation,Oil Products Tanker,UAGE3,Teatralny Bridge,2006,listed
+742,TOPAZ,9292034,273276750,273276750,russian federation,Crude Oil Tanker,UAEE7,Tower Bridge,2004,listed
+743,TRIUM,9344033,649115000,649115000,unknown,Oil Products Tanker,TZA01,Tverskoy Bridge / Triumph,2007,listed
+744,GAZPROMNEFT NORDEAST,9422653,Call sign,273334570,russian federation,Chemical/Oil Products Tanker,Vessel name,Australis / Oralake,2008,listed
+745,UMBA,9196620,273387920,273387920,russian federation,FSO,UEIW,Berge Kyoto / Sarah Glory / Sasa,2001,listed
+746,UNIVERSAL,9384306,273271630,273271630,russian federation,Chemical/Oil Products Tanker,UAPD7,Prisco Irina / SCF Ussuri,2009,listed
+747,VALENTIN PIKUL,9885879,273259920,273259920,russian federation,Crude Oil Tanker,UAAA2,Flags (former),2024,listed
+748,VASILY DINKOV,9372547,273345020,273345020,russian federation,Crude Oil Tanker,UEVN,Flags (former),2008,listed
+750,VLADIMIR MONOMAKH,9842176,273211040,273211040,russian federation,Crude Oil Tanker,UBUT6,Flags (former),2020,listed
+764,NOVA CREST,9292046,Call sign,314960000,unknown,Oil Products Tanker,Vessel name,Torgovy Bridge / Hasan East,2005,listed
+765,PACIFIC,9329667,613914700,613914700,Cameroon,Chemical/Oil Products Tanker,TJM0168,NS Parade,2008,listed
+766,NOBLE,9333400,613004110,314955000,Cameroon,Oil Products Tanker,TJMF39,SCF Neva,2006,listed
+767,ENIGMA,9333412,613007100,613007100,Cameroon,Oil Products Tanker,TJMY10,SCF Yenisei,2007,listed
+768,CHONGCHON,9294123,631010095,518998779,Equatorial Guinea,Chemical/Oil Products Tanker,3CAN9,Montenero / Prince I / Leonidas I,2006,listed
+775,JEWEL 1,9402732,667001304,667001304,Sierra Leone,Crude Oil Tanker,9LU2107,Hua San / Poros / Onrim / Saathi / Sea Jewel,2008,listed
+777,NACHOS,9330604,667002359,667002359,Sierra Leone,Crude Oil Tanker,9LS2062,Capricorn Voyager / Afrapearl / Emerald I,2007,listed
+778,ADHARA,9353125,667001251,352004930,Sierra Leone,Chemical/Oil Products Tanker,9LU2054,Cpo Russia / Donald / Nargis / Chandra,2008,listed
+780,LOUISE 1,9290323,352003797,352003797,Panama,Crude Oil Tanker,3E5890,Aegean Angel / Angelica I / Lady Louise,2004,listed
+784,INA,9308443,Call sign,,unknown,Crude Oil Tanker,Vessel name,Tian E Zhou / Jag Lyall / Royall,2006,listed
+785,KAVIZ,9282041,620800034,750709000,unknown,Crude Oil Tanker,D6A4034,Axel Spirit / Pintus / Monvos / Abhra,2004,listed
+786,LILY,9294331,650000120,650000120,unknown,Crude Oil Tanker,Vessel name,Altair Trader / Phoebe / Dangla / Daban,2005,listed
+788,CHARMINAR,9318022,620800063,352002261,Comoros,Chemical/Oil Products Tanker,D6A4063,East Point / Northern Light,2006,listed
+789,DAPHNE V,9321677,Call sign,352002063,unknown,Crude Oil Tanker,Vessel Type,Kronviken,2006,listed
+790,AETHER,9328170,647553007,632001155,unknown,Crude Oil Tanker,5RA07,Wafrah / Lila Fujairah,2007,listed
+791,VIRENT,9332171,352002167,352002167,Panama,Chemical/Oil Products Tanker,3E3834,Atlantic Diana / JO Ask / Ellora,2007,listed
+792,BELLARIS,9332614,Call sign,352001849,unknown,Oil Products Tanker,Vessel name,Marika / Sunny Leopard / Arctic Char / Srini,2008,listed
+793,MYRA,9336490,Call sign,,unknown,Oil Products Tanker,Vessel name,Summit Europe / Hafnia Europe / Aristos,2006,listed
+794,VERSA,9379301,Call sign,352001907,unknown,Crude Oil Tanker,Vessel name,Alpine Penelope / Scylla,2008,listed
+795,ETHERA,9387279,632001149,,unknown,Chemical/Oil Products Tanker,3X2122,Energy Progress / Lhotse,2008,listed
+797,ONEIROI,9390587,352002241,352002241,Panama,Crude Oil Tanker,3E2230,Phoenix Hope / Keros Voyager,2008,listed
+798,EVALI,9400980,Call sign,,unknown,Crude Oil Tanker,Vessel name,Oracle / Harmonia / Abha / Omni,2008,listed
+799,HORAE,9413004,Call sign,352179000,unknown,Crude Oil Tanker,Vessel name,Eagle Sydney / Stavanger Falcon,2009,listed
+800,APATE,9433016,647553023,647553023,unknown,Oil Products Tanker,5RA23,FPMC P Duke / Tectus / Liberty,2009,listed
+801,EDERRA,9258026,613914210,613914210,Cameroon,Oil Products Tanker,TJM0162,Eland / Eskden / Sea Horizon,2003,listed
+802,TEMIRO,9209972,613579000,,Cameroon,Oil Products Tanker,TJMC774,Golkoy / Prem Mala / Marine Gracious,2000,listed
+803,FLORA 1,9307815,Call sign,667001302,Sierra Leone,Chemical/Oil Products Tanker,Vessel name,South Point / Arctic Bridge / Atlantica Bridge / Electra / Rudra / Tasta,2005,listed
+804,SAURI,9266475,613003808,,Cameroon,Oil Products Tanker,TJMC136,Silver Lining / Mila / Safesea Neha III,2003,listed
+805,NEVAH,9368235,613881404,613881404,Cameroon,Crude Oil Tanker,TJM21C,Ocean Taipan / Osgood / Fu Hai Wan,2008,listed
+806,ONEGA,9384459,273273930,273273930,russian federation,Chemical/Oil Products Tanker,UARD4,Rn Privodino / Ji Xiang,2010,listed
+809,ANAYA,9326885,Call sign,352001906,unknown,Oil Products Tanker,Vessel name,Marietta / Mari Ugland / Sunny Lynx / George B,2008,listed
+811,PM BACTON,9264283,Call sign,667002454,Sierra Leone,Chemical/Oil Products Tanker,Vessel name,Chabua Amiredjibi / Celebes Wind / Cape Bacton,2004,listed
+812,VAYU 1,9290517,613445600,626318000,Cameroon,Chemical/Oil Products Tanker,TJM17Q,Baltic Argonaut / Lisca Bianca M / Horai,2005,listed
+813,SANDHYA,9352195,613167701,667001301,Cameroon,Chemical/Oil Products Tanker,TJM2R4,Jag Payal / Payal / Nord Hummock / Lugano / Lagoon,2007,listed
+814,STABILLIS I,9234501,610000050,374024000,unknown,Chemical/Oil Products Tanker,TYAF4,Baluni / Elka Baluni / Amatlan II / Veracruz / Trident Trinity / Sealion I,2002,listed
+840,BEAST,9290921,667001236,511100943,Sierra Leone,Chemical/Oil Products Tanker,9LU2817,Evros / Proodos,2005,listed
+842,VOLGONEFT-105,8727915,273311170,273311170,russian federation,Oil Products Tanker,UIDU,Flags (former),1972,listed
+844,VOLGONEFT-217,8925414,273310170,273310170,russian federation,Oil Products Tanker,UIBF,Flags (former),1970,listed
+849,SEA 1,9329758,314001149,,Barbados,Crude Oil Tanker,8PPG,Fr8 Venture / Norstar Integrity / Troy,2006,listed
+850,LUMIN,9330599,613321600,613321600,Cameroon,Crude Oil Tanker,3E6909,Castor Voyager / Castor / Martha / Lambada,2006,listed
+851,MARS 6,9384992,667002211,667002211,Sierra Leone,Crude Oil Tanker,9LS1914,Guanabara / Sousta,2007,listed
+852,HITIT,9311751,271053525,271053525,Turkey,Chemical/Oil Products Tanker,TCA8658,Rhine / Ravi Spirit / Elbtank Italy / Maersk Arctic / Esen Ka / Antiochia Ka,2006,listed
+854,ADITYA,9323314,613448500,613448500,Cameroon,Chemical/Oil Products Tanker,TJM21Z,Ance / Ane,2006,listed
+855,JACKLYN,9313498,613321501,613321501,Cameroon,Crude Oil Tanker,TJMU5,SPT Navigator / Navigator Spirit / Nemo,2008,listed
+857,TAIMYR,9105140,273432830,273432830,russian federation,Oil Products Tanker,UBJR7,Flags (former),1995,listed
+859,SKY RIDER,9208124,613712400,613712400,Cameroon,Chemical/Oil Products Tanker,TJMS8,Armodius / Baltic Carrier / Baltic Chief / Baltic Chief I / Bella / Toro,2000,listed
+862,ETERNAL PEACE,9259745,Call sign,352002158,unknown,Crude Oil Tanker,Vessel name,Da Li Hu / Lila Shenzhen,2004,listed
+864,HANNAH,9261619,613511201,613511201,Cameroon,Crude Oil Tanker,TJMG4,Livia / Sea Luck IІІ,2003,listed
+865,KAMELOT,9265873,667002405,667002405,Sierra Leone,Oil Products Tanker,9LS2108,Symphony / Karema / Seaways Alcmar / Overseas Alcmar / Alcmar,2004,listed
+867,SOFOS,9278064,667002413,518999272,Sierra Leone,Chemical/Oil Products Tanker,9LS2116,Energy Protector / Mtm Hudson / Saga,2004,listed
+868,BONIFACY,9284726,613003743,511101300,Cameroon,Oil Products Tanker,TJMC147,Stavanger Eagle / Shandong Weihe,2004,listed
+869,PASIPHAE,9289518,314001078,334891000,Barbados,Chemical/Oil Products Tanker,8PZQ5,Western Baltic / Ajax / Phonix Way / Packard,2005,listed
+870,URSUS,9289532,314001077,314001077,Barbados,Chemical/Oil Products Tanker,8PZQ4,Western Pacific / Apollon / Lupus Two / Bridget,2005,listed
+872,PROMETEI,9296597,667001378,667001378,Sierra Leone,Oil Products Tanker,9LU2181,Challenge Premier / Odori,2005,listed
+873,ZANGAZUR,9420617,423530100,423530100,Azerbaijan,Crude Oil Tanker,4JUD,Solea / Shah Deniz / Zarifa Aliyeva / Silver,2010,listed
+874,BERRA,9308821,667001451,667001451,Sierra Leone,Crude Oil Tanker,9LU2254,Corcovado / Zuma,2005,listed
+875,BRAVIS,9439400,314001132,314001132,Barbados,Crude Oil Tanker,8PZX3,Totonno Bottiglieri / Ps Venezia / Casper / Mylasa / Orsa,2010,listed
+876,KARABAKH,9810513,423520100,423520100,Azerbaijan,Crude Oil Tanker,4JUC,Sperchios,2018,listed
+877,D BAYERO,9288954,215817000,215817000,Malta,Chemical/Oil Products Tanker,9HVA7,Mariner A / Dawha Spirit,2005,listed
+878,MINERVA PACIFICA,9325831,256332000,256332000,Malta,Oil Products Tanker,9HA3888,Challenge Plus,2006,listed
+879,NORD STAR,9323596,352003296,,unknown,Crude Oil Tanker,3E7463,Altarf Star / Bahri Rose,2006,listed
+894,URSUS ARCTOS,9297369,636022405,636022405,Liberia,Crude Oil Tanker,5LIP9,British Falcon / Aristodimos,2006,listed
+895,SKIRON,9247443,613471210,613471210,Cameroon,Crude Oil Tanker,TJM0007,Americas Spirit / Concord Express / Morpheus / Quartanus / Magnus,2003,listed
+896,SATNA,9253234,613814700,613814700,Cameroon,Chemical/Oil Products Tanker,TJMK3,Pink Star / Kaltene / Berenike / Glyfada / Gurudev,2003,listed
+897,RUNA,9314882,613411500,613411500,Cameroon,Chemical/Oil Products Tanker,TJMR08,Antares / Amphitrite / Mystras / Himalaya,2006,listed
+898,SARD,9318034,613003744,,Cameroon,Chemical/Oil Products Tanker,TJMC144,West Point / Arctic Bay / Atlantica Bell / Olive,2006,listed
+899,SOFIA K,9299123,352002667,352002667,Panama,Oil Products Tanker,3E4989,Stena Paris / Tango A,2005,listed
+900,HACI KEMAL KA,9315757,271049605,271049605,Turkey,Chemical/Oil Products Tanker,TCA6729,Adonis / Arionas / Seaways Bodie,2006,listed
+901,BOLTARIS,9251456,610000052,610000052,unknown,Oil Products Tanker,TYAF6,Meriom Jade / Port Stewart / Port S / Trident Serenity / Daphne I,2003,listed
+902,DUKE OF PEACE,9326861,636020980,636020980,Liberia,Oil Products Tanker,5LBR2,Marilee / Lila Gothenburg,2006,listed
+903,ALTAI,9446427,538004508,538004508,Marshall Islands,Crude Oil Tanker,V7XL4,Neverland Star,2011,listed
+905,CENTURION,9380673,667001255,667001255,Sierra Leone,Crude Oil Tanker,9LU2058,Nippon Princess,2008,listed
+906,LLEVANT,9399480,352004616,352004616,Panama,Crude Oil Tanker,3E6898,Northia / Front Thor,2010,listed
+907,BALTIC STAR,9327396,636023657,636023657,Liberia,Chemical/Oil Products Tanker,5LOT9,Baltic Freedom,2006,listed
+908,ASLAN KHADARCEV,9297199,273440780,273440780,russian federation,Oil Products Tanker,UHAP,Armada Trader,2004,listed
+909,SAFEEN BARONESS,9460576,538010321,538010321,Marshall Islands,Crude Oil Tanker,V7A5891,Pamisos / Baroness,2011,listed
+910,BLUE TALU,9334557,613427200,613427200,Cameroon,Oil Products Tanker,TJM17E,Sanko Harmony / STI Harmony / Polar Cod / Megali / Lydia,2007,listed
+911,SHUSHA,9779941,423519100,423519100,Azerbaijan,Crude Oil Tanker,4JUB,Aristoklis,2017,listed
+912,SAFEEN ELONA,9488011,538010608,538010608,Marshall Islands,Crude Oil Tanker,V7A7141,Champion Prince / Elona,2012,listed
+913,GENJI,9289738,613511607,613511607,Cameroon,Oil Products Tanker,TJMW24,High Valor / Atoll / Sappho,2005,listed
+917,AVERO,9250737,314001139,314001139,Barbados,Crude Oil Tanker,8PZY2,African Spirit / Kriti Breeze / Ijemo / Oryx,2003,listed
+918,ALATAU,9416551,538004518,538004518,Marshall Islands,Crude Oil Tanker,V7XM9,Neverland Sun,2009,listed
+920,INDRAS,9314894,667001223,667001223,Sierra Leone,Chemical/Oil Products Tanker,9LU2026,Arion / Mythos,2006,listed
+924,MILLEROVO,9035541,273351980,273351980,russian federation,Chemical/Oil Products Tanker,UBLJ4,Marshal Tukhachevskiy,1997,listed
+925,NOBEL,9105114,Call sign,613709612,Cameroon,Chemical/Oil Products Tanker,Vessel name,Tula / Nina Victory / Neatis,1997,listed
+926,VICTORY LIGHT,9161871,352003191,352003191,Panama,Chemical/Oil Products Tanker,3E6059,Chemstar King / SC Shantou / Ocean Spirit,1998,listed
+927,CILICIA,9171175,273436640,273436640,russian federation,Chemical/Oil Products Tanker,UENV,Astrakhan / Stepan Makarov / Prodromi / Ice Eagle,2000,listed
+928,BERNICE,9220926,311001527,311001527,Bahamas,Chemical/Oil Products Tanker,C6HP3,Valle Di Castiglia / Ginza,2001,listed
+930,ADALYNN,9231767,Call sign,,Antigua and Barbuda,Crude Oil Tanker,Vessel name,Unicorn / Heydar Aliyev / Supreme / Clara / Lara I / Mission / Camelia,2002,listed
+931,MAISHA,9232929,631010092,304743000,Equatorial Guinea,Crude Oil Tanker,3CAN11,SKS Sira / Cape Bellavista / Cape Bella V,2002,listed
+932,WEST HORIZON,9337327,630001238,352003751,Guinea-Bissau,Chemical/Oil Products Tanker,J5BB2,Fr8 Spirit / Navig8 Spirit / T Rex / Beks T Rex / Jazz,2006,listed
+934,OASIS II,9167150,371744000,371744000,Panama,Crude Oil Tanker,3EIZ8,Robert Maersk / Maersk Rapier / Dolicha Bay / Ukede / Tuna,2000,listed
+937,MD MIRANDA,9198290,570101472,570101472,unknown,Oil Products Tanker,T8A4987,Angelica An / Abalone / Md Miranda / Covenant Gold,1999,listed
+938,NOBEL M,9228784,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel name,Antignano / Duke I / Rma,2002,listed
+941,ESENTEPE,9247508,352003670,352003670,Panama,Chemical/Oil Products Tanker,3E4792,Hans Scholl,2004,listed
+944,PIONEER,9255282,273254770,273254770,russian federation,Chemical/Oil Products Tanker,UAVA4,Futura / Sehnaz Ka,2004,listed
+946,STARWAY,9273246,352004620,352004620,Panama,Chemical/Oil Products Tanker,3E6902,Resolve / Buddha / Butterfly,2004,listed
+948,KHALASI,9293997,Call sign,626463000,Gabon,Chemical/Oil Products Tanker,Vessel name,Ray G / Astrea / Strea,2006,listed
+949,GRACEP,9252967,314105000,314105000,Barbados,Crude Oil Tanker,8PPA,Harmony / Baku / Cira I / Wind,2003,listed
+950,SOUTH STAR,9263186,Call sign,630001103,Guinea-Bissau,Chemical/Oil Products Tanker,Vessel name,Mount Rainier / Hafnia Rainier / Beks Blue / Seal,2004,listed
+953,MARKAB,9441958,626459000,626459000,Gabon,Chemical/Oil Products Tanker,TRBQ2,Neta / Pan Adventure / Bomar Haumea / Marmea,2008,listed
+956,SEA RAKER,9266762,255916308,255916308,Portugal,Crude Oil Tanker,CQ2737,Formosaproduct Brick / FPMC P Venus / Formosa Falcon / Sino Pacific / Super Sky / Junior G / JAG,2005,listed
+957,CAPIBARA,9267027,525107008,525107008,Indonesia,Chemical/Oil Products Tanker,YBZJ2,Meriom Breeze / King Emerald / Maritime Amanda / Bull Kangean,2004,listed
+958,CLYDE,9269245,352001515,352001515,Panama,Crude Oil Tanker,3E2526,Michele Iuliano / Altius / Newlead Avra / Avra / BW Isis / BW Clyde,2004,listed
+959,BRONX,9391414,636022962,636022962,Liberia,Chemical/Oil Products Tanker,A8QQ5,Conti Humboldt / Nordic Humboldt,2008,listed
+960,MILANO,9286059,636022825,636022825,Liberia,Chemical/Oil Products Tanker,5LKQ4,Baltic Sun / Baltic Sun II,2005,listed
+962,OKYROE,9273088,538002621,538002621,Marshall Islands,Oil Products Tanker,V7KH9,Juniper 8 / Omega King / Everhard Schulte,2004,listed
+963,KOCATEPE,9274666,352003673,352003673,Panama,Chemical/Oil Products Tanker,3E4795,Leinestern / Bro Erik / Furevik,2005,listed
+965,GEA,9292591,215924000,215924000,Malta,Chemical/Oil Products Tanker,9HAF8,Flags (former),2005,listed
+966,SATURN A,9293337,305007000,305007000,Antigua and Barbuda,Oil Products Tanker,V2YT3,Castillo De Trujillo / Nukar,2004,listed
+967,DUOS,9293959,613902601,636022012,Cameroon,Oil Products Tanker,TJME6,Miss Claudia / Olympic Champion / Fotuo,2006,listed
+968,PHOENIX CROWN,9299496,525103018,525103018,Indonesia,Oil Products Tanker,YDAV4,Diana / Lihou / Phoenix An,2005,listed
+971,IRON WAVE,9248796,613271330,314974000,Cameroon,Oil Products Tanker,TJMOW6,Seaexplorer / Beks World / Sprit,2003,listed
+972,JUN TONG,9405057,613522701,613522701,Cameroon,Crude Oil Tanker,TJMY9,Fair Seas / Tai Shan,2008,listed
+973,INDUS 1,9360415,631010099,352002676,Equatorial Guinea,Oil Products Tanker,3CAN3,Mount Hope / Hafnia Hope / Aida / Kallos,2007,listed
+975,PACIFICOS,9288930,273616650,273616650,russian federation,Chemical/Oil Products Tanker,UBIY4,Garonne / Torm Garonne,2004,listed
+976,ELODIE I,9346873,613541500,352003497,Cameroon,Crude Oil Tanker,TJM41D,Mare Oriens / Aquarius II,2008,listed
+977,ATLANTICOS,9282986,273617650,273617650,russian federation,Chemical/Oil Products Tanker,UBIY5,Loire / Torm Loire,2004,listed
+978,VELES,9299173,273337270,273337270,russian federation,Chemical/Oil Products Tanker,UAZH,Besiktas Baltic / Guildo / Baltic Eagle,2004,listed
+979,BLAGE,9275763,Call sign,,Vanuatu,Oil Products Tanker,YJRH2,Reinemar / Overseas Reinemar / Freight Margie / Beks Solar / Page,2004,listed
+980,ODIN,9151890,273426280,273426280,russian federation,Oil Products Tanker,UIHY,Tarndal,1998,listed
+981,NIMBUS SPB,8821761,273350170,273350170,russian federation,Oil Products Tanker,UBQI9,Nimbus,1991,listed
+982,KORD ATLANTIC,9299161,273454890,273454890,russian federation,Chemical/Oil Products Tanker,UBYS9,Besiktas Arctic / Gascogne / Syrtos,2004,listed
+983,CROCO,9327360,273275160,273275160,russian federation,Chemical/Oil Products Tanker,UARE3,Baltic Faith / Advantage Party / Caria Ka / Aria,2006,listed
+985,ARNO BABAJANYAN,9163764,273210470,273210470,russian federation,Oil Products Tanker,UBSU3,Sichem America / Bro Jupiter / Lama,1999,listed
+987,IMMANUEL,9056571,273378220,273378220,russian federation,Oil Products Tanker,UBLM2,Betty Theresa / Energizer,1995,listed
+988,PARTIZANSK,8700096,273336730,273336730,russian federation,Oil Products Tanker,UCUK,Trodos,1988,listed
+989,ZAMBRA,9175078,613004200,613004200,Cameroon,Crude Oil Tanker,TJMF13,Oliver Jacob / New Trust,1999,listed
+990,SONA,9428358,667001318,667001318,Sierra Leone,Oil Products Tanker,9LU2122,Ionian Wave / Banksy / Uacc Sila / Uog Andros / Mastic / Xue Song,2009,listed
+991,JASPER,9299886,577376000,577376000,Vanuatu,Chemical/Oil Products Tanker,YJRB9,NCC Hijaz / Beks Robin / Wall,2005,listed
+992,NOVA,9379052,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel name,Ocean Autumn,2009,listed
+993,ESTELLA,9308170,613447024,613447024,Cameroon,Crude Oil Tanker,TJM3W,Ocean Jupiter,2007,listed
+996,VOLGA RIVER,9435363,273339920,273339920,russian federation,Chemical/Oil Products Tanker,UHYN,Araz River,2008,listed
+1004,FINA A,9283306,550071125,550071125,unknown,Crude Oil Tanker,4WAF9,Maersk Pristine / Venice / Venice A / Buddha,2004,listed
+1005,CAI YUN,9437983,667001407,667001407,Sierra Leone,Crude Oil Tanker,9LU2210,D. T. Vincenzo P. / SN Olivia / Oilmeda / Claret Prince / Ocean Prince / Nan Hai,2010,listed
+1006,MANTA,9424651,667001259,667001259,Sierra Leone,Oil Products Tanker,9LU2062,High Strength / Di Matteo,2009,listed
+1008,PERIDOT,9259991,613472030,613472030,Cameroon,Chemical/Oil Products Tanker,TJMS30,Prostar / Baltic Wave / Beks Tango / Sezar,2003,listed
+1009,BARENTS,9384447,273279830,273279830,russian federation,Chemical/Oil Products Tanker,UARD2,Rn Murmansk / Shanghai / Ji Shun,2009,listed
+1010,WHITE CONDOR I,9255244,613445620,613445620,Cameroon,Oil Products Tanker,TJM22G,St. Marco / Marco / Maersk Michigan / Bolognia Falcon,2003,listed
+1011,VALENTE,9288863,Call sign,,unknown,Crude Oil Tanker,Vessel name,HS Norma / Neverland Soul / Seaqueen / Victory / Ector,2004,listed
+1012,LOGANO,9292589,613271827,352003750,Cameroon,Crude Oil Tanker,TJMS45,Ocean Neptune / Super Emerald / Beks Arda / Team,2005,listed
+1013,BLUE EMBER,9273442,668116394,668116394,Sao Tome and Principe,Oil Products Tanker,S9A3194,Kaspar Schulte / Sauger / Beks Lotus / Pier,2004,listed
+1014,OPAL,9286023,613472100,613472100,Cameroon,Crude Oil Tanker,TJMS40,Colin Jacob / Noemi / Meganisi / Karadeniz Powership Anatolia / Beks Wind / Next,2004,listed
+1015,AGATE,9310707,Call sign,577078000,unknown,Oil Products Tanker,Vessel name,Challenge Passage / Beks Bodrum / Vault,2005,listed
+1016,GRIF,9332028,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel name,Atlantic Blue / JO Kari / Aruna Zehra / Zehra / Niblo,2007,listed
+1017,OKEAN,9142916,273378580,273378580,russian federation,Oil Products Tanker,UBQN2,Flags (former),1996,listed
+1018,OSTROV RUSSKIY,9087714,273610060,273610060,russian federation,Chemical/Oil Products Tanker,UBKY6,Sinar Merak / Spring Cefiro / Eiwa Maru 17 / Eastern Dream,1994,listed
+1019,FORTIS,9395379,613702110,613702110,Cameroon,Crude Oil Tanker,TJMD6,Blue Jasper / Asian Jasper / Koro Sea / Pacific 01,2008,listed
+1020,THORIN,9330472,667001235,667001235,Sierra Leone,Crude Oil Tanker,9LU2038,Izumo Princess,2007,listed
+1021,IRA,9270749,613407300,314814000,Cameroon,Crude Oil Tanker,TJMC8Z,Pacific Oasis / Jag Prabha / Gauri / Bela,2004,listed
+1022,BELOMOR,9384435,273272930,273272930,russian federation,Chemical/Oil Products Tanker,UARD3,Rn Arkhangelsk / Ji Li I,2008,listed
+1023,LARK,9277759,Call sign,613003408,Cameroon,Oil Products Tanker,Vessel name,Nordmars / N. Mars / Nordmars / Crystal 1 / Lea / Lea I,2004,listed
+1024,MARBLE,9323974,613277612,613277612,Cameroon,Crude Oil Tanker,TJMOV2,River Eternity / Lr2 Eternity / Marta 1 / Creature,2006,listed
+1026,WU TAI,9419151,667001252,667001252,Sierra Leone,Crude Oil Tanker,9LU2055,United Honor / Leo / Helga,2010,listed
+1027,VARG,9335094,613661300,613661300,Cameroon,Chemical/Oil Products Tanker,TJMW9,Gulf Esprit / Wudi,2006,listed
+1028,XING CHEN,9550682,613511601,613511601,Cameroon,Crude Oil Tanker,TJMW2A,Summit Australia / UACC Falcon / Uog Aeolos,2009,listed
+1029,BRONCO,8808525,Call sign,,unknown,Oil Products Tanker,Vessel name,H. Ismail Kaptanoglu / Barracudas / Hik / Galloper / Toronto,2005,listed
+1030,RAGNAR,9384095,667001303,667001303,Sierra Leone,Chemical/Oil Products Tanker,9LU2106,Meriom Ruby / Mare Baltic / Jemma,2008,listed
+1031,MATARI,9253313,667001281,667001281,Sierra Leone,Crude Oil Tanker,9LU2084,Coral Sea / Coral I / Arabela,2003,listed
+1032,KUBERA,9292577,667001300,667001300,Sierra Leone,Crude Oil Tanker,9LU2103,Ocean Jupiter / Oriental Ruby / Kriti Emerald / Ricca / Nexus,2005,listed
+1034,JAMES II,9253909,511100897,511100897,unknown,Crude Oil Tanker,T8A4118,Astra / Waltz,2002,listed
+1035,FELIKS,9459242,667002315,667002315,Sierra Leone,Oil Products Tanker,9LS2018,Prime Express / Prime V / Nyon Express,2010,listed
+1037,LION I,9384069,613881403,613881403,Cameroon,Crude Oil Tanker,TJM19C,Saetta,2009,listed
+1039,VOZROZHDENIYE,9377779,273270940,273270940,russian federation,Crude Oil Tanker,UAZD8,Monterey / Monarch I,2007,listed
+1040,SARASWATI,9383869,613411502,613411502,Cameroon,Crude Oil Tanker,TJMRY2,Sarasota / Sarasota A,2008,listed
+1041,SAMADHA,9286281,667002428,667002428,Sierra Leone,Crude Oil Tanker,9LS2131,Athenian Olympics / Janet / Kaveri Spirit / Onisilos,2004,listed
+1042,MT KONSTANTINOVSK,9113276,273454260,273454260,russian federation,Oil Products Tanker,UDEQ,Brothers-2 / Stb-1,1994,listed
+1043,AKHTY,9435337,273338920,273338920,russian federation,Chemical/Oil Products Tanker,UHQR,Kura River,2008,listed
+1044,VOLGONEFT-160,8867129,273341100,273341100,russian federation,Oil Products Tanker,UHPG,Flags (former),1981,listed
+1045,VOLGONEFT-251,8231057,273349500,273349500,russian federation,Oil Products Tanker,UFMS,Flags (former),1975,listed
+1046,SERGEY TERSKOV,9637961,273387430,273387430,russian federation,Crude Oil Tanker,UEAR,Flags (former),2016,listed
+1049,SANAR-18,9645011,273358170,273358170,russian federation,Oil Products Tanker,UBSI2,Vf Tanker-12,2012,listed
+1050,PRISMA,9299678,667001243,667001243,Sierra Leone,Crude Oil Tanker,9LU2046,Euroniki / Euronike,2005,listed
+1051,SEASONS I,9308950,613511209,613511209,Cameroon,Crude Oil Tanker,TJMW13,Maersk Producer / Zantoro / Sea Senor / Seenor,2006,listed
+1052,SMYRTOS,9389100,613411302,613411302,Cameroon,Crude Oil Tanker,TJMRO4,Myrtos,2009,listed
+1053,EVITA,9408530,613322700,613322700,Cameroon,Crude Oil Tanker,TJMD2,Southport,2008,listed
+1054,MONTE 1,9297553,613661400,613661400,Cameroon,Crude Oil Tanker,TJMD23,Montego,2006,listed
+1055,JI HANG,9281009,613829601,613829601,Cameroon,Crude Oil Tanker,TJM6Z,Everest Spirit / Luggati / Kai Fu,2004,listed
+1056,BIVOLA,9266865,667001237,667001237,Sierra Leone,Crude Oil Tanker,Vessel Type,British Holly / Sea Holly,2004,listed
+1060,LERUO,9385831,667002320,667002320,Sierra Leone,Oil Products Tanker,9LS2023,Pacific Vega / Alcyone T,2010,listed
+1062,ASTORIA,9166314,273453790,273453790,russian federation,Chemical/Oil Products Tanker,UBYS2,Flags (former),1999,listed
+1063,CHENG HE,9304629,613471907,613471907,Cameroon,Crude Oil Tanker,TJMO66,Rio Genoa / Ridgebury Nicholas A / Raptor,2007,listed
+1064,SHAH ISMAYIL KHATAI,9284116,423205100,423205100,Azerbaijan,Oil Products Tanker,4JMW,Flags (former),2005,listed
+1065,NASIMI,9397676,423046100,423046100,Azerbaijan,Oil Products Tanker,4JQB,Mahmud Afandi,2006,listed
+1067,DORRY,9298595,613271707,613271707,Cameroon,Chemical/Oil Products Tanker,TJMOE5,Filicudi M / Java,2005,listed
+1068,VIREL,9299874,613271506,613271506,Cameroon,Chemical/Oil Products Tanker,TJM0W5,NCC Najd / Beks Rose / Viper,2005,listed
+1078,YURI KORCHAGIN,9448968,273335620,273335620,russian federation,FSO,UBQF8,Flags (former),2009,listed
+1079,AGINSKOYE,8894536,273554300,273554300,russian federation,Bunkering Tanker,UELR,Flags (former),1983,listed
+1097,KAPITAN PSHENITSIN,8727941,273344600,273344600,russian federation,Oil Products Tanker,UEBQ,Volgoneft-168,1987,listed
+1118,NORDIC,9309007,636022737,636022737,Liberia,Crude Oil Tanker,5LBM4,Despina / Chemtrans Saturn,2006,listed
+1120,CHEM NICHOLAS,9374416,636013409,636013409,Liberia,Chemical/Oil Products Tanker,A8MS5,Beth / Spruce 1,2007,listed
+1123,HANNA,9397456,352004563,352004563,Panama,Chemical/Oil Products Tanker,3E6847,Blue Coral / STI Coral / Hellas Explorer / Alithini II,2008,listed
+1124,FLINT WIND,9314179,630001226,334900000,Guinea-Bissau,Oil Products Tanker,J5AZ8,Omega Theodore / Juniper 4 / Lorelei / Lion S,2007,listed
+1126,LING HONG,9408542,352005116,352005116,Panama,Crude Oil Tanker,3E8292,Nordic Bay / Suvretta,2008,listed
+1144,MARIEL,9247376,667002425,667002425,Sierra Leone,Crude Oil Tanker,9LS2128,Yannis P. / Alterego II / Camerona / Melogy,2002,listed
+1145,TRIUMF,9389095,273277840,273277840,russian federation,Crude Oil Tanker,UAYD9,Mindoro / Minion,2009,listed
+1146,INDRI,9247429,667002491,667002491,Sierra Leone,Crude Oil Tanker,9LS2194,European Spirit / European Spirit / Zeno I,2003,listed
+1148,VISION,9236016,Call sign,,unknown,Crude Oil Tanker,Vessel name,Anafi / Finesse / Aldus / Zenith / Rosa / Cros,2003,listed
+1149,SEGINUS,9256028,613426604,613426604,Cameroon,Oil Products Tanker,TJMR16,Inca / B Eva,2003,listed
+1152,JING HAI,9276597,314115000,314115000,Barbados,Crude Oil Tanker,8PPC,Minerva Lisa,2004,listed
+1156,EVERDINE,9382073,307170000,307170000,unknown,Oil Products Tanker,P4AA09,Challenge Point / Starman / Antares I,2008,listed
+1159,LYCIA KA,9327384,538007532,538007532,Marshall Islands,Chemical/Oil Products Tanker,V7TL5,Baltic Force / Advantage Point,2006,listed
+1171,NEMRUT,9439541,632001147,632001147,unknown,Crude Oil Tanker,3X2120,Sea Hope / Bay Trezor,2009,listed
+1172,MILOU,9335123,309832000,309832000,Bahamas,Chemical/Oil Products Tanker,C6VP9,Gulf Moon,2007,listed
+1174,PORTOFINO,9564671,311001115,311001115,Bahamas,Oil Products Tanker,C6FI2,Iris Victoria,2010,listed
+1175,DUMBLEDORE,9325611,311001104,311001104,Bahamas,Oil Products Tanker,C6FG5,Freja Selandia / Star Falcon,2007,listed
+1183,BHILVA,9439383,352004905,352004905,Panama,Crude Oil Tanker,3E7129,Giovanni Battista De Carlini / Ps Genova,2010,listed
+1184,TORX,9311610,352005255,352005255,Panama,Crude Oil Tanker,3E8395,Eton / Miltiadis M II / Seaways Saugerties / Umnenga IІ,2006,listed
+1185,AURA 1,9472634,352005472,352005472,Panama,Crude Oil Tanker,3E8729,Power / Advantage Anthem / Amax Anthem,2011,listed
+1186,BALU 6,9460564,352005437,352005437,Panama,Crude Oil Tanker,3E8702,Kalamas / P. Yanbu,2011,listed
+1187,JEWEL,9419450,374987000,374987000,Panama,Crude Oil Tanker,3E8712,True / Advantage Avenue / Amax Avenue,2010,listed
+1188,MARJORIE,9296377,577678000,577678000,Vanuatu,Crude Oil Tanker,YJRD6,Navigator / Princimar Loyalty / Tokyo Spirit / Chios,2006,listed
+1189,SAMOS,9408190,Call sign,314001145,unknown,Crude Oil Tanker,Vessel name,Glorycrown / Bay Demetra,2009,listed
+1190,BOLU,9439539,613271610,613271610,Cameroon,Crude Oil Tanker,TJM08A,Sea Bay / Bay Grammy,2009,listed
+1191,CENTURION I,9436020,352005238,352005238,Panama,Crude Oil Tanker,3E8383,V8 Stealth II / Cape Avon / Crude Centurion,2010,listed
+1192,DOVE,9297541,352005301,352005301,Panama,Crude Oil Tanker,3E8600,Bonita,2006,listed
+1193,NILANGA,9412452,667001290,667001290,Sierra Leone,Crude Oil Tanker,9LU2093,United Fortitude / Elli,2010,listed
+1194,SEARUN,9384564,314001157,314001157,Barbados,Crude Oil Tanker,8PQM,North Sea / Red Sun,2008,listed
+1195,TIGER WINGS,9358412,352005654,352005654,Panama,Crude Oil Tanker,3E8877,Torm Mathilde,2008,listed
+1197,TANGO 2,9389071,352005354,352005354,Panama,Crude Oil Tanker,3E8640,Scorpio,2009,listed
+1198,TIGER 6,9389083,352005486,352005486,Panama,Crude Oil Tanker,3E8740,Agrari,2009,listed
+1199,SARA SKY,9402328,667002520,667002520,Sierra Leone,Crude Oil Tanker,9LS2223,Kara Sea,2010,listed
+1200,OCEANID,9337341,352005769,352005769,Panama,Crude Oil Tanker,3E8967,Yasa Golden Marmara,2008,listed
+1201,OCEAN II,9233777,613661401,613661401,Cameroon,Crude Oil Tanker,TJMH14,Matisse / Cape Bowen / Bacaliaros / Amethyst Mts,2003,listed
+1202,LXH,9274525,352002251,352002251,Panama,Crude Oil Tanker,3E2237,Nordic Rio / Simoon,2004,listed
+1204,PRIMORYE,9236743,273210220,273210220,russian federation,Oil Products Tanker,UBET5,Searambler,2001,listed
+1205,HORIZZON,9334789,636022668,636022668,Liberia,Chemical/Oil Products Tanker,5LJW8,Jag Panna / Panna / STI Highlander / Nord Highlander / Mavrouda / The Loop,2007,listed
+1206,ARMADA LEADER,9260483,273448000,273448000,russian federation,Oil Products Tanker,UAWD,Flags (former),2002,listed
+1207,GALIASGAR KAMAL,9820776,352003039,352003039,Panama,Chemical/Oil Products Tanker,3E6589,Flags (former),2018,listed
+1208,STANISLAV GOVORUKHIN,9621596,273258520,273258520,russian federation,Chemical/Oil Products Tanker,UBXZ7,Bora Bora,2016,listed
+1209,BM FLOT-1,9640530,273355450,273355450,russian federation,Oil Products Tanker,UBFI6,Vf Tanker-5,2012,listed
+1210,NORTHERNLIGHT,9577123,249182000,249182000,Malta,Crude Oil Tanker,9HA6150,SCF Prudencia / Siena,2012,listed
+1212,CAROLINE BEZENGI,9224439,613271605,613271605,Cameroon,Crude Oil Tanker,TJM04S,SCF Altai / Aurora Borealis / Amoroza,2001,listed
+1214,ALEKSEY SAVRASOV,9645061,273355680,273355680,russian federation,Chemical/Oil Products Tanker,UDHR,Vf Tanker-17,2013,listed
+1215,DENVER,9382712,667001964,,Sierra Leone,Crude Oil Tanker,9LU2767,Seto Express / Black Swan / Swan,2007,listed
+1216,KATY,9323326,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel name,Jurkalne / Kalne / Kastrol,2006,listed
+1217,ALTURA,9292199,667001275,667001275,Sierra Leone,Crude Oil Tanker,9LU2078,Besiktas Dardanelles / Kayseri,2005,listed
+1218,KHANKENDI,9867621,423543100,423543100,Azerbaijan,Crude Oil Tanker,4JUW,Aristofanis,2020,listed
+1219,VELORA,9290373,667001274,667001274,Sierra Leone,Crude Oil Tanker,9LU2077,Besiktas Bosphorus / Konya,2005,listed
+1220,OSAR,9314820,667001665,667001665,Sierra Leone,Chemical/Oil Products Tanker,3E7476,Baltic Mariner / Baltic Mariner I / Oscar I,2006,listed
+1222,TRANQUIL SEA,9323340,613471021,613471021,Cameroon,Chemical/Oil Products Tanker,TJMOH1,Targale,2007,listed
+1223,URIEL,9336517,667001645,667001645,Sierra Leone,Oil Products Tanker,9LU2448,Classy Victoria / Lake Sturgeon / Stellaris,2007,listed
+1224,ZAGATALA,9498171,423306100,423306100,Azerbaijan,Oil Products Tanker,4JNP,Zengezur,2008,listed
+1225,ANABAR,9194012,273435910,273435910,russian federation,Oil Products Tanker,UBCW,Usinsk / Bozdag / Lagorta,2002,listed
+1226,BIRTHE THERESI,9083184,273352750,273352750,russian federation,Chemical/Oil Products Tanker,UHBI7,Anna Theresa / Birthe Theresa,1995,listed
+1227,FLANDRIA,8414477,273350220,273350220,russian federation,Chemical/Oil Products Tanker,UBBH2,Dutch Engineer,1986,listed
+1228,MARINSTRAUM,9390317,273358130,273358130,russian federation,Chemical Tanker,UDXN,Habip Amca / Burak Bey / Rn Magellan / Dumankaya,2007,listed
+1229,MAVERICK,9321562,Call sign,,Sierra Leone,Oil Products Tanker,Vessel Type,Elegant Victoria / Golden Shiner / Magnus,2007,listed
+1230,NAVIK,8920579,273250410,273250410,russian federation,Chemical/Oil Products Tanker,UBOZ3,Astrid Terkol / Stolt Kittiwake / Evrenye,1993,listed
+1231,NORDSTRAUM,9036284,273376490,273376490,russian federation,Oil Products Tanker,UBSN9,Annette Essberger / Alcoa Chemist,1992,listed
+1232,NOYABRSK,8915550,273358610,273358610,russian federation,Oil Products Tanker,UBXG6,Stolt Bente Terkol / Bente Terkol / Trans Vik / Gazpromneft Nord,1991,listed
+1233,OPHELIA,8010427,273345030,273345030,russian federation,Oil Products Tanker,UBAG8,Sioux,1981,listed
+1234,REVANCHE,9297149,273612850,273612850,russian federation,Chemical/Oil Products Tanker,UBJY5,FS Odin / FT Odin / Yusuf Uzun,2005,listed
+1235,BERGEN T,8918540,273353430,273353430,russian federation,Oil Products Tanker,UBMH3,Trollshell / Trollskald / Bergen Troll,1990,listed
+1236,MELITO CARRIER,8920581,273257120,273257120,russian federation,Chemical/Oil Products Tanker,UBUZ4,Sasi Terkol / Stolt Guillemot,1993,listed
+1237,RYAZAN,8915548,273357610,273357610,russian federation,Chemical/Oil Products Tanker,UBXG5,Stolt Lis Terkol / Lis Terkol / Trans Sund / Gazpromneft Zuid,1991,listed
+1238,SEA OWL I,9321172,620800094,352003677,Comoros,Oil Products Tanker,D6A4094,Breezy Victoria / Velos Ruby,2007,listed
+1239,THOTH,9164718,273253080,273253080,russian federation,Chemical/Oil Products Tanker,UADB9,Bow Master / Trans Holm,1999,listed
+1240,VANINO,8724779,273331620,273331620,russian federation,Oil Products Tanker,UEYS,Vostok / Nemunas,1986,listed
+1241,MIGJORN,9438406,352005443,352005443,Panama,Crude Oil Tanker,3E8706,Yasa Polaris / Pentathlon,2009,listed
+1242,AUTAN,9396763,352004858,352004858,Panama,Chemical/Oil Products Tanker,3E7089,Navig8 Malou / Pigi / Pyxis Malou / Grace Adalberht,2009,listed
+1243,CERS,9301902,352004632,352004632,Panama,Chemical/Oil Products Tanker,3E6913,Mare Di Ravenna / Falcon Nostos / Grace Lucrum,2006,listed
+1244,VENDAVEL,9432048,352004264,352004264,Panama,Crude Oil Tanker,3E7748,Demetrios / Grace Noel,2011,listed
+1245,GRACE ROMAVICTOR,9629926,636023572,636023572,Liberia,Chemical/Oil Products Tanker,5LOI9,STI Amber,2012,listed
+1246,AIGAIO PELAGOS,9667928,Call sign,,Liberia,Chemical/Oil Products Tanker,5LOE7,Evinos / Grace Ferrum,2013,listed
+1248,GRACE LEON,9380051,352005663,352005663,Panama,Oil Products Tanker,3E8885,Maersk Mikage / Rich Breeze / Grace Leo,2009,listed
+1288,AURA MARIS,9347308,Call sign,,Cameroon,Chemical/Oil Products Tanker,Vessel Type,CPO France / Huey,2008,listed
+1290,SINAR G,9323364,613271812,613271812,Cameroon,Chemical/Oil Products Tanker,TJMOW2,Usma,2007,listed
+1291,QUARTZ,9261401,613271504,613271504,Cameroon,Chemical/Oil Products Tanker,TJMOW3,Prosky / Baltic Wind / Beks Focus / Siren,2003,listed
+1292,MANDALA,9299135,613411304,613411304,Cameroon,Chemical/Oil Products Tanker,TJMR14,Stena Provence,2006,listed
+1295,YORIK,9183843,629009576,629009576,Gambia,Chemical/Oil Products Tanker,C5J678,Themsestern,2000,listed
+1296,SILVER TIGER,9234680,525007403,525007403,Indonesia,Chemical/Oil Products Tanker,YBGB2,Orontes / Chenab Spirit / Elbtank Denmark / Bull Flores,2002,listed
+1302,SAVIR LION,9306639,525121061,525121061,Indonesia,Crude Oil Tanker,YDFU3,Torm Mette / Maersk Petrel / Sembrani,2007,listed
+1303,HANUMAN,9295048,667002501,667002501,Sierra Leone,Oil Products Tanker,9LS2204,Gerhard Schulte / Skylark / Arin,2004,listed
+1305,ANKARA,9253777,352003672,352003672,Panama,Chemical/Oil Products Tanker,3E4794,Alicudi M,2004,listed
+1310,KOS,1024950,636025411,636025411,Liberia,Crude Oil Tanker,5LXH9,Flags (former),2025,listed
+1312,DUKE II,9254240,352001883,352001883,Panama,Crude Oil Tanker,3E3697,Moselle / Torm Moselle,2003,listed
+1313,SUNRISE,9279719,304201000,304201000,Antigua and Barbuda,Oil Products Tanker,V2YC7,Kudu / Avonden / Sea Helios,2004,listed
+1314,REVOLINER,9282558,352003819,352003819,Panama,Crude Oil Tanker,3E5906,High Priority / Priority / Priority C,2005,listed
+1315,PELAGOS,9292515,352004997,352004997,Panama,Crude Oil Tanker,3E7210,Erik Spirit / Breeze IІІ,2005,listed
+1316,ANNA MARIA P,9288368,636023192,636023192,Liberia,Oil Products Tanker,5LMM6,Ruby / Beacon Hill,2005,listed
+1317,THE SAUCE,9315769,636022654,636022654,Liberia,Chemical/Oil Products Tanker,5LDL8,Aiolos / British Emissary / Chemtrans Mars,2007,listed
+1318,CHIOS I,9792187,248109000,248109000,Malta,Crude Oil Tanker,9HA4517,Flags (former),2017,listed
+1329,OCEAN WAVE I,9356763,352146000,352146000,Panama,Crude Oil Tanker,3FLU2,Ocean Mercury,2008,listed
+1331,CONGA,9412000,249566000,249566000,Malta,Chemical/Oil Products Tanker,9HA6307,Zambezi Star / Norviken / Elvira,2010,listed
+1332,KASTOS I,9282297,352004029,352004029,Panama,Crude Oil Tanker,3E5413,Octavia / Ottavia / Dai Minh,2004,listed
+1333,BIRUNI,9248447,352002351,352002351,Panama,Crude Oil Tanker,3E2281,Grena / Grena Knutsen / Blue Lagoon I,2003,listed
+1334,MERENGUE,9309980,636022648,636022648,Liberia,Oil Products Tanker,5LAH2,Nord Bell / Luzern,2007,listed
+1335,POLLUX,9243320,352001721,352001721,Panama,Crude Oil Tanker,3E2564,Torm Ingeborg,2003,listed
+1378,JIN HUI,9430272,Call sign,,unknown,Chemical/Oil Products Tanker,Vessel name,Alpine Eternity / Celsius Roskilde / Yi Bao,2009,listed
+1380,GT HONOR,9258478,477205700,477205700,Hong Kong,Crude Oil Tanker,VRXE6,Serenity / Adafera / Neptune I,2004,listed
+1381,ZAL PARS 3,9211896,Call sign,,Iran,Oil Products Tanker,EPA4831,Hudson / Caspian Sprinter,1999,listed
+1382,STAR MM,9186625,Call sign,,unknown,Crude Oil Tanker,Vessel name,Rainbow Quest / Ocean Quest / Viviana / Loura B,1999,listed
+1387,KIARA M,9285823,268268900,,San Marino,Crude Oil Tanker,T7DZ5,Irene / Irene Sl / Mediterranean Glory / Gilos / Agilos / Nuncio / Hercules IІІ / Big Star,2004,listed
+1445,OMERA GALAXY,9592305,405000433,405000433,Bangladesh,Crude Oil Tanker,S2CV9,Nissos Delos,2012,listed
+1446,ODESSA,9633458,229070000,,Malta,Crude Oil Tanker,9HA3043,Flags (former),2013,listed
+1460,DINO,9923994,538009985,538009985,Marshall Islands,Crude Oil Tanker,V7A5424,Flags (former),2022,listed
+1464,ALIMEDON,9826720,636018682,636018682,Liberia,Crude Oil Tanker,D5QW7,Gagarin Prospect / Alexander,2018,listed
+1467,SEA HYMN,9412036,538010456,,Marshall Islands,Crude Oil Tanker,V7A6068,Brave Catherine / Stealth Skyros / Sea Hymn / Signal Alpha,2011,listed
+1471,SUNDORO,9430181,215473000,,Malta,Chemical/Oil Products Tanker,9HA5126,Fpmc 19,2009,listed
+1472,CHRYSALIS,9437684,636017134,,Liberia,Crude Oil Tanker,D5JL7,Avor / Stealth Majestic / Stealth Norvic,2010,listed
+1478,HE BO,9408554,376989000,376989000,Saint Vincent and the Grenadines,Crude Oil Tanker,J8B6783,Pacific Sky,2009,listed
+1479,INTEGRITY RACER,9270555,352005395,352005395,Panama,Crude Oil Tanker,3E8671,Island Courage / Stena Confidence / Quetta,2003,listed
+1481,KRITI VIGOR,9290397,511101857,511101857,Palau,Crude Oil Tanker,T8A5367,SCF Byrranga / United Kalavryta,2005,listed
+1482,CAPELLA MB,9343986,341157001,341157001,Saint Kitts and Nevis,Oil Products Tanker,V4HH5,Freja Fionia / Seabreeze / Stratilatis / Seven Pearls,2007,listed
+1483,MARVEN,9305556,Call sign,511101926,unknown,Crude Oil Tanker,Vessel name,Stena Arctica / Arctica,2005,listed
+1485,ELBUS,9290385,511101900,511101900,Palau,Crude Oil Tanker,T8A5426,SCF Aldan / United Leadership / Euroleader,2005,listed
+1486,ATMOS,9337418,511101914,511101914,Palau,Crude Oil Tanker,T8A5441,Rich Queen II / Patmos Warrior,2007,listed
+1487,SEADAR,9333785,314123000,314123000,Barbados,Crude Oil Tanker,8PPI,Pacific Condor / Capricorn Sun,2007,listed
+1503,AMBROSIA,9301029,309368000,,Bahamas,Crude Oil Tanker,C6VK2,Flags (former),2006,listed
+1507,NUSA MERDEKA,9249178,525121002,,Indonesia,Crude Oil Tanker,YCUS2,Neptune Voyager / Anavatos,2003,listed
+1518,GATTACA,9388807,352005806,,Panama,Crude Oil Tanker,3E8997,Ocean Voyager / Seajewel,2009,listed
+1519,SAVIR TIGER,9388730,525121076,,Indonesia,Crude Oil Tanker,YDJY3,Ocean Lady,2008,listed
+1525,BOURDA,9312846,636025005,,Liberia,Crude Oil Tanker,5LV17,Donegal Spirit,2006,listed
+1537,AFRAMAX RIVIERA,9282912,373638000,,Panama,Crude Oil Tanker,3EUK2,Temasek River,2005,listed
+1554,SUEZ ENCHANTED,9318084,636021924,,Liberia,Crude Oil Tanker,5LGI8,Matilda / Libya,2007,listed
+1555,SUEZ ICE SUPREME,9296418,636022121,,Liberia,Crude Oil Tanker,5LHH2,Ice Traveller / Ridgebury Lindy B,2007,listed
+1556,SUEZ PROTOPIA,9380893,636021925,,Liberia,Crude Oil Tanker,5LGI9,Apex Spirit / Aisha / 17 February,2008,listed
+1564,ANLAN,9346859,352005425,,Panama,Crude Oil Tanker,3E8696,Mare Italicum / Sea Falcon,2007,listed
+1569,KAI 1,9290361,352005520,,Panama,Crude Oil Tanker,3E8771,Seaoath / Oath,2005,listed
+1578,SEAZEN,9307152,371499000,371499000,Panama,Crude Oil Tanker,3ECZ3,Sanko Breeze / Atlantic Dawn / Aqua Pearl,2005,listed
+1579,FENOR,9252371,314898000,314898000,Barbados,Crude Oil Tanker,8P2364,Maratha / Lithuania / Pompei II / Spirit / Kiroho,2003,listed
+1626,PENELOPE,9540364,273356510,,russian federation,Chemical/Oil Products Tanker,UBWG3,Flags (former),2010,listed
+292,ARCTIC PIONEER,9256602,273272340,273272340,russian federation,LNG Tanker,UATD6,LNG Pioneer / Pioneer Spirit / Pioneer / Sputnik Energy,2005,listed
+293,ARCTIC VOSTOK,9216298,273278330,273278330,russian federation,LNG Tanker,UAOD7,LNG Rivers / Trader IV / Asya Energy / East Energy,2002,listed
+296,IRIS,9953523,273268340,273268340,russian federation,LNG Tanker,UADC7,North Star / North Sky,2024,listed
+297,ARCTIC METAGAZ,9243148,273262840,273262840,russian federation,LNG Tanker,UAFC8,Berge Everett / BW Suez Everett / BW Gdf Suez Everett / BW Everett / Metagas Everest / Everest Energy / Metagas Everest,2003,listed
+298,BURAN,9953509,273264340,273264340,russian federation,LNG Tanker,UADC4,Samsung 2580 / North Air,2023,listed
+299,VOSKHOD,9953511,273265340,273265340,russian federation,LNG Tanker,UADC5,North Mountain,2023,listed
+300,ZARYA,9953535,273267340,273267340,russian federation,LNG Tanker,UADC6,North Wind / North Way,2024,listed
+309,ARCTIC MULAN,9864837,273260840,273260840,russian federation,LNG Tanker,UAFC7,Mulan Spirit / Mulan,2024,listed
+356,LA PEROUSE,9849887,273279530,273279530,russian federation,LNG Tanker,UAPD6,SCF La Perouse,2020,listed
+363,CHRISTOPHE DE MARGERIE,9737187,273261260,273261260,russian federation,LNG Tanker,UARC5,Flags (former),2016,listed
+416,VALERA,9630004,461000243,461000243,Oman,LNG Tanker,A4DS5,Velikiy Novgorod,2014,listed
+691,PERLE,9630028,461001004,461001004,Oman,LNG Tanker,A4HA6,Pskov / Pearl,2014,listed
+1000,NORTH MOON,9958303,563231400,563231400,Singapore,LNG Tanker,9V8192,Flags (former),2024,listed
+1001,NORTH OCEAN,9958315,563239700,563239700,Singapore,LNG Tanker,9V8193,Flags (former),2024,listed
+1002,NORTH LIGHT,9958298,563225500,563225500,Singapore,LNG Tanker,9V8191,Flags (former),2024,listed
+1289,CLEAN VISION,9655456,256245000,256245000,Malta,LNG Tanker,9HA3863,Flags (former),2016,listed
+1293,CLEAN PLANET,9637507,538005351,538005351,Marshall Islands,LNG Tanker,V7CY8,Flags (former),2014,listed
+1294,CLEAN OCEAN,9637492,538005350,538005350,Marshall Islands,LNG Tanker,V7CY7,Flags (former),2014,listed
+1475,KUNPENG,9247194,354159000,354159000,Panama,LNG Tanker,HPIY,Sk Sunrise,2003,listed
+1476,LNG SOARS,9307205,314001150,314001150,Barbados,LNG Tanker,8PPN,Methane Lydon Volney / Gaslog Athens / Condor Lng / Cch Gas,2006,listed
+323,GARAKAC,7812945,613672601,613672601,Cameroon,Passenger / Ro-Ro Cargo Ship,TJM0092,Lider Baykan / Azov / Yusuf Ziya Onis / Ropax Yusufziya Onis / Dr.adnan Biren / Rainbow,1979,listed
+,KOROGLU,9347231,,423242100,,,,,,delisted_from_gur
+,SEA RAPTOR,9356751,,538011255,,,,,,delisted_from_gur
+,RAINBOW,9302126,,304183000,,,,,,delisted_from_gur
+,LARA,9269257,,636024873,,,,,,delisted_from_gur
+,SINO FAITH,9375575,,352002931,,,,,,delisted_from_gur
+,SINO SOURCE,9350850,,352003487,,,,,,delisted_from_gur
+,NORSTAR INVICTUS,9374844,,518998929,,,,,,delisted_from_gur
+,SINO PROSPERITY,9328132,,352003390,,,,,,delisted_from_gur
+,FITBURG,9250397,,375068000,,,,,,delisted_from_gur
+,VEZHEN,9937270,,229659000,,,,,,delisted_from_gur
