@@ -43,3 +43,5 @@ ne_coastline.geojson
 extended_transits_q1_2026.csv
 aisdk-*
 vessel_thumbs/
+tracks_q1_2026.csv
+trk-*.csv

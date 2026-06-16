@@ -30,8 +30,10 @@ CHOKEPOINTS = {
     'Bornholm':   (15.00, 55.10),
 }
 
-print("Loading...")
-df = pd.read_csv('extended_transits_q1_2026.csv', low_memory=False,
+import os as _os
+SRC = 'tracks_q1_2026.csv' if _os.path.exists('tracks_q1_2026.csv') else 'extended_transits_q1_2026.csv'
+print(f"Loading {SRC}...")
+df = pd.read_csv(SRC, low_memory=False,
                  usecols=lambda c: c in ('Latitude','Longitude','SOG'))
 df['Latitude']  = pd.to_numeric(df['Latitude'],  errors='coerce')
 df['Longitude'] = pd.to_numeric(df['Longitude'], errors='coerce')
