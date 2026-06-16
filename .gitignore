@@ -45,3 +45,7 @@ aisdk-*
 vessel_thumbs/
 tracks_q1_2026.csv
 trk-*.csv
+emodnet_tanker_baltic_avg.tif
+baltic_depth*.tif
+bt/
+tiles/
